@@ -1,0 +1,179 @@
+{
+  "profileAlternative": {
+    "name": "Varsha Vivek",
+    "headline": "Research Engineer at Amazon",
+    "location": "Greater Seattle Area",
+    "connections": "322"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Research Engineer",
+      "companyName": "Amazon",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "University of California San Diego",
+      "description": "Graduate Teaching Assistant for the course Big Data Analytics using Spark in Computer Science and Engineering",
+      "date1": "Sep 2017 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Graduate Student",
+          "date1": "Sep 2017 – Present",
+          "date2": "1 yr 11 mos"
+        },
+        {
+          "title": "Graduate Teaching Assistant",
+          "date1": "Apr 2018 – Jun 2018",
+          "date2": "3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Deep learning intern",
+      "companyName": "Arraiy",
+      "date1": "Jun 2018 – Sep 2018",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "NVIDIA",
+      "date1": "Jan 2017 – Jun 2017",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of California San Diego",
+      "degree": "Master's degree",
+      "date1": "2017",
+      "date2": "2019"
+    },
+    {
+      "title": "Birla Institute of Technology and Science, Pilani",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2013",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Leadership",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "Sports",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Cadence",
+      "count": "1"
+    },
+    {
+      "title": "Digital Image Processing",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Personality Project",
+        "Flappy Bird Game Implementation using Reinforcement Learning",
+        "Role of Context in Object Detection",
+        "Image Captioning",
+        "Visual Question Answering",
+        ". Emotion recognition and Gender Classi\fcation",
+        "Text Classif\fcation for Spam \ffiltering",
+        "Recommendation System"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "All India Rank 1"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ashwini-ramamoorthy/",
+      "text": "Graduate Student at Stanford University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/simrankapur/",
+      "text": "Software Engineer at Salesforce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikitha-lakshmanan/",
+      "text": "Software Engineering Intern at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karen-quadros-560611b7/",
+      "text": "UCLA Computer Science | BITS Computer Science & Silver Medalist | Viterbi India Scholar | Goa State Board Science Topper"
+    },
+    {
+      "user": "https://www.linkedin.com/in/parinitha-ganapathisubramaniam-kannan-915292112/",
+      "text": "Software Development Engineer at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shubhamjain1507/",
+      "text": "MS in Computer Science graduate from UCSD | Actively seeking full-time opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/riti-gupta-17909915/",
+      "text": "SWE Intern II at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pratikshakap/",
+      "text": "UCLA Computer Science | SDE Intern@Amazon | Seeking Full-Time SDE opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneha-gupta28/",
+      "text": "Graduate student at UCSD |Deep Learning |Machine Learning |Computer Vision |AI |Seeking full-time opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mathurmansi/",
+      "text": "Software Engineer at Facebook"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Assistant Project Lead",
+      "experience": "NIRMAAN Organization",
+      "description": "Education",
+      "date1": "Aug 2013 – Dec 2015",
+      "date2": "2 yrs 5 mos"
+    }
+  ],
+  "profile": {
+    "name": "Varsha Vivek",
+    "headline": "Research Engineer at Amazon",
+    "location": "Greater Seattle Area",
+    "connections": "322"
+  }
+}

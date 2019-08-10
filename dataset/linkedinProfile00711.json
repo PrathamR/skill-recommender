@@ -1,0 +1,174 @@
+{
+  "profileAlternative": {
+    "name": "Zach Mitchell",
+    "headline": "Web Developer",
+    "location": "Salt Lake City, Utah",
+    "connections": "500+",
+    "summary": "Full-stack developer and UX designer with an extensive background in the tech industry and a passion for building beautiful and modern applications."
+  },
+  "aboutAlternative": {
+    "text": "Full-stack developer and UX designer with an extensive background in the tech industry and a passion for building beautiful and modern applications."
+  },
+  "positions": [
+    {
+      "title": "Freelance Developer",
+      "companyName": "itBrand.co",
+      "date1": "Mar 2018 – Sep 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Freelance Developer",
+      "companyName": "Red Wall Marketing",
+      "date1": "Mar 2018 – Aug 2018",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Freelance Developer",
+      "companyName": "AffinityHQ Marketing",
+      "date1": "Jul 2017 – Dec 2017",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Technical Support",
+      "companyName": "Vivint Smart Home",
+      "date1": "Mar 2016 – May 2017",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Customer Service Representative",
+      "companyName": "JCPenney",
+      "date1": "Jun 2014 – Aug 2015",
+      "date2": "1 yr 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Utah",
+      "degree": "Bachelor's degree",
+      "date1": "2017",
+      "date2": "2020"
+    },
+    {
+      "title": "Utah Valley University",
+      "degree": "Business Administration and Management, General",
+      "date1": "2013",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Responsive Web Design"
+    },
+    {
+      "title": "Web Design"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "WordPress"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "SASS"
+    },
+    {
+      "title": "Adobe Photoshop"
+    },
+    {
+      "title": "Adobe XD"
+    },
+    {
+      "title": "CSS3"
+    },
+    {
+      "title": "Web Application Design"
+    },
+    {
+      "title": "Mobile Web Design"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/peterjsullivan/",
+      "text": "Co-Founder and Director at Winter Athlete Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/junjia-zhang0830/",
+      "text": "Teaching Assistant at University of Utah"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jlin98/",
+      "text": "Chemistry Intern at NuMat Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/remington-darger11235/",
+      "text": "Associate, Principal Investing at Macquarie Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lawrencerstubbs/",
+      "text": "Civil Engineering Consultant / Project Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/camille-bagnani-2185ba152/",
+      "text": "Freelance Videographer at Lassonde Entrepreneur Institute - University of Utah"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tyler-martinez/",
+      "text": "Business Intelligence Intern at JetBlue Airways"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karadobson/",
+      "text": "Operations Specialist at Code Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anders-jorgensen/",
+      "text": "Acquisition Analyst at IndustryPro | Finance and Economics Student at University of Utah"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zeke-greer/",
+      "text": "Sales Analyst at Apple"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Zach Mitchell",
+    "headline": "Web Developer",
+    "location": "Salt Lake City, Utah",
+    "connections": "500+",
+    "summary": "Full-stack developer and UX designer with an extensive background in the tech industry and a passion for building beautiful and modern applications."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "profileAlternative": {
+    "name": "Ashna Gupta",
+    "headline": "UX Design and Developer for cloud intern at SAP | Graduate Computer engineering student at San Jose State University",
+    "location": "San Jose, California",
+    "connections": "428"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "UX Design and Developer for cloud intern",
+      "companyName": "SAP",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Savitribai Phule Pune University",
+      "degree": "Bachelor's degree",
+      "date1": "2014",
+      "date2": "2018"
+    },
+    {
+      "title": "St. Joseph's High School",
+      "degree": "High school",
+      "date1": "2012",
+      "date2": "2014"
+    },
+    {
+      "title": "J H Ambani School",
+      "degree": "CBSE",
+      "date1": "2004",
+      "date2": "2012"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Author Age Prediction from Text",
+        "Google Analytics Customer Revenue Prediction",
+        "Smart Accident Prevention System",
+        "Spectrum Sharing in Cognitive Radio"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-krishna-reddy-jali/",
+      "text": "Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyaiyer06/",
+      "text": "Software Engineering Graduate Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramya-dharwada/",
+      "text": "Graduate Student at San Jose State University | Actively seeking internship opportunities for summer 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandhya-ramachandra/",
+      "text": "Software Intern at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devikajadhav95/",
+      "text": "Software Engineering Intern at Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darshilpkapadia/",
+      "text": "San Jose State University | Master of Science in Software Engineering | Actively seeking Internships for Summer 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shefaligautam/",
+      "text": "CPU Design/ Validation Intern at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/himanshu-gunjal/",
+      "text": "Full Stack Embedded Software Engineering Intern at CTI One Corporation at Silicon Valley"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Math Teacher",
+      "experience": "Bhumi",
+      "description": "Social Services",
+      "date1": "Oct 2017 – Apr 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Student Volunteer",
+      "experience": "National Service Scheme - Cummins College",
+      "description": "Social Services",
+      "date1": "2015 – 2017",
+      "date2": "2 yrs"
+    }
+  ],
+  "profile": {
+    "name": "Ashna Gupta",
+    "headline": "UX Design and Developer for cloud intern at SAP | Graduate Computer engineering student at San Jose State University",
+    "location": "San Jose, California",
+    "connections": "428"
+  }
+}

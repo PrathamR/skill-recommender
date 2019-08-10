@@ -1,0 +1,268 @@
+{
+  "profileAlternative": {
+    "name": "Pooja Ramaswamy",
+    "headline": "Actively seeking Co-op/full-time opportunities from Sept '19. Pursuing Masters in Computer Engineering in Data Science.",
+    "location": "San Francisco Bay Area",
+    "connections": "192",
+    "summary": "My strengths are: Good Communication Skills, Quick and enthusiastic learner and a Team worker."
+  },
+  "aboutAlternative": {
+    "text": "My strengths are: Good Communication Skills, Quick and enthusiastic learner and a Team worker."
+  },
+  "positions": [
+    {
+      "title": "Data Science Intern",
+      "companyName": "eKryp Inc",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Masters",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Udacity",
+      "degree": "Nanodegree",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {
+      "title": "National Institute of Technology Surat",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "GEMS Education",
+      "degree": "High School",
+      "date1": "2006",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "4"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "2"
+    },
+    {
+      "title": "Research",
+      "count": "4"
+    },
+    {
+      "title": "Project Management",
+      "count": "3"
+    },
+    {
+      "title": "Programming",
+      "count": "2"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "3"
+    },
+    {
+      "title": "Engineering",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "MySQL",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "2"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "2"
+    },
+    {
+      "title": "Embedded C",
+      "count": "2"
+    },
+    {
+      "title": "PHP",
+      "count": "1"
+    },
+    {
+      "title": "HTML5",
+      "count": "2"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "2"
+    },
+    {
+      "title": "jQuery",
+      "count": "1"
+    },
+    {
+      "title": "AngularJS",
+      "count": "2"
+    },
+    {
+      "title": "Unix",
+      "count": "1"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "1"
+    },
+    {
+      "title": "C (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Management",
+      "count": "3"
+    },
+    {
+      "title": "Teamwork",
+      "count": "2"
+    },
+    {
+      "title": "English",
+      "count": "1"
+    },
+    {
+      "title": "KnockoutJS",
+      "count": "1"
+    },
+    {
+      "title": "Jasmine Framework"
+    },
+    {
+      "title": "Finacle"
+    },
+    {
+      "title": "Finacle scripting"
+    },
+    {
+      "title": "Data Analytics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Marathi",
+        "Tamil"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Embedded Systems",
+        "Front End Web Development",
+        "MYSQL and PHP Programming",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ajith-balaji-nagarajan-1936ba169/",
+      "text": "Data Science Intern at eKryp Inc|Actively Seeking Co-Op/Full time opportunities in Data Science from September 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/het-shah11/",
+      "text": "Quality Engineering Intern at FUJIFILM Dimatix, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyasarma/",
+      "text": "Software Development Engineer at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/namdev-prabhugaonkar/",
+      "text": "Actively seeking summer 2019 internship/ CO-OP opportunities in the field of Embedded Systems."
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kesha-shah-2925b2135/",
+      "text": "Actively seeking internship for Fall 2019, Pursuing Masters in Software Engineering."
+    },
+    {
+      "user": "https://www.linkedin.com/in/harmeen-joshi/",
+      "text": "Software Developer Intern at Hewlett Packard Enterprise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kanishkamacherla/",
+      "text": "Actively seeking full-time opportunities in the fields of computer networks, cloud computing and software development."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sapanmdesai/",
+      "text": "Actively looking for full-time positions | Data Science | Machine Learning | Software Development"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vineelavelicheti/",
+      "text": "New Graduate seeking Full time Opportunities May 2019 | Data Analyst | Data Engineer | Software Engineer | Data Science"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Head Student Co-ordinator",
+      "experience": "SPICMACAY,SVNIT",
+      "date1": "Mar 2015 – Apr 2016",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "SPICMACAY, SVNIT",
+      "date1": "Mar 2013 – Apr 2015",
+      "date2": "2 yrs 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Pooja Ramaswamy",
+    "headline": "Actively seeking Co-op/full-time opportunities from Sept '19. Pursuing Masters in Computer Engineering in Data Science.",
+    "location": "San Francisco Bay Area",
+    "connections": "192",
+    "summary": "My strengths are: Good Communication Skills, Quick and enthusiastic learner and a Team worker."
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "profileAlternative": {
+    "name": "Kunal Pavashiya",
+    "headline": "Frontend Software Engineer Intern at Palo Alto Networks || MS Software Engineering at San Jose State",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Hello! I'm a Software Engineer! Absolutely in love with what I do and quite good at what I do.\nQuite a quick learner with 3+ years of experience writing code in various technologies .\nI'm currently a Graduate student at San Jose State University, studying M.S. in software Engineering.\nI’m a very quick-learner, able to quickly adapt to the any situation or trend, meanwhile maintaining a high level of efficiency and growth.\n\nMy Skillset/Armory :\nLanguages: C, C++, Java, JavaScript (JS), Python, C#.\nWeb Technologies: Node.js, Express.js, AngularJS, React JS, Redux, Ajax, CSS, HTML / HTML5, Bootstrap, XML, JSON, ES6.\nTools: JIRA, Backbase, Git, Eclipse, Docker, Kubernetes.\nAutomated Testing: Mocha, Jasmine.\nOperating Systems: Windows, Unix, Linux, MacOs.\nDatabase: Relational Databases (RDBMS) such as MySQL, SQL, Oracle, NoSQL Databases such as MongoDB, GraphQL.\nSoft Skills: Strong communications and social skills, Strong analytical and critical thinking skills, Excellent organization, time management, and interpersonal skills."
+  },
+  "aboutAlternative": {
+    "text": "Hello! I'm a Software Engineer! Absolutely in love with what I do and quite good at what I do.\nQuite a quick learner with 3+ years of experience writing code in various technologies .\nI'm currently a Graduate student at San Jose State University, studying M.S. in software Engineering.\nI’m a very quick-learner, able to quickly adapt to the any situation or trend, meanwhile maintaining a high level of efficiency and growth.\n\nMy Skillset/Armory :\nLanguages: C, C++, Java, JavaScript (JS), Python, C#.\nWeb Technologies: Node.js, Express.js, AngularJS, React JS, Redux, Ajax, CSS, HTML / HTML5, Bootstrap, XML, JSON, ES6.\nTools: JIRA, Backbase, Git, Eclipse, Docker, Kubernetes.\nAutomated Testing: Mocha, Jasmine.\nOperating Systems: Windows, Unix, Linux, MacOs.\nDatabase: Relational Databases (RDBMS) such as MySQL, SQL, Oracle, NoSQL Databases such as MongoDB, GraphQL.\nSoft Skills: Strong communications and social skills, Strong analytical and critical thinking skills, Excellent organization, time management, and interpersonal skills."
+  },
+  "positions": [
+    {
+      "title": "Frontend Software Engineer Intern",
+      "companyName": "Palo Alto Networks",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Tata Consultancy Services",
+      "description": "• Developed highly scalable website and mobile application for India’s largest private bank with estimated monthly visitors in the range of 60 Million. Handled and lead daily operations of a team of 10+ innovative people delivering high-quality applications.\n• Hands on experience in building functional, customer-facing and User-friendly UI ... ",
+      "date1": "Apr 2016 – Apr 2018",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Graduate Engineer",
+      "companyName": "BlueStar",
+      "date1": "Jun 2015 – Apr 2016",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "University of Mumbai",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "7"
+    },
+    {
+      "title": "AngularJS",
+      "count": "6"
+    },
+    {
+      "title": "React.js",
+      "count": "5"
+    },
+    {
+      "title": "Algorithms",
+      "count": "4"
+    },
+    {
+      "title": "Software Development",
+      "count": "2"
+    },
+    {
+      "title": "Data Structures",
+      "count": "3"
+    },
+    {
+      "title": "Front-end Development",
+      "count": "3"
+    },
+    {
+      "title": "Virtualization"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "C#",
+      "count": "4"
+    },
+    {
+      "title": "Node.js",
+      "count": "4"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "MongoDB",
+      "count": "4"
+    },
+    {
+      "title": "jQuery",
+      "count": "5"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "5"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "4"
+    },
+    {
+      "title": "HTML5",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "JIRA",
+      "count": "3"
+    },
+    {
+      "title": "Github",
+      "count": "3"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "3"
+    },
+    {
+      "title": "jQuery UI",
+      "count": "3"
+    },
+    {
+      "title": "REST API",
+      "count": "3"
+    },
+    {
+      "title": "SOAP",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "4"
+    },
+    {
+      "title": "Unix",
+      "count": "3"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "angular 2",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "docker",
+      "count": "2"
+    },
+    {
+      "title": "React Native",
+      "count": "2"
+    },
+    {
+      "title": "Redux.js",
+      "count": "2"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "mern",
+      "count": "2"
+    },
+    {
+      "title": "vmware"
+    },
+    {
+      "title": "php"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "2"
+    },
+    {
+      "title": "Unity3D",
+      "count": "4"
+    },
+    {
+      "title": "API Development",
+      "count": "3"
+    },
+    {
+      "title": "Mean Stack",
+      "count": "3"
+    },
+    {
+      "title": "Bitbucket",
+      "count": "2"
+    },
+    {
+      "title": "Backbase",
+      "count": "2"
+    },
+    {
+      "title": "Full-Stack Development",
+      "count": "2"
+    },
+    {
+      "title": "Database Management System (DBMS)",
+      "count": "2"
+    },
+    {
+      "title": "Back-End Web Development",
+      "count": "2"
+    },
+    {
+      "title": "kubernetes",
+      "count": "2"
+    },
+    {
+      "title": "Express.js",
+      "count": "2"
+    },
+    {
+      "title": "Mocha",
+      "count": "2"
+    },
+    {
+      "title": "react web",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "API creation for an e-commerce firm",
+        "Chat Bot",
+        "Employee data management",
+        "Hololens research projects",
+        "Multi level car parking",
+        "Web development for a leading Indian bank"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vrushali-jadhav/",
+      "text": "Software Engineer Intern at Wepay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yash-amin1/",
+      "text": "Software Engineer Intern at Nuage Networks from Nokia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hansraj-mathakar/",
+      "text": "Software Engieer Intern (DevOps/Site Reliability) at Informatica"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shivangigupta39/",
+      "text": "Actively seeking Fulltime opportunities - Master's student in San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vishwajeetkharote/",
+      "text": "Software Engineering Intern at Honda R&D Americas, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharwari-phadnis/",
+      "text": "Intern-Member of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akhianand/",
+      "text": "Software Engineer Intern at Glassdoor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nishthaatrey/",
+      "text": "Senior Full Stack Developer Intern at IBM"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kunal Pavashiya",
+    "headline": "Frontend Software Engineer Intern at Palo Alto Networks || MS Software Engineering at San Jose State",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Hello! I'm a Software Engineer! Absolutely in love with what I do and quite good at what I do.\nQuite a quick learner with 3+ years of experience writing code in various technologies .\nI'm currently a Graduate student at San Jose State University, studying M.S. in software Engineering.\nI’m a very quick-learner, able to quickly adapt to the any situation or trend, meanwhile maintaining a high level of efficiency and growth.\n\nMy Skillset/Armory :\nLanguages: C, C++, Java, JavaScript (JS), Python, C#.\nWeb Technologies: Node.js, Express.js, AngularJS, React JS, Redux, Ajax, CSS, HTML / HTML5, Bootstrap, XML, JSON, ES6.\nTools: JIRA, Backbase, Git, Eclipse, Docker, Kubernetes.\nAutomated Testing: Mocha, Jasmine.\nOperating Systems: Windows, Unix, Linux, MacOs.\nDatabase: Relational Databases (RDBMS) such as MySQL, SQL, Oracle, NoSQL Databases such as MongoDB, GraphQL.\nSoft Skills: Strong communications and social skills, Strong analytical and critical thinking skills, Excellent organization, time management, and interpersonal skills."
+  }
+}

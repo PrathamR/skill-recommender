@@ -1,0 +1,282 @@
+{
+  "profileAlternative": {
+    "name": "Akanksha Nagpal",
+    "headline": "Software Development Engineer-III @ Adobe",
+    "location": "San Jose, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Adobe",
+      "description": "- Building high throughput, low latency API's on multi-cloud platforms (AWS/Azure).\n- Involved in building near to real-time streaming platform using Kafka SDK supporting ingestion of 370K messages/sec, 353 MBPS\n- Developed end-to-end workflow for adding application-level and system-centric metrics using dropwizard SDK and new relic reporter.\n- Active involvement in presenting the team's work at platforms like XLDB conference.\nVideo: https://www.youtube.com/watch?v=jdS8WcJb3-I\nSlides: https://conf.slac.stanford.edu/xldb2018/sites/xldb2018.conf.slac.stanford.edu/files/Wed_LT8_Adobe%20Identity%20Graphs_UPDATED.pdf See less",
+      "date1": "Aug 2017 – Present",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Software Development Engineer-III",
+          "date1": "Aug 2017 – Present",
+          "date2": "2 yrs"
+        },
+        {
+          "title": "Software Developer Engineer - Test",
+          "date1": "Jan 2016 – Aug 2017",
+          "date2": "1 yr 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Research Assistant - UI/UX",
+      "companyName": "San Jose State University",
+      "description": "-Currently involved in researching about methodologies used in the process of designing user interface\n- Researching on how to enhance user experience when developing any application(Mobile/web)... ",
+      "date1": "Sep 2015 – Dec 2015",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Automation Engineering Intern",
+      "companyName": "Lyve Minds",
+      "description": "-Developed an automation framework for REStful web-services using Java, HTTP GET/POST and JSON\n-Integrated the framework with Continuous Integration Environments like Jenkins and TeamCity\n-Developed custom command line utility for performing translation of xml files writt... ",
+      "date1": "Jun 2015 – Aug 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Research Assistant - Big Data",
+      "companyName": "San Jose State University",
+      "description": "Did Extensive Research on:\n\n- Big data in Security\n- Testing Big data... ",
+      "date1": "Apr 2015 – Jun 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Omax Autos Ltd",
+      "description": "- Developed various ABAP reports/objects to present critical business data to end users in an interactive manner using charts and tables.\n\n- Developed and designed a system to capture leave data from Employee portal an... ",
+      "date1": "Jul 2012 – Jul 2014",
+      "date2": "2 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's Degree",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "Maharshi Dayanand University",
+      "degree": "Bachelor's Degree",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "39"
+    },
+    {
+      "title": "C++",
+      "count": "28"
+    },
+    {
+      "title": "SQL",
+      "count": "25"
+    },
+    {
+      "title": "Software Development",
+      "count": "16"
+    },
+    {
+      "title": "Project Management",
+      "count": "9"
+    },
+    {
+      "title": "Web Services",
+      "count": "1"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "HTML",
+      "count": "24"
+    },
+    {
+      "title": "C",
+      "count": "24"
+    },
+    {
+      "title": "JavaScript",
+      "count": "18"
+    },
+    {
+      "title": "MySQL",
+      "count": "15"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "11"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "10"
+    },
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "Eclipse",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "7"
+    },
+    {
+      "title": "Databases",
+      "count": "6"
+    },
+    {
+      "title": "Linux",
+      "count": "6"
+    },
+    {
+      "title": "Representational State Transfer (REST)",
+      "count": "2"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    },
+    {
+      "title": "REST"
+    },
+    {
+      "title": "Android"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "Tomcat"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Team Management",
+      "count": "9"
+    },
+    {
+      "title": "Leadership",
+      "count": "7"
+    },
+    {
+      "title": "Management",
+      "count": "6"
+    },
+    {
+      "title": "Customer Service",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/namansharma21/",
+        "text": "Naman is a logical thinker and has great qualities as a Team Leader. He is well versed with knowledge about programming languages and has a positive attitude towards exploring about trending technologies. He is an active learner and a smart thinker who knows how to maintain a balance between social, personal and professional life. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platform",
+        "Mobile Application Development",
+        "Web and Data Mining"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Android - MyTube Application",
+        "RESTful Web Application - BookShare",
+        "Healthcare Data Analysis",
+        "Location Based Mobile Application Testing",
+        "Order Management Module using Java & MySQL"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ektavaswani/",
+      "text": "Computer Scientist at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marie-zimmerman/",
+      "text": "Software Engineer Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yankishah/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/forammehta90/",
+      "text": "Senior Software Engineer at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akritisethi/",
+      "text": "Member of Technical Staff Intern, VMware| MS in CS at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maithiligole/",
+      "text": "Software Engineer at Walmart Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandni-balchandani-56884a58/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kaurishneet/",
+      "text": "Software Engineer III at Electronic Arts (EA)"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Art of Living",
+      "description": "Social Services",
+      "date1": "Jul 2010 – Present",
+      "date2": "9 yrs 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Akanksha Nagpal",
+    "headline": "Software Development Engineer-III @ Adobe",
+    "location": "San Jose, California",
+    "connections": "500+"
+  }
+}

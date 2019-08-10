@@ -1,0 +1,224 @@
+{
+  "profileAlternative": {
+    "name": "Nandini Shankar",
+    "headline": "Embedded Engineer Intern at Carbon",
+    "location": "San Jose, California",
+    "connections": "263",
+    "summary": "I have 6 years of experience in Active Safety Radar Based Systems. As Embedded Software Engineer, my responsibilities included\n* Developing software for Inter Processor Communication using Shared Memory, Semaphores,Device Drivers and Interrupt Controller.\n* Testing Radar algorithms such as Static Alignment and Blockage on Radar ECU.\n* Have worked on communication protocols such as SPI, I2C, UART and CAN.\n* PC re-simulation using low level logged data (from CAN and UDP) to verify the ADAS and Radar algorithms.\n* Integrating ADAS algorithms like Cross Traffic Alert, Lane Change Alert, Lance Change Assist, Cyclist Alert and so on into Side Radar Systems on NXP Race Runner Ultra Tri-Core Micro-controller. Owned the responsibility of the one of the core in the Radar ECU for the customer Jaguar Land Rover.\n* Understanding the customer requirements, designing, coding and testing them using the prerecorded live data from the test cars. Performing timely project releases, bug fixes for test cars was also part of my responsibilities.\n\nI am proficient in C and C++ with good knowledge of Lauterbach Trace 32, Eclipse, VisualStudio, CANalyzer, CANoe, MATLAB, Simulink, Plastics and FreeRTOS."
+  },
+  "aboutAlternative": {
+    "text": "I have 6 years of experience in Active Safety Radar Based Systems. As Embedded Software Engineer, my responsibilities included\n* Developing software for Inter Processor Communication using Shared Memory, Semaphores,Device Drivers and Interrupt Controller.\n* Testing Radar algorithms such as Static Alignment and Blockage on Radar ECU.\n* Have worked on communication protocols such as SPI, I2C, UART and CAN.\n* PC re-simulation using low level logged data (from CAN and UDP) to verify the ADAS and Radar algorithms.\n* Integrating ADAS algorithms like Cross Traffic Alert, Lane Change Alert, Lance Change Assist, Cyclist Alert and so on into Side Radar Systems on NXP Race Runner Ultra Tri-Core Micro-controller. Owned the responsibility of the one of the core in the Radar ECU for the customer Jaguar Land Rover.\n* Understanding the customer requirements, designing, coding and testing them using the prerecorded live data from the test cars. Performing timely project releases, bug fixes for test cars was also part of my responsibilities.\n\nI am proficient in C and C++ with good knowledge of Lauterbach Trace 32, Eclipse, VisualStudio, CANalyzer, CANoe, MATLAB, Simulink, Plastics and FreeRTOS."
+  },
+  "positions": [
+    {
+      "title": "Embedded Engineer Intern",
+      "companyName": "Carbon",
+      "description": "* Developing bootloader with Direct Firmware Update mode for Texas Instruments MCU via USB .\n* Developing an application which helps the user to switch between the different boot modes.",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Graduate Student",
+      "companyName": "San Jose State University",
+      "description": "1. 3 - way Radix Sort algorithm implementation on GPU using CUDA (Mar 2019 – Ongoing) :\n\nParallelize 3 way Radix Quick Sort and evaluate our implementation performance against already existing approach. Exploit the full benefit of Single Instruction Mutiple Thre... ",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Advanced Software Engineer",
+      "companyName": "Aptiv",
+      "description": "Developed PC re-simulation framework in visual studio, to verify the ADAS and Radar algorithms using low level logged data (from CAN and UDP). Developed mode for the framework, where user can feed in the test data and verify the particular algorithm, also use the same framework for the enhancement of the algorithm. This framework was us... ",
+      "date1": "Apr 2018 – Jul 2018",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Delphi",
+      "description": "* Owned the responsibility of the one of the core in the Tri-Core NXP Ultra RaceRunner micro-controller. Where my responsibilities included establishing Inter Processor Communication using Shared Memory between the three cores of S32R27 MC using Semaphores and also configured Memory Protection Unit(MPU). Have implemente... ",
+      "date1": "Apr 2015 – Apr 2018",
+      "date2": "3 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Apr 2015 – Apr 2018",
+          "date2": "3 yrs 1 mo"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Jul 2013 – Apr 2015",
+          "date2": "1 yr 10 mos"
+        },
+        {
+          "title": "Trainee Sofware Engineer",
+          "date1": "Jul 2012 – Jul 2013",
+          "date2": "1 yr 1 mo"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "SJCE",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2009",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Embedded Software",
+      "count": "10"
+    },
+    {
+      "title": "Embedded C",
+      "count": "9"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "8"
+    },
+    {
+      "title": "Electronics",
+      "count": "3"
+    },
+    {
+      "title": "Debugging",
+      "count": "2"
+    },
+    {
+      "title": "Programming",
+      "count": "2"
+    },
+    {
+      "title": "Microcontrollers",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "6"
+    },
+    {
+      "title": "C (Programming Language)",
+      "count": "4"
+    },
+    {
+      "title": "RTOS",
+      "count": "3"
+    },
+    {
+      "title": "Device Drivers",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "Linux",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "Simulink"
+    },
+    {
+      "title": "c++"
+    },
+    {
+      "title": "Vector CANalyzer",
+      "count": "1"
+    },
+    {
+      "title": "Targetlink"
+    },
+    {
+      "title": "WindRiver"
+    },
+    {
+      "title": "free rtos",
+      "count": "1"
+    },
+    {
+      "title": "trace 32"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sarath-h-a6257039/",
+        "text": "Nandini is truly dedicated and skilled professional. Its was a previlage for me to work with her.\n\nWe worked in the same team and she is highly skilled in the domain both in development and debugging skills. She has proficient knowledge in Programming and which was highly helpful in debugging and analysing critical issues in the project.\n\nShe was keen and patient in doing the task assigned and was always cheerful. Happy that she is pursuing her dreams and Wishing you the very best in all future endeavours. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/riti-gupta-17909915/",
+      "text": "SWE Intern II at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandhya-ramachandra/",
+      "text": "Software Intern at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/artikshetty/",
+      "text": "Graduate student in Computer Engineering at San Jose State University | Specialisation in Embedded Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-parakh-01724815a/",
+      "text": "Software Developer Engineer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devikajadhav95/",
+      "text": "Software Engineering Intern at Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anisha-batra/",
+      "text": "AWS Certified | Actively seeking Full-Time opportunities in DevOps/AWS or Automation Testing | MS in Computer Engineering, SJSU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madhuri-shiva-kumar/",
+      "text": "Actively seeking Full-time opportunities(May 2019)|Graduate CMPE student at SJSU|Specializing in Networks systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramya-dharwada/",
+      "text": "Graduate Student at San Jose State University | Actively seeking internship opportunities for summer 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bharath-vyas/",
+      "text": "Modem Firmware Engineer Intern at Qualcomm"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nandini Shankar",
+    "headline": "Embedded Engineer Intern at Carbon",
+    "location": "San Jose, California",
+    "connections": "263",
+    "summary": "I have 6 years of experience in Active Safety Radar Based Systems. As Embedded Software Engineer, my responsibilities included\n* Developing software for Inter Processor Communication using Shared Memory, Semaphores,Device Drivers and Interrupt Controller.\n* Testing Radar algorithms such as Static Alignment and Blockage on Radar ECU.\n* Have worked on communication protocols such as SPI, I2C, UART and CAN.\n* PC re-simulation using low level logged data (from CAN and UDP) to verify the ADAS and Radar algorithms.\n* Integrating ADAS algorithms like Cross Traffic Alert, Lane Change Alert, Lance Change Assist, Cyclist Alert and so on into Side Radar Systems on NXP Race Runner Ultra Tri-Core Micro-controller. Owned the responsibility of the one of the core in the Radar ECU for the customer Jaguar Land Rover.\n* Understanding the customer requirements, designing, coding and testing them using the prerecorded live data from the test cars. Performing timely project releases, bug fixes for test cars was also part of my responsibilities.\n\nI am proficient in C and C++ with good knowledge of Lauterbach Trace 32, Eclipse, VisualStudio, CANalyzer, CANoe, MATLAB, Simulink, Plastics and FreeRTOS."
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "profileAlternative": {
+    "name": "Rajas Tulpule",
+    "headline": "Software Development Engineer Intern at Amazon(AWS) | Actively looking for Fall Internship/Co-Op",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "I'm a graduate student at San Jose State University pursuing an MS in Software Engineering with a specialization in Enterprise Software Technologies and Cloud Computing & Virtualization. I'm passionate about developing software solutions for real world and business problems which enables the users and developers to use it with ease.\n\nTechnical Skills:\n● Programming Languages: Java, Android, Python,C, C++, JavaScript, JSON, XML, HTML5, CSS3, PHP, R\n● Frameworks: React, Redux, Flask, Node.js, express.js, passport.js, Material-UI\n● Web Services: REST, GraphQL, Domain Driven Design\n● Databases: SQL, SQLite, MongoDB, Firebase\n● Tools: Android Studio, Eclipse, GitHub, Arduino, Microsoft Office\n● Testing: Selenium"
+  },
+  "aboutAlternative": {
+    "text": "I'm a graduate student at San Jose State University pursuing an MS in Software Engineering with a specialization in Enterprise Software Technologies and Cloud Computing & Virtualization. I'm passionate about developing software solutions for real world and business problems which enables the users and developers to use it with ease.\n\nTechnical Skills:\n● Programming Languages: Java, Android, Python,C, C++, JavaScript, JSON, XML, HTML5, CSS3, PHP, R\n● Frameworks: React, Redux, Flask, Node.js, express.js, passport.js, Material-UI\n● Web Services: REST, GraphQL, Domain Driven Design\n● Databases: SQL, SQLite, MongoDB, Firebase\n● Tools: Android Studio, Eclipse, GitHub, Arduino, Microsoft Office\n● Testing: Selenium"
+  },
+  "positions": [
+    {
+      "title": "Software Development Engineer Intern",
+      "companyName": "Amazon",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Research Intern",
+      "companyName": "ANULOM TECHNOLOGIES PRIVATE LIMITED",
+      "description": "• Research Internship working on Image Processing, Big data and Machine Learning.\n• Compilation was used in next Anulom Project.\n• Also presented a seminar on latest trends in Image Processing to 50 students and faculty at PVG’s CoET, Pune.",
+      "date1": "Jun 2017 – Jul 2017",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Project Intern",
+      "companyName": "Darshana Industries Private Limited",
+      "description": "• Worked in a team to develop on an \"Indoor Factory Delivery Robot\" where I programmed using Arduino.\n• Developed an Android Application to control the robot.\n• Worked in a team to develop the robot using Arduino.... ",
+      "date1": "Dec 2016 – Jan 2017",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "WIKSATE SOLUTIONS PRIVATE LIMITED",
+      "description": "• Worked as a testing intern where I tested the Wiksate Website and App using Selenium and Java.\n• Conducted requirement analysis for Wiksate Solutions.\n• Took over the role Wiksate Student Ambassador for my College for a full semester.",
+      "date1": "Jun 2015 – Jul 2015",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Univesity of Pune",
+      "degree": "Bachelor's degree",
+      "date1": "2014",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "Data Structures"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Microsoft PowerPoint"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Microsoft Word"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Core Java"
+    },
+    {
+      "title": "JAVA"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Selenium"
+    },
+    {
+      "title": "MySql"
+    },
+    {
+      "title": "Android SDK"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Android"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "GraphQL"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Redux.js"
+    },
+    {
+      "title": "SQLite"
+    },
+    {
+      "title": "Firebase"
+    },
+    {
+      "title": "Passport.js"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "Selenium Testing"
+    },
+    {
+      "title": "Express.js"
+    },
+    {
+      "title": "Android Studio"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "German",
+        "Gujarati",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Classifying Contract Clause Data using Multi Class Classifier"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreeyavjoshi/",
+      "text": "Software Engineer Intern at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharwari-phadnis/",
+      "text": "Intern-Member of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saket-thakare/",
+      "text": "Software Engineering Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshay-jaiswal/",
+      "text": "Software Engineering Graduate Student | SDE intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kritijar/",
+      "text": "Software Engineer Intern at DocuSign"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saumyagoyal/",
+      "text": "Software Engineer Intern at PlayStation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aishwarya-iyer/",
+      "text": "Actively seeking Full-time/ Internship opportunities starting May 2019."
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikhil-limaye/",
+      "text": "Actively seeking internship opportunities for Fall 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishangote/",
+      "text": "Actively seeking part-time and full-time roles in Software Engineering | Machine Learning & Data Science Enthusiast"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Student coordinator of Training & Placement cell.",
+      "experience": "Pune Vidhyarthi Griha's College Of Engineering And Technology",
+      "description": "Education",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "International Service Director",
+      "experience": "Rotract Club of Pune Far East",
+      "description": "Social Services",
+      "date1": "Jun 2016 – May 2017",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Student Volunteer",
+      "experience": "Association of Students of Computer and Information Technology (ASCI), PVG's COET, Pune",
+      "description": "Education",
+      "date1": "Jul 2015 – May 2017",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "profile": {
+    "name": "Rajas Tulpule",
+    "headline": "Software Development Engineer Intern at Amazon(AWS) | Actively looking for Fall Internship/Co-Op",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "I'm a graduate student at San Jose State University pursuing an MS in Software Engineering with a specialization in Enterprise Software Technologies and Cloud Computing & Virtualization. I'm passionate about developing software solutions for real world and business problems which enables the users and developers to use it with ease.\n\nTechnical Skills:\n● Programming Languages: Java, Android, Python,C, C++, JavaScript, JSON, XML, HTML5, CSS3, PHP, R\n● Frameworks: React, Redux, Flask, Node.js, express.js, passport.js, Material-UI\n● Web Services: REST, GraphQL, Domain Driven Design\n● Databases: SQL, SQLite, MongoDB, Firebase\n● Tools: Android Studio, Eclipse, GitHub, Arduino, Microsoft Office\n● Testing: Selenium"
+  }
+}

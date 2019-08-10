@@ -1,0 +1,295 @@
+{
+  "profileAlternative": {
+    "name": "Saket Thakare",
+    "headline": "Software Engineering Intern at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am a results-driven professional with 2 years of experience in software development and deployment. Currently, I am pursuing a Masters of Science in Software Engineering at the San Jose State University specializing in Enterprise Software Technologies along with Cybersecurity.\n\nBeing a Full Stack Developer, I am passionate about building scalable and reliable software applications which can offer a good business value proposition to all the stakeholders.\n\nI have good command over various programming languages like Java, Python, C#, and JavaScript.\nBeing in the IT industry, I have practiced Full-Stack Web Development to build complex software applications with ease.\n\nTo further build my expertise as a developer, I endeavored into freelancing and founded Rozrost. Projects we signed were distinct and based on Computer Vision, Machine Learning and Computer Network. We took every project as a challenge and made sure to deliver an end-to-end solution, along with a satisfied client.\n\nI like to call myself a T-Shaped programmer wherein I possess sufficient knowledge about all the components of a full stack product development as well as specializing in Front-end development\n\n\nTechnical Skills:\n• Languages: Java, Python, Javascript, TypeScript, C#, C++\n• Databases: MySQL, MongoDB\n• Web Technologies: Angular, NodeJs, ReactJs, Redux, GraphQL\n• Practices: REST APIs, API documentation, Microservices\n• VCS: GitHub, GitLab, TFS\n• Cloud Providers: AWS, Heroku and Google Cloud\n• Build Tools: NPM, Maven, Gradle\n• Testing Frameworks: Chai, Mocha, JUnit\n• ORMs: Mongoose\n• Other: Unity3D, Photoshop, Agile, JIRA\n• Middleware: Apache Kafka"
+  },
+  "aboutAlternative": {
+    "text": "I am a results-driven professional with 2 years of experience in software development and deployment. Currently, I am pursuing a Masters of Science in Software Engineering at the San Jose State University specializing in Enterprise Software Technologies along with Cybersecurity.\n\nBeing a Full Stack Developer, I am passionate about building scalable and reliable software applications which can offer a good business value proposition to all the stakeholders.\n\nI have good command over various programming languages like Java, Python, C#, and JavaScript.\nBeing in the IT industry, I have practiced Full-Stack Web Development to build complex software applications with ease.\n\nTo further build my expertise as a developer, I endeavored into freelancing and founded Rozrost. Projects we signed were distinct and based on Computer Vision, Machine Learning and Computer Network. We took every project as a challenge and made sure to deliver an end-to-end solution, along with a satisfied client.\n\nI like to call myself a T-Shaped programmer wherein I possess sufficient knowledge about all the components of a full stack product development as well as specializing in Front-end development\n\n\nTechnical Skills:\n• Languages: Java, Python, Javascript, TypeScript, C#, C++\n• Databases: MySQL, MongoDB\n• Web Technologies: Angular, NodeJs, ReactJs, Redux, GraphQL\n• Practices: REST APIs, API documentation, Microservices\n• VCS: GitHub, GitLab, TFS\n• Cloud Providers: AWS, Heroku and Google Cloud\n• Build Tools: NPM, Maven, Gradle\n• Testing Frameworks: Chai, Mocha, JUnit\n• ORMs: Mongoose\n• Other: Unity3D, Photoshop, Agile, JIRA\n• Middleware: Apache Kafka"
+  },
+  "positions": [
+    {
+      "title": "Software Engineering Intern II",
+      "companyName": "Google",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Cognizant",
+      "description": "• Designed critical modules for scaling of 4 transactional portals to handle data of 3000 US hospitals\n• Increased portal’s load speed by 16 times by streamlining existing code and configuring the application for AOT build... ",
+      "date1": "Dec 2017 – Jun 2018",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Programmer Analyst",
+          "date1": "Dec 2017 – Jun 2018",
+          "date2": "7 mos"
+        },
+        {
+          "title": "Programmer Analyst Trainee",
+          "date1": "Dec 2016 – Nov 2017",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "Rozrost",
+      "description": "• Co-founded Rozrost to acquaint ourselves in the software industry\n• Projects were based on Computer Vision, Machine learning, Computer Network.\n• Administered requirements gathering, estimations, and development of custom software solution for multiple clients.... ",
+      "date1": "May 2014 – Dec 2016",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Project Intern",
+      "companyName": "GS Lab",
+      "description": "Developed a Customer Experience Management WebApp using Machine Learning and Natural Language Processing\n\n• Designed a data collector to parse data from e-commerce websites and real-time ... ",
+      "date1": "Sep 2015 – May 2016",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Summer Intern",
+      "companyName": "Reliance",
+      "description": "• Devised a system to harness unused compute power of the existing workstations, making no impact on users daily operations\n• Based on an analysis this system would utilize approximately 70% of a workstation’s idle CPU cycle over a week... ",
+      "date1": "Jun 2015 – Jul 2015",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "University of Pune",
+      "degree": "Bachelor's Degree",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "39"
+    },
+    {
+      "title": "Java",
+      "count": "29"
+    },
+    {
+      "title": "C",
+      "count": "39"
+    },
+    {
+      "title": "Algorithms"
+    },
+    {
+      "title": "Scalability"
+    },
+    {
+      "title": "Software Development",
+      "count": "7"
+    },
+    {
+      "title": "Programming",
+      "count": "12"
+    },
+    {
+      "title": "PHP",
+      "count": "8"
+    },
+    {
+      "title": "Linux",
+      "count": "12"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "10"
+    },
+    {
+      "title": "MongoDB",
+      "count": "5"
+    },
+    {
+      "title": "Photoshop",
+      "count": "3"
+    },
+    {
+      "title": "C#",
+      "count": "7"
+    },
+    {
+      "title": "Windows",
+      "count": "8"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "10"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "3"
+    },
+    {
+      "title": "Angular",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "React.js",
+      "count": "3"
+    },
+    {
+      "title": "Node.js",
+      "count": "3"
+    },
+    {
+      "title": "GraphQL",
+      "count": "1"
+    },
+    {
+      "title": "C (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "9"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Software Engineers"
+    },
+    {
+      "title": "LinkedIn"
+    },
+    {
+      "title": "Apache Kafka",
+      "count": "1"
+    },
+    {
+      "title": "Unity3D"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dayalprasad86/",
+        "text": "Saket has been excellent with his technical and functional capabilities and has contributed significantly to the success of the project. He has very good communication skills as well and an excellent team player. He has the never dying energy to keep going in any situation. He is an asset to any team."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Rising Star",
+        "Batch Topper",
+        "Performer of the Year",
+        "Rajya Puraskar"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Sentiment analysis on feature based categorization of product reviews",
+        "Proximity Reminder",
+        "Crime investigation predictor",
+        "Learning to detect patterns of crime"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Survey On Classification Techniques for Data Mining",
+        "Instant aircraft recovery during disaster using ADS-B technology."
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshay-jaiswal/",
+      "text": "Software Engineering Graduate Student | SDE intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaurasiar/",
+      "text": "SDE Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreeyavjoshi/",
+      "text": "Software Engineer Intern at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajastulpule/",
+      "text": "Software Development Engineer Intern at Amazon(AWS) | Actively looking for Fall Internship/Co-Op"
+    },
+    {
+      "user": "https://www.linkedin.com/in/goelshivani/",
+      "text": "Data Science Intern at Yahoo/Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sayali-patil-7b041078/",
+      "text": "Software Engineering Intern at WePay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/panpaliyat/",
+      "text": "CS Graduate student at SJSU | Software Developer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vedantbhoj/",
+      "text": "Full Stack Software Engineering Intern at HealthLevel | Graduate Student at SJSU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/namdev-prabhugaonkar/",
+      "text": "Actively seeking summer 2019 internship/ CO-OP opportunities in the field of Embedded Systems."
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Co-Founder, Developer",
+      "experience": "Codebazooka",
+      "description": "Science and Technology",
+      "date1": "2013 – 2015",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Technical Committee Head",
+      "experience": "Association of Computer Engineers",
+      "description": "Science and Technology",
+      "date1": "Sep 2013 – Jan 2016",
+      "date2": "2 yrs 5 mos"
+    }
+  ],
+  "profile": {
+    "name": "Saket Thakare",
+    "headline": "Software Engineering Intern at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am a results-driven professional with 2 years of experience in software development and deployment. Currently, I am pursuing a Masters of Science in Software Engineering at the San Jose State University specializing in Enterprise Software Technologies along with Cybersecurity.\n\nBeing a Full Stack Developer, I am passionate about building scalable and reliable software applications which can offer a good business value proposition to all the stakeholders.\n\nI have good command over various programming languages like Java, Python, C#, and JavaScript.\nBeing in the IT industry, I have practiced Full-Stack Web Development to build complex software applications with ease.\n\nTo further build my expertise as a developer, I endeavored into freelancing and founded Rozrost. Projects we signed were distinct and based on Computer Vision, Machine Learning and Computer Network. We took every project as a challenge and made sure to deliver an end-to-end solution, along with a satisfied client.\n\nI like to call myself a T-Shaped programmer wherein I possess sufficient knowledge about all the components of a full stack product development as well as specializing in Front-end development\n\n\nTechnical Skills:\n• Languages: Java, Python, Javascript, TypeScript, C#, C++\n• Databases: MySQL, MongoDB\n• Web Technologies: Angular, NodeJs, ReactJs, Redux, GraphQL\n• Practices: REST APIs, API documentation, Microservices\n• VCS: GitHub, GitLab, TFS\n• Cloud Providers: AWS, Heroku and Google Cloud\n• Build Tools: NPM, Maven, Gradle\n• Testing Frameworks: Chai, Mocha, JUnit\n• ORMs: Mongoose\n• Other: Unity3D, Photoshop, Agile, JIRA\n• Middleware: Apache Kafka"
+  }
+}

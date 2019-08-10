@@ -1,0 +1,329 @@
+{
+  "profileAlternative": {
+    "name": "Sphoorti Poojary",
+    "headline": "Seeking full-time software engineering position starting June 2019 | Graduate Student at San Jose State University",
+    "location": "San Jose, California",
+    "connections": "279",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in SQL, Java, C++, Python, JavaScript, data warehousing and object oriented design. Currently pursuing a Master's degree in Computer Science from San Jose State University"
+  },
+  "aboutAlternative": {
+    "text": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in SQL, Java, C++, Python, JavaScript, data warehousing and object oriented design. Currently pursuing a Master's degree in Computer Science from San Jose State University"
+  },
+  "positions": [
+    {
+      "title": "Graduate Teaching Assistant",
+      "companyName": "San Jose State University",
+      "description": "Assisting a class of 40 graduate students in their Machine Learning course\nGrading assignments, providing feedback",
+      "date1": "Jan 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Capgemini",
+      "description": "Design and development of enhancements and resolution of anomalies by root cause analysis\nCreated SSIS packages, wrote complex SQL scripts and stored procedures, debugged existing code\nDeveloped, tested, deployed and debugged ETL jobs... ",
+      "date1": "Oct 2016 – Jul 2017",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Oct 2016 – Jul 2017",
+          "date2": "10 mos"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Jul 2015 – Oct 2016",
+          "date2": "1 yr 4 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2017",
+      "date2": "2019"
+    },
+    {
+      "title": "St Francis Institute of technology Mumbai",
+      "degree": "Bachelor's degree",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Thakur college of science and commerce",
+      "degree": "Science",
+      "date1": "2009",
+      "date2": "2011"
+    },
+    {
+      "title": "St. Lawrence high school",
+      "degree": "High School",
+      "date1": "2000",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Programming",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "Computer Science"
+    },
+    {
+      "title": "Extract, Transform, Load (ETL)"
+    },
+    {
+      "title": "Business Intelligence"
+    },
+    {
+      "title": "Testing"
+    },
+    {
+      "title": "Strategy"
+    },
+    {
+      "title": "Customer Experience"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Bioinformatics"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "MySQL",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "3"
+    },
+    {
+      "title": "PHP",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "1"
+    },
+    {
+      "title": "Core Java"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "XML"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)"
+    },
+    {
+      "title": "Windows"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "Google Cloud Platform"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "Visual Studio"
+    },
+    {
+      "title": "Java Database Connectivity (JDBC)"
+    },
+    {
+      "title": "Unified Modeling Language (UML)"
+    },
+    {
+      "title": "Transact-SQL (T-SQL)"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "C (Programming Language)"
+    },
+    {
+      "title": "Teamwork",
+      "count": "1"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Customer Service"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "OpenFrameworks"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Advanced Programming Language Principles",
+        "Analysis of Algorithm and Design",
+        "Bioinformatics",
+        "Computer Architecture",
+        "Computer Graphics",
+        "Data Structures",
+        "Database System Principles",
+        "Distributed Computing",
+        "Graduate Technical Writing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Species Classification using Profile Hidden Markov Models",
+        "Recipe Recommender",
+        "Music Language",
+        "Prediction of Trust in Bitcoin networks",
+        "Crescendo",
+        "Data Integration of Cloud and Relational Databases",
+        "Microservices based architecture for a Hospital system"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Computer Society of India"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "TOEFL"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chandra-konjeti-650a6a/",
+      "text": "Consultant at Bank of America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kavitha-kotian-55a665139/",
+      "text": "Collections Officer at atlas documentary felicilators corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jason-avila-250520b/",
+      "text": "Director of IT, CISSP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rima-kotian-pt-ms-a54b6a8b/",
+      "text": "Physical Therapist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dilip-kumar-sahoo-255b3612/",
+      "text": "Team Lead at Accenture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coreyhubbard/",
+      "text": "Palm trees and fish on strings, pink castles and sandy things."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mahek-jasani-80970858/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-daroca/",
+      "text": "Sr. Scrum Master at DXC Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kanti-bhat/",
+      "text": "Masters in Computer Engineering - Actively seeking Software Development Position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rashmi-varma93/",
+      "text": "Actively seeking full time opportunities starting July 2019"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sphoorti Poojary",
+    "headline": "Seeking full-time software engineering position starting June 2019 | Graduate Student at San Jose State University",
+    "location": "San Jose, California",
+    "connections": "279",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in SQL, Java, C++, Python, JavaScript, data warehousing and object oriented design. Currently pursuing a Master's degree in Computer Science from San Jose State University"
+  }
+}

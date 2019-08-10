@@ -1,0 +1,242 @@
+{
+  "profileAlternative": {
+    "name": "Nikki Mukkala",
+    "headline": "NPI, Engineering & Programs at Samsara, Inc",
+    "location": "San Francisco Bay Area",
+    "connections": "311",
+    "summary": "• Program manager with a strong engineering background and proven experience in leading, coordinating & executing projects.\n• Robust technical experience in product design, machine design, 3D modeling, finite element analysis and manufacturing processes.\n\n\nModeling Softwares: Solidworks, Inventor, AutoCAD, Pro/E\nSimulation Softwares: ANSYS, Pro/Mechanica, MATLAB/Simulink\nOthers: Keyshot, MS Word, PowerPoint, Outlook, Excel, MS Project, JIRA"
+  },
+  "aboutAlternative": {
+    "text": "• Program manager with a strong engineering background and proven experience in leading, coordinating & executing projects.\n• Robust technical experience in product design, machine design, 3D modeling, finite element analysis and manufacturing processes.\n\n\nModeling Softwares: Solidworks, Inventor, AutoCAD, Pro/E\nSimulation Softwares: ANSYS, Pro/Mechanica, MATLAB/Simulink\nOthers: Keyshot, MS Word, PowerPoint, Outlook, Excel, MS Project, JIRA"
+  },
+  "positions": [
+    {
+      "title": "NPI, Engineering & Programs",
+      "companyName": "Samsara, Inc",
+      "date1": "Apr 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Technical Program Manager",
+      "companyName": "Tesla",
+      "date1": "May 2017 – Sep 2018",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Project Engineer",
+      "companyName": "Cornelius",
+      "description": "• Design and develop beverage dispensing equipment for Cornelius PepsiCo segment. Primary Modelling tool: Pro/E\n• Led multiple projects while efficiently collaborating with cross-functional team to release products to the market.... ",
+      "date1": "Jun 2014 – May 2017",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Mechanical Design Engineer",
+      "companyName": "MSP Inc.",
+      "description": "• Designed and developed roofing shingle manufacturing lines.\n• Developed strong expertise with AutoDesk Inventor Professional 2014, AutoDesk Vault Workgroup 2014, AutoCAD Mechanical 2014 in the development of 3D models of machinery, analysis and detailed drawings.... ",
+      "date1": "Feb 2013 – May 2014",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Intern- Design Engineer",
+      "companyName": "Weiss Technik Private Limited",
+      "description": "• Research in understanding Environmental test systems in Automotive Applications\n• Improved the design of an Environmental Chamber for automotive testing and created a 3D Model using Solidworks\n• Performed Structural and Thermal Analysis using ANSYS... ",
+      "date1": "May 2012 – Jul 2012",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "companyName": "NIDRR- Engineering Research center at UIC",
+      "description": "• Designed a Standalone Exercise Device for people with lower body disabilities.\n• Developed the 3D model using PRO/E.",
+      "date1": "Jan 2012 – May 2012",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Illinois at Chicago",
+      "degree": "Master of Science (MS)",
+      "date1": "2011",
+      "date2": "2012"
+    },
+    {
+      "title": "Osmania Univeristy, Chaitanya Bharathi Institute of Technology",
+      "degree": "Bachelor's degree",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Program Management"
+    },
+    {
+      "title": "Engineering",
+      "count": "9"
+    },
+    {
+      "title": "Agile Project Management"
+    },
+    {
+      "title": "Project Management",
+      "count": "1"
+    },
+    {
+      "title": "Product Development",
+      "count": "1"
+    },
+    {
+      "title": "Mechanical Engineering",
+      "count": "7"
+    },
+    {
+      "title": "Manufacturing",
+      "count": "7"
+    },
+    {
+      "title": "Finite Element Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Computer-Aided Design (CAD)"
+    },
+    {
+      "title": "Process Engineering"
+    },
+    {
+      "title": "Product Management"
+    },
+    {
+      "title": "Abaqus",
+      "count": "1"
+    },
+    {
+      "title": "ANSYS",
+      "count": "17"
+    },
+    {
+      "title": "AutoCAD",
+      "count": "13"
+    },
+    {
+      "title": "Matlab",
+      "count": "13"
+    },
+    {
+      "title": "Simulink",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Catia",
+      "count": "1"
+    },
+    {
+      "title": "Pro Engineer",
+      "count": "5"
+    },
+    {
+      "title": "PTC Creo",
+      "count": "7"
+    },
+    {
+      "title": "Autodesk Inventor",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Project"
+    },
+    {
+      "title": "SolidWorks",
+      "count": "7"
+    },
+    {
+      "title": "JIRA"
+    },
+    {
+      "title": "Stress Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Keyshot"
+    },
+    {
+      "title": "Pro/Mechanica"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Finite Element Analysis of Steering Wheel of a Formula Race Car",
+        "Prosthetic Limb Analysis",
+        "Development of a Shaped liner using Severe Plastically deformed OFE Copper"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/david-vonderhaar-npd/",
+      "text": "Sr. Director: New Product Development|Engineering|Product Management|Program Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julie-kendall-a89b397/",
+      "text": "Packaging Engineer Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicktabak73/",
+      "text": "Improving society by bringing innovative & sustainable products to the market"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arvind-sankaran-901ab81/",
+      "text": "Head of Engineering, Material Flow and Vehicle Packaging at Tesla"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-sive-a4a40349/",
+      "text": "Vehicle Engineering Manager at Waymo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shen-jackson-400a4022/",
+      "text": "Engineering Executive at Stealth-mode startup"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aditya-adi-raghunathan-36aa34aa/",
+      "text": "Incoming MBA candidate - Harvard Business School Class of 2021"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-shaulis-decaluwe-49336911/",
+      "text": "Procurement Specialist at Cornelius"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scott-skinder-25502472/",
+      "text": "Operations Management Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nrupa-chitley-b760b65a/",
+      "text": "Software Engineer Intern at Cisco"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nikki Mukkala",
+    "headline": "NPI, Engineering & Programs at Samsara, Inc",
+    "location": "San Francisco Bay Area",
+    "connections": "311",
+    "summary": "• Program manager with a strong engineering background and proven experience in leading, coordinating & executing projects.\n• Robust technical experience in product design, machine design, 3D modeling, finite element analysis and manufacturing processes.\n\n\nModeling Softwares: Solidworks, Inventor, AutoCAD, Pro/E\nSimulation Softwares: ANSYS, Pro/Mechanica, MATLAB/Simulink\nOthers: Keyshot, MS Word, PowerPoint, Outlook, Excel, MS Project, JIRA"
+  }
+}

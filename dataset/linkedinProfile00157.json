@@ -1,0 +1,301 @@
+{
+  "profileAlternative": {
+    "name": "Anusha Ramachandra",
+    "headline": "Application Engineer at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "407",
+    "summary": "I'm an Application Engineer currently working at Google in the bay area. I have completed my Masters in Information Systems Management from Carnegie Mellon University. My interests include Software Development, Information Management and Product Management.\n\nEarlier, I worked as Software Developer at PayPal. I developed services and user interfaces for Consumer Wallet Division on multiple platforms such as Java and NodeJS. I built front end-user interfaces right from UX mockups using ReactJS, for a new payments platform."
+  },
+  "aboutAlternative": {
+    "text": "I'm an Application Engineer currently working at Google in the bay area. I have completed my Masters in Information Systems Management from Carnegie Mellon University. My interests include Software Development, Information Management and Product Management.\n\nEarlier, I worked as Software Developer at PayPal. I developed services and user interfaces for Consumer Wallet Division on multiple platforms such as Java and NodeJS. I built front end-user interfaces right from UX mockups using ReactJS, for a new payments platform."
+  },
+  "positions": [
+    {
+      "title": "Application Engineer",
+      "companyName": "Google",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Teaching Assistant",
+      "companyName": "Carnegie Mellon University - Heinz College of Information Systems and Public Policy",
+      "date1": "Aug 2017 – Dec 2017",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Application Engineer Intern",
+      "companyName": "Google",
+      "date1": "May 2017 – Aug 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "companyName": "Carnegie Mellon University - H. John Heinz III College",
+      "description": "Working with ad-block data for user-behavior analysis on the web.",
+      "date1": "Feb 2017 – May 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "PayPal",
+      "description": "• Developed a Java Rest based service that allowed users to save money in their PayPal wallet periodically by allowing to set up a schedule or threshold based arrangement from their accounts.\n• Designed and developed a service based on a drools rule engine to decide eligibili... ",
+      "date1": "Jun 2014 – Jun 2016",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Software Intern",
+      "companyName": "Ebay Inc",
+      "description": "• Built a metric dashboard to monitor and report metrics of various backend services of PayPal.\n• Developed User Interface to add dynamic widgets on the fly and select the services which need to be monitored along with appropriate metrics.\n• Developed cron job using NodeJS to collect periodic data and dump into OpenTS... ",
+      "date1": "Jan 2014 – Jun 2014",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "R. V. College of Engineering, Bangalore",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2010",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Structures",
+      "count": "10"
+    },
+    {
+      "title": "C++",
+      "count": "9"
+    },
+    {
+      "title": "C",
+      "count": "8"
+    },
+    {
+      "title": "Algorithms",
+      "count": "5"
+    },
+    {
+      "title": "Programming",
+      "count": "4"
+    },
+    {
+      "title": "Computer Science",
+      "count": "2"
+    },
+    {
+      "title": "User Interface"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Database Design"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Java",
+      "count": "7"
+    },
+    {
+      "title": "Eclipse",
+      "count": "6"
+    },
+    {
+      "title": "PHP",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Android"
+    },
+    {
+      "title": "Operating Systems"
+    },
+    {
+      "title": "NodeJS"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "React"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "HBase"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Apache"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Networking",
+      "count": "1"
+    },
+    {
+      "title": "Flux"
+    },
+    {
+      "title": "Highcharts"
+    },
+    {
+      "title": "OpenTSDB"
+    },
+    {
+      "title": "data"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/georgeruiziii/",
+        "text": "Anusha is hardworking, humble and easy to work with. Over the course of her summer internship she made significant improvements in her coding ability, particularly in style and testability. I was impressed with her ability to learn and tie together various large, proprietary platforms to create a working system within a short time frame. She managed to do this with very minimal guidance.\n\nShe demonstrated strength in topics that are typically lacking in new college graduates: appreciation for total cost of software ownership and operations, passion for quality software and sensitivity to business constraints.\n\nI’m glad to have had the experience of working with her over the summer. Anusha would be valuable asset to any project. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/anilabh/",
+        "text": "Anusha is a very meticulous engineer and that reflects in everything she does - right from coding to design to documentation. Her work is of high quality and she ensures that she has thought through the bigger product landscape while implementing the solutions. I would particularly like to mention her efforts on going out of her way in building front end tech capabilities in the team and delivering a new product from scratch. Anusha is a talented person and shares a great rapport with her team. Wishing her all the very best! See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "29",
+      "items": [
+        "Analysis and Design Of Algorithms",
+        "Cloud Computing",
+        "Compiler Design",
+        "Computer Architecture",
+        "Data Mining",
+        "Data Mining and Warehousing",
+        "Data Structures",
+        "Database Management Systems",
+        "Discrete Mathematics",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Golden Envelope Award",
+        "3rd Place in Consumer Hackathon",
+        "Gracehopper Conference for Celebration of Women In Computing (Annual Attendee)",
+        "ImpressIT - Proof of Concept IT Solution",
+        "MHRD Scholarship"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Comparison of Different Learning algorithms for Categorisation and Sentiment Analysis",
+        "Text Analysis of The Wall Street Journal Dataset",
+        "Project Management Plan for Internet of Things Device Implementation",
+        "Hostel Management Web Application",
+        "Object Recognition using Eye Blink"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Analysis of Optimized Association Rule Mining Algorithm using Genetic Algorithm"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vidyamay/",
+      "text": "Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manasiladdha/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandni-balchandani-56884a58/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jianyu-caden-lu-730141108/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/santosh-kumar-88576637/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ronakshettigar/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/monika9933/",
+      "text": "Application Engineer at Google."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/krishna-mahesh-akella-5ab7931b/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mingchen7/",
+      "text": "ML in finance at Google."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anusha Ramachandra",
+    "headline": "Application Engineer at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "407",
+    "summary": "I'm an Application Engineer currently working at Google in the bay area. I have completed my Masters in Information Systems Management from Carnegie Mellon University. My interests include Software Development, Information Management and Product Management.\n\nEarlier, I worked as Software Developer at PayPal. I developed services and user interfaces for Consumer Wallet Division on multiple platforms such as Java and NodeJS. I built front end-user interfaces right from UX mockups using ReactJS, for a new payments platform."
+  }
+}

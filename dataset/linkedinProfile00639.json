@@ -1,0 +1,287 @@
+{
+  "profileAlternative": {
+    "name": "Swathi Nambiar",
+    "headline": "Software Engineer 2 at eBay",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "A passionate technology enthusiast with Master’s in Computer Science degree and 2+ years of industry experience. I like to learn and keep myself paced with the current technologies and I love to solve real world problems.\n\nI possess good knowledge in OOPs, Security, Big data and Machine Learning concepts. Having worked in a fast paced customer support team, I have learnt the importance of being a great team member and delivering results within deadlines."
+  },
+  "aboutAlternative": {
+    "text": "A passionate technology enthusiast with Master’s in Computer Science degree and 2+ years of industry experience. I like to learn and keep myself paced with the current technologies and I love to solve real world problems.\n\nI possess good knowledge in OOPs, Security, Big data and Machine Learning concepts. Having worked in a fast paced customer support team, I have learnt the importance of being a great team member and delivering results within deadlines."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer 2, Quality",
+      "companyName": "eBay",
+      "description": "Responsible for designing and implementing automation using Java, selenium, testNg.\nWorked on several cross-functional applications within eBay while building a team and leading/ guiding people onsite and offshore.\nExperimented and implemented new solutions to improve processes.\nPlayed a DevOps role by implementing CI/CT/CD for my team.\nWorked on UI/ API/ native mobile automation for AI driven applications.",
+      "date1": "Aug 2017 – Present",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Engineering Intern",
+      "companyName": "Appthority",
+      "description": "Mobile App Risk Management & Data Security\nDesigned a workflow, implemented and tested (over a secure and insecure network) a new feature from the scratch for the Appthority Android application to detect man-in-the-middle attacks for the network. The new version of application was rolled out in December ... ",
+      "date1": "Jun 2016 – Dec 2016",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Associate Software Engineer",
+      "companyName": "NCR Corporation",
+      "description": "Worked for APTRA Activate CIT and Support teams.\nExperience in financial domain on an SST platform observing CEN XFS standards, source control being SVN as both a developer and tester in a fast-paced team that dealt with high priority customer issues.... ",
+      "date1": "Oct 2013 – Aug 2015",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Digital Forensic Analyst",
+      "companyName": "Data64 Techno Solutions Pvt. Ltd",
+      "description": "Had been trained as an ASCL certified Digital Evidence Analyst ASCL (Asian School of Cyber Laws) specializing in Cyber Security. Imparted Training on Cyber Crime Investigation and Digital Evidence Analysis at various prestigious schools and colleges across South India.",
+      "date1": "Apr 2013 – Sep 2013",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Guru Nanak Institute Of Technology",
+      "degree": "Bachelor's of Technology",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Narayana Junior College",
+      "degree": "Mathematics,Physics and Chemistry",
+      "date1": "2007",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "8"
+    },
+    {
+      "title": "C",
+      "count": "20"
+    },
+    {
+      "title": "Python",
+      "count": "14"
+    },
+    {
+      "title": "Network Security",
+      "count": "18"
+    },
+    {
+      "title": "Information Security",
+      "count": "8"
+    },
+    {
+      "title": "Information Security Management",
+      "count": "14"
+    },
+    {
+      "title": "Computer Security",
+      "count": "15"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "4"
+    },
+    {
+      "title": "SDLC",
+      "count": "3"
+    },
+    {
+      "title": "Quality Assurance",
+      "count": "3"
+    },
+    {
+      "title": "Software Development",
+      "count": "13"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "1"
+    },
+    {
+      "title": "Computer Science",
+      "count": "1"
+    },
+    {
+      "title": "Big Data",
+      "count": "1"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "14"
+    },
+    {
+      "title": "Linux",
+      "count": "18"
+    },
+    {
+      "title": "SQL",
+      "count": "29"
+    },
+    {
+      "title": "Core Java",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "9"
+    },
+    {
+      "title": "C#",
+      "count": "4"
+    },
+    {
+      "title": "Apache Flume",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "10"
+    },
+    {
+      "title": "Eclipse",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "Android",
+      "count": "1"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "3"
+    },
+    {
+      "title": "Apache Kafka",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/nickrroberts/",
+        "text": "As a product manager, it was a delight to work with Swathi. She is collaborative, a great problem-solver, and gives honest and thoughtful feedback. As an example, we co-developed a process to ensure quality in our natural language machine learning models with every training update, which significantly decreased the intent recognition accuracy problems we saw before.\n\nShe's a great add to any technical team! See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/subhodyuti/",
+        "text": "Swathi has always been powerhouse of energy and focused on whatever she did . She always focused to complete every activity on time and with perfect quality . I found her to be very professional, thoughtful, motivated and always prepared for challenges . She is a great team player . Moreover she's got great presentation skills which helps teams to understand new ideas or frame them in the best way . She's definitely an outstanding asset for any organization! See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/raviaddepalli/",
+        "text": "Swathi worked on my team as a Forensic expert. Swathi is hardworking and a very knowledgeable. She worked the long hours and always kept her enthusiasm and her focus even in the face of dire odds. A worthy team member and a great colleague!"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Advanced Parallel Processing",
+        "Big Data",
+        "Computer Communication System",
+        "Cryptography and Network Security",
+        "Data Structures and Algorithms",
+        "Information security via Machine Learning Algorithms",
+        "Object Oriented Analysis",
+        "Operating Systems",
+        "Server Side Programming"
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "Static and Dynamic analysis of Android Application to detect Malware",
+        "Email Spam classification using Naïve Bayes",
+        "Software Reverse Engineering",
+        "Big Data technology to analyse Manufacturing device sensor data",
+        "Breaking the Oryx Cipher",
+        "Health Monitoring System",
+        "Project Management Tool",
+        "A selective approach to Image Spam Detection"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Telugu"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/gjoshi6/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yankishah/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arpita-agrawal-931a4b50/",
+      "text": "USC graduate, Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshay-chauhan/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/forammehta90/",
+      "text": "Senior Software Engineer at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishaan-jain-0a2010ba/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harikanukala/",
+      "text": "Software Engineer | Working at Microsoft | MS in CS | Actively looking for Software Engineering opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/divyani-rao/",
+      "text": "Software Engineer at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maithiligole/",
+      "text": "Software Engineer at Walmart Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pallavi-kohad/",
+      "text": "Software QA Engineer at Cisco Systems"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Swathi Nambiar",
+    "headline": "Software Engineer 2 at eBay",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "A passionate technology enthusiast with Master’s in Computer Science degree and 2+ years of industry experience. I like to learn and keep myself paced with the current technologies and I love to solve real world problems.\n\nI possess good knowledge in OOPs, Security, Big data and Machine Learning concepts. Having worked in a fast paced customer support team, I have learnt the importance of being a great team member and delivering results within deadlines."
+  }
+}

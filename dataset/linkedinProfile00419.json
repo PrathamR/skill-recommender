@@ -1,0 +1,167 @@
+{
+  "profileAlternative": {
+    "name": "Nrupa Chitley",
+    "headline": "Software Engineer Intern at Cisco",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Graduate Student - Software Engineering at SJSU"
+  },
+  "aboutAlternative": {
+    "text": "Graduate Student - Software Engineering at SJSU"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Cisco",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "University of Illinois at Urbana-Champaign",
+      "degree": "Master of Science - MS",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Mumbai",
+      "degree": "Bachelor of Engineering - BE",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Node.js",
+      "count": "1"
+    },
+    {
+      "title": "React.js",
+      "count": "1"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "IBM Bluemix"
+    },
+    {
+      "title": "Apache Kafka"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Applied Probability & Statistics",
+        "Data Structure / Algorithms c++",
+        "Database Systems",
+        "Design & Analysis of Experiments",
+        "Discrete Event Dynamic Systems",
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms",
+        "Human Performance and Cognition in Context",
+        "Large-Scale Analytics"
+      ]
+    },
+    {
+      "count": "10",
+      "items": [
+        "Distributed File Storage System",
+        "HomeAway-Simulation",
+        "Movie Booking App",
+        "Producer Consumer Problem",
+        "Panic Button",
+        "Wikipedia Page View Analysis Using Amazon Elastic MapReduce",
+        "LRU Cache implementation at the AWS Front End instance",
+        "Large scale Twitter Analytics on the AWS",
+        "Job Priority Scheduling",
+        "UI improvisation of Vending machines"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rohan-shah3008/",
+      "text": "Strategy and Operations Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitali-naik-08956871/",
+      "text": "Software Engineer at NetApp,Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jainsupriya30/",
+      "text": "Software Engineer Intern at Clover Network, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/anoop-martin/",
+      "text": "Software Developer Intern at Hewlett Packard Enterprise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akhianand/",
+      "text": "Software Engineer Intern at Glassdoor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/apoorv-walawalkar-b7b99b70/",
+      "text": "Senior Engineer at R-DEX Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sreya-n/",
+      "text": "Associate Software Engineer at Element Solutions LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikki-mukkala/",
+      "text": "NPI, Engineering & Programs at Samsara, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suyashtandon/",
+      "text": "Computational Sciences Graduate Intern at Los Alamos National Laboratory"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zjmitche/",
+      "text": "Web Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nrupa Chitley",
+    "headline": "Software Engineer Intern at Cisco",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Graduate Student - Software Engineering at SJSU"
+  }
+}

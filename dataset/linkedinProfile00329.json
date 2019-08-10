@@ -1,0 +1,196 @@
+{
+  "profileAlternative": {
+    "name": "Kriti Jar",
+    "headline": "Software Engineer Intern at DocuSign",
+    "location": "San Jose, California",
+    "connections": "367",
+    "summary": "I am passionate programmer and all time learner who enjoys leveraging logical skills to solve variety of problems.I am specialized in enterprise distributed systems and their applications and have experience in skills: Web development, React, Redux, Nodejs, Mongo DB, Kafka, MySQL, SQL Server, Core Java, Design patterns, agile methodology. I am open for summer internship."
+  },
+  "aboutAlternative": {
+    "text": "I am passionate programmer and all time learner who enjoys leveraging logical skills to solve variety of problems.I am specialized in enterprise distributed systems and their applications and have experience in skills: Web development, React, Redux, Nodejs, Mongo DB, Kafka, MySQL, SQL Server, Core Java, Design patterns, agile methodology. I am open for summer internship."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "DocuSign",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Tata Consultancy Services",
+      "description": "Software Engineer (Unix, SQL Server, ETL, Perl and Intellimatch, Agile development.)\n● Modified database architecture aiming standardization of the product, analyzed Perl scripts, created stored procedures for the same and worked on the ETL layer for file loading and data pre-processing.... ",
+      "date1": "Sep 2015 – May 2018",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2015 – May 2018",
+          "date2": "2 yrs 9 mos"
+        },
+        {
+          "title": "Software Engineering Intern (C++, Unix, Linux, Oracle, PL/SQL, Java.)",
+          "date1": "Jun 2015 – Aug 2015",
+          "date2": "3 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+      "degree": "Bachelor of Engineering (BE)",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Reactjs",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "Nodejs"
+    },
+    {
+      "title": "Redux.js",
+      "count": "2"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "Advanced Java"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "GraphQL"
+    },
+    {
+      "title": "Apache Kafka"
+    },
+    {
+      "title": "Software Design Patterns",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/vibhutibhardwaj/",
+        "text": "Kriti’s determination and grasp on subject matter is commendable. I have always admired her dynamic personality, efficient solutions and quick responses under pressure. She has worked in my team for 2 years and has been a role model to everyone around her. Her quest for learning always keeps her motivated and would definitely help her succeed in any project she undertakes. I wish her good luck in all her future endeavours. She is definitely an asset to any firm and would give her best to any task assigned to her. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/amishojha/",
+        "text": "Kriti is a smart working professional with impressive background with result oriented approach, she always have positive attitude and takes the time to support everyone in her team. Its been pleasure of worked with her in past 2 years in TCS. she has a wonderful  analytical and technical skill in reconciliation and investment banking domain  and is  a great asset to any company. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "items": [
+        "Cloud Computing",
+        "Computer Networks",
+        "Computer Systems Organisation and Architecture",
+        "Data Structures and Algorithms",
+        "Enterprise Distributed Applications",
+        "Enterprise Distributed Platforms",
+        "Enterprise Distributed Systems",
+        "Large Scale Analytics",
+        "Operating Systems",
+        "Software Engineering"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "An e-commerce website, US Product Mart",
+        "Game based on Core Java",
+        "Linkedin prototype",
+        "Startbucks simulation",
+        "Homeaway prototype"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "On the spot award",
+        "Star performer"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaurasiar/",
+      "text": "SDE Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajastulpule/",
+      "text": "Software Development Engineer Intern at Amazon(AWS) | Actively looking for Fall Internship/Co-Op"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akhianand/",
+      "text": "Software Engineer Intern at Glassdoor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-parakh-01724815a/",
+      "text": "Software Developer Engineer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tmore/",
+      "text": "Cloud Operations Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pradnya-thorat/",
+      "text": "Software Engineer Intern at FireEye | Graduate Student at SJSU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saket-thakare/",
+      "text": "Software Engineering Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manikant-prasad-09/",
+      "text": "SDE Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyaiyer06/",
+      "text": "Software Engineering Graduate Student at San Jose State University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kriti Jar",
+    "headline": "Software Engineer Intern at DocuSign",
+    "location": "San Jose, California",
+    "connections": "367",
+    "summary": "I am passionate programmer and all time learner who enjoys leveraging logical skills to solve variety of problems.I am specialized in enterprise distributed systems and their applications and have experience in skills: Web development, React, Redux, Nodejs, Mongo DB, Kafka, MySQL, SQL Server, Core Java, Design patterns, agile methodology. I am open for summer internship."
+  }
+}

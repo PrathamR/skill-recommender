@@ -1,0 +1,250 @@
+{
+  "profileAlternative": {
+    "name": "Deepika Rajagopalan",
+    "headline": "Software Engineer at Google",
+    "location": "New York, New York",
+    "connections": "484",
+    "summary": "Works on cloud security at Google. Experience in intrusion detection systems and web security."
+  },
+  "aboutAlternative": {
+    "text": "Works on cloud security at Google. Experience in intrusion detection systems and web security."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Google",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Cayuga Networks",
+      "date1": "Dec 2015 – Mar 2017",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Lead Software Engineer",
+          "date1": "Dec 2015 – Mar 2017",
+          "date2": "1 yr 4 mos"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Jul 2014 – Dec 2015",
+          "date2": "1 yr 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Program Analyst",
+      "companyName": "Goldman Sachs",
+      "date1": "Jul 2010 – Jun 2013",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Summer Analyst",
+      "companyName": "Goldman Sachs",
+      "date1": "Dec 2009 – May 2010",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Summer Analyst",
+      "companyName": "Goldman Sachs",
+      "date1": "May 2008 – Nov 2008",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Masters in Engineering",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "PSG College of Technology",
+      "degree": "Integrated Masters",
+      "date1": "2005",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "14"
+    },
+    {
+      "title": "Algorithms",
+      "count": "14"
+    },
+    {
+      "title": "Data Structures",
+      "count": "11"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "5"
+    },
+    {
+      "title": "Programming",
+      "count": "2"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Testing",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "9"
+    },
+    {
+      "title": "Databases",
+      "count": "6"
+    },
+    {
+      "title": "Java",
+      "count": "23"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "Eclipse",
+      "count": "4"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "Django",
+      "count": "1"
+    },
+    {
+      "title": "C#",
+      "count": "1"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Core Java",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Valgrind",
+      "count": "1"
+    },
+    {
+      "title": "Wireshark",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Architecture of Large Scale Information Systems",
+        "Defending Computer Networks",
+        "Natural Language Processing",
+        "Operating Systems",
+        "Operating Systems Practicum"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Hindi",
+        "Kannada",
+        "Malayalam",
+        "Tamil"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Miniature Operating System",
+        "Sentiment Classification using Sequence tagging",
+        "DDOS Detection System",
+        "Web Exploit Detection with Sandbox Detonation"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Transition-Based Computer Code Detection"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pooja30391/",
+      "text": "Software Developer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/naveenamohan/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deeksha-padma-prasad-9bb6a562/",
+      "text": "Software Developer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruti-murali-755b0956/",
+      "text": "Software Development Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dhanyaramesh/",
+      "text": "Software Engineer at Intuit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prachihande/",
+      "text": "Senior Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikiparmar/",
+      "text": "Senior Research Engineer at Google Brain"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swetha-sivakumar-95060b4b/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/namrata-jain-32045234/",
+      "text": "Senior Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prachibhansali/",
+      "text": "Software Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Deepika Rajagopalan",
+    "headline": "Software Engineer at Google",
+    "location": "New York, New York",
+    "connections": "484",
+    "summary": "Works on cloud security at Google. Experience in intrusion detection systems and web security."
+  }
+}

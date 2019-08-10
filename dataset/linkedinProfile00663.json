@@ -1,0 +1,264 @@
+{
+  "profileAlternative": {
+    "name": "Vaidehi Deo",
+    "headline": "Full stack developer - Java/JS | Experienced in cloud computing | Seeking full-time opportunity!",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Actively seeking full-time opportunity in software development . I am passionate about developing highly scalable & distributed enterprise applications and learning about Cloud technologies.\n\nWith almost 5 years of industry experience, following are few of my strengths:\n1. Experienced in full stack application design, development and testing\n2. Ability to work in agile environment and believe in rapid software development and quality delivery.\n3. Have good understanding of SOA, Web Services, REST API, and design patterns."
+  },
+  "aboutAlternative": {
+    "text": "Actively seeking full-time opportunity in software development . I am passionate about developing highly scalable & distributed enterprise applications and learning about Cloud technologies.\n\nWith almost 5 years of industry experience, following are few of my strengths:\n1. Experienced in full stack application design, development and testing\n2. Ability to work in agile environment and believe in rapid software development and quality delivery.\n3. Have good understanding of SOA, Web Services, REST API, and design patterns."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer ll",
+      "companyName": "Bill.com",
+      "date1": "Jan 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Arm",
+      "description": "Responsible for full SDLC and duties include interactions with customer, gathering requirements, design & implementing software for streamlining design, development and delivery of physical IP products.\n... ",
+      "date1": "Aug 2016 – Dec 2018",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Graduate Teaching Assistant",
+      "companyName": "San Jose State University",
+      "description": "Working as a TA/ISA (Teaching Assistant/ International Student Assistant) for Enterprise Distributed Systems (CMPE 273) course in Computer Engineering Department.\n\nDuties -... ",
+      "date1": "Jan 2016 – May 2016",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "AtHoc",
+      "description": "Worked on performance improvement with a fast key-value, distributed and scalable NoSQL database as a cache.",
+      "date1": "Sep 2015 – Dec 2015",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Development Engineer Intern",
+      "companyName": "Amazon Web Services",
+      "description": "Storage Gateway Team\n\n- Worked on a project related with metering of snapshot functionality of storage gateway.\n- Worked with AWS SDK for Java which provides Java API for AWS infrastructure se... ",
+      "date1": "Jun 2015 – Aug 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "HSBC Global Technology India",
+      "description": "Worked as Software Engineer (BI resource – Cognos Developer) .\nCognos Developer for GPS (Global Payment Services)\nHandled two monthly standalone Cognos production releases and five regional GPS production releases for Cognos part.... ",
+      "date1": "Aug 2012 – Jul 2014",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's Degree",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Pune",
+      "degree": "Bachelor of Engineering (BE)",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cognos"
+    },
+    {
+      "title": "Core Java",
+      "count": "26"
+    },
+    {
+      "title": "Java",
+      "count": "26"
+    },
+    {
+      "title": "Scrum",
+      "count": "5"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "9"
+    },
+    {
+      "title": "Kanban",
+      "count": "2"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "3"
+    },
+    {
+      "title": "Eclipse",
+      "count": "15"
+    },
+    {
+      "title": "MySQL",
+      "count": "16"
+    },
+    {
+      "title": "MongoDB",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "9"
+    },
+    {
+      "title": "Databases",
+      "count": "5"
+    },
+    {
+      "title": "Unix",
+      "count": "8"
+    },
+    {
+      "title": "Logstash"
+    },
+    {
+      "title": "XAMPP"
+    },
+    {
+      "title": "BlueJ"
+    },
+    {
+      "title": "Blender"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/pardeep-kumar-sjc/",
+        "text": "I have worked with Vaidehi when she was creating IP delivery software for ARM products. I found her very focused and detail oriented. She will pay attention to all the feedback during the review session. She will make sure all the feedbacks are implemented in a timely manner.\nHer understanding of software practices is excellent. I can totally rely on her for complex software tasks. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tom-mahatdejkul-2a05b22/",
+        "text": "Vaidehi is model example of how to be a good citizen in our society without having to sacrifice career. Besides being a great technologist and productive engineer at Arm, Vaidehi also volunteers with Arm's community outreach group 'Team Arm'. She represents the best of Arm's corporate responsibility initiatives by volunteering personal time to help those in need in our community. It is a privilege for me to work with Vaidehi and to know that I have a colleague that cares so much about the community and world we live in. Thanks for your enthusiasm for technology and your passion for our society and our world. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "Advance Databases",
+        "Computer Networks",
+        "Data Structures and Algorithms",
+        "Database management Systems",
+        "Design and Analysis of Algorithms",
+        "Destributed Operating Systems",
+        "Digital Electronics and Logic Designs",
+        "Discrete Structures",
+        "Enterprise Software Platforms",
+        "Information Security"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Facebook TimeMachine",
+        "Full Fledged food-service website with Analytics",
+        "Large-scale statistic gathering and analyzing application. DRS and DPM",
+        "3D Gumball Machine Game",
+        "Virtual Machines Availability Manager/ Disaster Recovery",
+        "RFID Enabled automated Library"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "RFID ENABLED AUTOMATED LIBRARY",
+        "RFID ENABLED AUTOMATED LIBRARY"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/krutipandya90/",
+      "text": "Software Engineer 2 at Bill.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akanksha-nagpal-73440628/",
+      "text": "Software Development Engineer-III @ Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/janalbhandari/",
+      "text": "Currently open to exciting full-time opportunities | Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shivijain/",
+      "text": "Software Engineer at Zillow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhavani-k-822b22153/",
+      "text": "Java Full stack developer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/surbhisharma1/",
+      "text": "Software Engineer III at SAP Ariba"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikita-nathwani/",
+      "text": "Experienced full stack Java developer--Actively Seeking Full-Time Opportunities in Software Development"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chavanpriyanka/",
+      "text": "Software Development Engineer at GoDaddy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gauridasgupta/",
+      "text": "Senior Front-End Engineer at Tokalabs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ravneet2690/",
+      "text": "Software Engineer 3 at eBay | Full Stack Developer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "GAINS",
+      "description": "Science and Technology",
+      "date1": "Sep 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Writer",
+      "experience": "Private organization to help visually challenged students.",
+      "description": "Social Services",
+      "date1": "Jan 2007 – Jun 2007",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Citizen Science Leader",
+      "experience": "Earthwatch Institute",
+      "description": "Health",
+      "date1": "Nov 2013",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Vaidehi Deo",
+    "headline": "Full stack developer - Java/JS | Experienced in cloud computing | Seeking full-time opportunity!",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Actively seeking full-time opportunity in software development . I am passionate about developing highly scalable & distributed enterprise applications and learning about Cloud technologies.\n\nWith almost 5 years of industry experience, following are few of my strengths:\n1. Experienced in full stack application design, development and testing\n2. Ability to work in agile environment and believe in rapid software development and quality delivery.\n3. Have good understanding of SOA, Web Services, REST API, and design patterns."
+  }
+}

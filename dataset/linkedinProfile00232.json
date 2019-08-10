@@ -1,0 +1,256 @@
+{
+  "profileAlternative": {
+    "name": "Chandhini Chandersekar",
+    "headline": "Full stack developer | Front End | UI | Web Development | Machine learning | Data Mining",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "A detail-oriented programmer with the ability to code, analyze and engineer productive solutions. Expert in learning-edge programming tools with the ability to assimilate and utilize emerging technologies. Proficient at front-end development, deployment, formulating tests, designing and maintaining databases and developing efficient software. Building state-of-the-art user-friendly applications have always been my passion. I also possess a great eye for design, which I believe adds uniqueness to every web application I have built by far."
+  },
+  "aboutAlternative": {
+    "text": "A detail-oriented programmer with the ability to code, analyze and engineer productive solutions. Expert in learning-edge programming tools with the ability to assimilate and utilize emerging technologies. Proficient at front-end development, deployment, formulating tests, designing and maintaining databases and developing efficient software. Building state-of-the-art user-friendly applications have always been my passion. I also possess a great eye for design, which I believe adds uniqueness to every web application I have built by far."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Co-op",
+      "companyName": "OneView Commerce, Inc.",
+      "description": "• Developed features in the promotion engine using MEAN stack that uses grunt, CircleCI,Docker, AWS with Elastic Beanstalk- https://www.oneviewcommerce.com/promotions-engine\n• Built several typescript modules with unit tests for the upgraded POS system and dealt with implementation of handlebars for various POS receipt printers\n• Daily responsibilities included developing new features, code reviewing, maintaining internal testing environments, grooming stories and sprint planning with the business team",
+      "date1": "Jun 2017 – Jan 2018",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "TAFE - Tractors and Farm Equipment Limited",
+      "description": "Worked within the network infrastructure space gaining experiences with the switches, routers and other network infrastructure setups and operations. I was also involved in cloud-based deployment – mainly around infrastructure-as-a- service",
+      "date1": "Jun 2014 – Aug 2014",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "HCL Technologies",
+      "description": "Extensive hands-on experience on regression testing and black-box testing on various Software Platforms",
+      "date1": "May 2013 – Jun 2013",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "KaaShiv InfoTech",
+      "description": "Worked on various service and deployment models of cloud computing and their utilities",
+      "date1": "May 2013 – Jun 2013",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northeastern University",
+      "degree": "Master's degree",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "Anna University",
+      "degree": "Bachelor of Engineering (BE)",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Chinmaya Vidyalaya Senior Secondary School",
+      "degree": "HSC",
+      "date1": "2009",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Big Data",
+      "count": "7"
+    },
+    {
+      "title": "Information Retrieval",
+      "count": "6"
+    },
+    {
+      "title": "C",
+      "count": "8"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "JavaSE",
+      "count": "3"
+    },
+    {
+      "title": "Java Database Connectivity (JDBC)",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Redux.js"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Teamwork"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Artificial Intelligence",
+        "Computer Networks",
+        "Database Management Systems",
+        "Information Retrieval",
+        "Machine Learning",
+        "Managing Software Development",
+        "Theory of Computation",
+        "Web Development"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Bus Tracker System using real time MBTA data",
+        "Turbo- Multiplayer Car Racing Game",
+        "GENRES AND EMOTION RECOGNITION FOR MUSIC THERAPY USING GAUSSIAN PROCESS",
+        "HIDICON- ANDROID APPLICATION",
+        "SOUND SERVICE ENTERTAINMENT SYSTEM"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Conference on advances in Electrical, power control, electronics and communication engineering",
+        "Recognition Certificate",
+        "Certificate of Achievement"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Tamil"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Genre and Emotion Recognition for music therapy using Gaussian Process",
+        "Grid Computing- The next level challenge with Big Data"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chandni-balchandani-56884a58/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pallavi-kohad/",
+      "text": "Software QA Engineer at Cisco Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anannapaneni/",
+      "text": "Machine Learning Co-op at Embr Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shanmuga-priya-veerabadranjayakumar-960ba661/",
+      "text": "Software Engineer at Cisco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yash-amin1/",
+      "text": "Software Engineer Intern at Nuage Networks from Nokia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/komal-uttamrao-patil/",
+      "text": "Actively looking for full-time opportunities in Computer Networking and/or Software QA | Masters in Computer Networking"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rohitrjain/",
+      "text": "Software Development Engineer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roko-miocic/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aeshnak/",
+      "text": "MS in Data Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deekshitha-reddy-kankanala-2b609316b/",
+      "text": "Software Engineer Intern at Cisco| Actively Seeking for Internship Opportunities for Fall 2019"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "BHUMI",
+      "description": "Education",
+      "date1": "Jun 2014 – May 2016",
+      "date2": "2 yrs"
+    }
+  ],
+  "profile": {
+    "name": "Chandhini Chandersekar",
+    "headline": "Full stack developer | Front End | UI | Web Development | Machine learning | Data Mining",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "A detail-oriented programmer with the ability to code, analyze and engineer productive solutions. Expert in learning-edge programming tools with the ability to assimilate and utilize emerging technologies. Proficient at front-end development, deployment, formulating tests, designing and maintaining databases and developing efficient software. Building state-of-the-art user-friendly applications have always been my passion. I also possess a great eye for design, which I believe adds uniqueness to every web application I have built by far."
+  }
+}

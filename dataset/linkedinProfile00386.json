@@ -1,0 +1,194 @@
+{
+  "profileAlternative": {
+    "name": "Neha Parakh",
+    "headline": "Software Developer Engineer Intern at Amazon",
+    "location": "Sunnyvale, California",
+    "connections": "308",
+    "summary": "Masters in Computer Engineering"
+  },
+  "aboutAlternative": {
+    "text": "Masters in Computer Engineering"
+  },
+  "positions": [
+    {
+      "title": "Software Developer Engineer Intern",
+      "companyName": "Amazon",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Associate Software Engineer",
+      "companyName": "Accenture in India",
+      "description": "Worked as an Associate Software Engineer in SAP-ABAP Domain.\n\n• Maintained and enhanced software suite covering sales, finance, APO, procurement and other functions for multinational drink and brewing company Anheuser- Busch using SAP ... ",
+      "date1": "Sep 2017 – Jul 2018",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Dayananda Sagar College of Engineering, BANGALORE",
+      "degree": "Bachelor of Engineering - BE",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "Vidya Niketan School,Hebbal,Bangalore"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python (Programming Language)",
+      "count": "5"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "2"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "1"
+    },
+    {
+      "title": "SAP ABAP"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Microsoft PowerPoint"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Public Speaking"
+    },
+    {
+      "title": "Team Management"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Advanced Microprocessor",
+        "Computer Architecture",
+        "Data Mining",
+        "Data Structures",
+        "Deep Learning",
+        "Machine Learning",
+        "Operating System"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Yelp Data Review",
+        "2D and 3D Graphic Display Design",
+        "Automated Caption Generation",
+        "Spam Detection Text Processing",
+        "Iris Detection and Recognition using LABVIEW"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Bengali",
+        "English",
+        "Hindi",
+        "Marwari"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jasmine-akkal-ba820496/",
+      "text": "Actively seeking an internship for summer 2019."
+    },
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/riti-gupta-17909915/",
+      "text": "SWE Intern II at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aakashkanvinde/",
+      "text": "Actively Seeking Summer/Fall Co-Op 2019 | Grad Student at San Josè State | Software Engineer | Full-Stack Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devikajadhav95/",
+      "text": "Software Engineering Intern at Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anoop-martin/",
+      "text": "Software Developer Intern at Hewlett Packard Enterprise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sphoorti-poojary/",
+      "text": "Seeking full-time software engineering position starting June 2019 | Graduate Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yash-amin1/",
+      "text": "Software Engineer Intern at Nuage Networks from Nokia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jsavyasachi/",
+      "text": "Interim Intern at Qualcomm"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashish-kadam/",
+      "text": "Software Engineer Intern at Versa Networks"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Sanghadip - India",
+      "description": "Children",
+      "date2": "Cause"
+    }
+  ],
+  "profile": {
+    "name": "Neha Parakh",
+    "headline": "Software Developer Engineer Intern at Amazon",
+    "location": "Sunnyvale, California",
+    "connections": "308",
+    "summary": "Masters in Computer Engineering"
+  }
+}

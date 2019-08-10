@@ -1,0 +1,284 @@
+{
+  "profileAlternative": {
+    "name": "Riti Gupta",
+    "headline": "SWE Intern II at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Software Developer with an experience of six years. Currently pursuing a master’s degree in computer science and expect to complete it by December, 2019. Have worked on several projects involving complex algorithms and problem-solving. Versatile experience in large scale software development involving all steps of from conception to delivery.\n\nDevelopment Languages : C, C++, Java, Python, PHP, HTML5\nDevelopment Tools : Makefile, Sql, Tcl, Shell scripting, Gdb, Valgrind, Gprof\nOS : Mac, Linux, Windows\nVersion Control: GIT, CVS, Perforce\nOthers : Information Retrieval, Algorithms, Object Oriented Programming, Design Patterns, Distributed Systems, Pthreads, Artificial Intelligence, Operating Systems, Databases"
+  },
+  "aboutAlternative": {
+    "text": "Software Developer with an experience of six years. Currently pursuing a master’s degree in computer science and expect to complete it by December, 2019. Have worked on several projects involving complex algorithms and problem-solving. Versatile experience in large scale software development involving all steps of from conception to delivery.\n\nDevelopment Languages : C, C++, Java, Python, PHP, HTML5\nDevelopment Tools : Makefile, Sql, Tcl, Shell scripting, Gdb, Valgrind, Gprof\nOS : Mac, Linux, Windows\nVersion Control: GIT, CVS, Perforce\nOthers : Information Retrieval, Algorithms, Object Oriented Programming, Design Patterns, Distributed Systems, Pthreads, Artificial Intelligence, Operating Systems, Databases"
+  },
+  "positions": [
+    {
+      "title": "SWE Intern II",
+      "companyName": "Google",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Mentor Graphics",
+      "description": "• Designed and developed a tool to find clock domain crossing (CDC) violations in ASIC chips for VLSI.\n• Ported old code from C to C++ . The new code was properly refactored and was written in object-oriented format using the right UML design patterns and all the correct codi... ",
+      "date1": "Aug 2015 – Oct 2017",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Lead Software Engineer",
+          "date1": "Aug 2015 – Oct 2017",
+          "date2": "2 yrs 3 mos"
+        },
+        {
+          "title": "Senior Member of Technical Staff",
+          "date1": "Sep 2014 – Jul 2015",
+          "date2": "11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "ANSYS, Inc.",
+      "description": "• Designed and developed an industry standard Static Timing Analysis tool to calculate timing for ASIC chips.\n• Wrote an innovative algorithm to reduce runtime of the tool due to multiple system calls for additional memory. Bigger blocks of memory were stored as smaller blocks which w... ",
+      "date1": "Jan 2012 – Sep 2014",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Software Intern",
+      "companyName": "Royal Bank of Scotland",
+      "description": "• Worked on developing and supporting a risk evaluation software for traders which was used across multiple sites.\n• The tool used to evaluate risk based on complex mathematical algorithms based on previous day closing prices.... ",
+      "date1": "Jun 2011 – Dec 2011",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2019"
+    },
+    {
+      "title": "Netaji Subhas Institute of Technology",
+      "degree": "Bachelor's degree",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "18"
+    },
+    {
+      "title": "Algorithms",
+      "count": "17"
+    },
+    {
+      "title": "Data Structures",
+      "count": "16"
+    },
+    {
+      "title": "Debugging",
+      "count": "12"
+    },
+    {
+      "title": "Programming",
+      "count": "10"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "1"
+    },
+    {
+      "title": "Multithreading"
+    },
+    {
+      "title": "Big Data"
+    },
+    {
+      "title": "C++",
+      "count": "14"
+    },
+    {
+      "title": ".NET",
+      "count": "7"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "Unix",
+      "count": "6"
+    },
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "Linux",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "Eclipse",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "VBA",
+      "count": "1"
+    },
+    {
+      "title": "Core Java"
+    },
+    {
+      "title": "TCL",
+      "count": "3"
+    },
+    {
+      "title": "GNU Make",
+      "count": "2"
+    },
+    {
+      "title": "CVS",
+      "count": "2"
+    },
+    {
+      "title": "GNU",
+      "count": "2"
+    },
+    {
+      "title": "Vim",
+      "count": "2"
+    },
+    {
+      "title": "gnu"
+    },
+    {
+      "title": "vim"
+    },
+    {
+      "title": "valgr"
+    },
+    {
+      "title": "ver"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sharon-stranahan-a181601/",
+        "text": "I had the pleasure of teaching Riti in my Graduate Technical Writing course at San Jose State University in Fall, 2018. She was an outstanding student who consistently exceeded the expectations of the course. Her research proposal and literature review were succinctly and clearly written, and she demonstrated equally strong oral communication skills. I highly recommend Riti to a future employer. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/debasish-chowdhury-2493b655/",
+        "text": "I worked with Riti during my time frame at Mentor Graphics India. I was surprised by her problem solving methodologies. She is also keen on improving the solutions, optimizing them and finding better ways to solve. Even on areas she is not very familiar with, she tries to learn. Overall she has very good attitude on problem solving and a great team player. She is always helpful to others and discusses issues and how to come out of it. I will highly recommend Riti for software engineering positions and wish her all the best for her future endeavors ! See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/prabhaskumar/",
+        "text": "It was a pleasure to have Riti in my RD team for close to three years. She came across as a hard working team member with great analytical and debugging skills. Electronics simulation was a new domain for her however, she ramped up and started contributing quickly. Attention to detail in her tasks and providing complete engineering solutions are some of the traits that makes her invaluable to a RD team. Riti would be an asset to have in any team and has my recommendation. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/swati-chhabra-5984b830/",
+        "text": "I have worked with Riti in many technical projects across 4 years at college. She is a very dedicated and logical person. She is very systematic in her work and has good technical skills. It was great pleasure working and learning with her."
+      },
+      {
+        "user": "https://www.linkedin.com/in/indrasish-saha-64755431/",
+        "text": "Riti is a very committed, diligent and methodical worker. A smart thinker with a good background in semiconductor domain and an extremely positive attitude.\nAs a software engineer, she is an extremely pensive, patient with solid debugging skills. I always value her sound judgement pertaining to Algorithmic solutions and C++ related bug fixes.\nExcellent at building and maintaining business relationships. A highly driven and effective professional who I am happy to recommend. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/indrasish-saha-64755431/",
+        "text": "Indrasish is one of the most amazing people I have worked with. He has good coding and problem-solving skills and keep himself updated with latest technologies. He takes complete ownership of whatever he does and stays committed to that. I wish him all the best for all phases of his life. Keep on with your good spirit!\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Merit Scholarship"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/saumya-rawat-81720b143/",
+      "text": "Computer Vision & Deep Learning Intern at Magic Leap"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yankishah/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/forammehta90/",
+      "text": "Senior Software Engineer at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanushree-chaudhary/",
+      "text": "Data Engineer at Yahoo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/varsha-vivek-47722111b/",
+      "text": "Research Engineer at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roshni-rajan2719/",
+      "text": "Apple Media Products (Music) Intern at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyanka-bedarkar-3a6351125/",
+      "text": "Software Developer Intern at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devikajadhav95/",
+      "text": "Software Engineering Intern at Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akritisethi/",
+      "text": "Member of Technical Staff Intern, VMware| MS in CS at San Jose State University"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Teaching Volunteer",
+      "experience": "DISHA",
+      "description": "Children",
+      "date1": "Sep 2011 – Oct 2011",
+      "date2": "2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Riti Gupta",
+    "headline": "SWE Intern II at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Software Developer with an experience of six years. Currently pursuing a master’s degree in computer science and expect to complete it by December, 2019. Have worked on several projects involving complex algorithms and problem-solving. Versatile experience in large scale software development involving all steps of from conception to delivery.\n\nDevelopment Languages : C, C++, Java, Python, PHP, HTML5\nDevelopment Tools : Makefile, Sql, Tcl, Shell scripting, Gdb, Valgrind, Gprof\nOS : Mac, Linux, Windows\nVersion Control: GIT, CVS, Perforce\nOthers : Information Retrieval, Algorithms, Object Oriented Programming, Design Patterns, Distributed Systems, Pthreads, Artificial Intelligence, Operating Systems, Databases"
+  }
+}

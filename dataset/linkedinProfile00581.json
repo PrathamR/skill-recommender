@@ -1,0 +1,256 @@
+{
+  "profileAlternative": {
+    "name": "Saumya Goyal",
+    "headline": "Software Engineer Intern at PlayStation",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "I am pursuing Masters in Software Engineering specializing in Enterprise Software Technologies at San Jose State University. Looking for opportunities in the field of Software development.\n\nExperience with Front-end and back-end development for Web Applications, JavaScript, ReactJS, NodeJS, Redux, Kafka, Java Development\n\nSkills:\n\nProgramming Languages: Java\nOperating Systems: Windows, Linux\nWeb Technologies: HTML, CSS, JavaScript, React.js, Node.js, Redux, GraphQL\nDatabase(s): MySQL, MongoDB\nApplications and tools: Eclipse, Visual Studio Code, GitHub, Kafka, Greenfoot"
+  },
+  "aboutAlternative": {
+    "text": "I am pursuing Masters in Software Engineering specializing in Enterprise Software Technologies at San Jose State University. Looking for opportunities in the field of Software development.\n\nExperience with Front-end and back-end development for Web Applications, JavaScript, ReactJS, NodeJS, Redux, Kafka, Java Development\n\nSkills:\n\nProgramming Languages: Java\nOperating Systems: Windows, Linux\nWeb Technologies: HTML, CSS, JavaScript, React.js, Node.js, Redux, GraphQL\nDatabase(s): MySQL, MongoDB\nApplications and tools: Eclipse, Visual Studio Code, GitHub, Kafka, Greenfoot"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "PlayStation",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Ericsson",
+      "description": "Worked for OneFM, which is Ericsson’s Internal Fault Management tool based on IBM Tivoli Netcool suite of products. OneFM provides single platform to integrate EMS provided by different vendors and using different protocols.\n• Developed automated test scripts from manual test cases based on the requirem... ",
+      "date1": "Mar 2017 – Jun 2018",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Solution Integrator",
+          "date1": "Mar 2017 – Jun 2018",
+          "date2": "1 yr 4 mos"
+        },
+        {
+          "title": "Graduate Engineer Trainee",
+          "date1": "Sep 2016 – Mar 2017",
+          "date2": "7 mos"
+        },
+        {
+          "title": "Intern",
+          "date1": "Apr 2016 – Sep 2016",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Web Development Intern",
+      "companyName": "Servelots",
+      "description": "During the internship I designed a web application called \"Virtual Library\" designed using WebGL and Three.js. The project aimed at creating a system to navigate in a library and also interacting with the 3D objects in the library.",
+      "date1": "Jun 2015 – Jul 2015",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Intern (Android App Development)",
+      "companyName": "Venturesity",
+      "description": "The objective of this internship was to develop an android app called \"Blood for life\" which searches blood donors based on the geographic proximity. Worked on the user interface development of this app.",
+      "date1": "May 2014 – Jun 2014",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Mody University of Technology and Science",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "India International School",
+      "degree": "84%",
+      "date1": "2006",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming",
+      "count": "6"
+    },
+    {
+      "title": "JavaScript",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "Research",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "3"
+    },
+    {
+      "title": "MySQL",
+      "count": "4"
+    },
+    {
+      "title": "CSS",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Hadoop",
+      "count": "2"
+    },
+    {
+      "title": "NoSQL",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "MongoDB",
+      "count": "2"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "2"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Redux.js"
+    },
+    {
+      "title": "English",
+      "count": "4"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "2"
+    },
+    {
+      "title": "Apache Kafka"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Web Application Development",
+        "Twitter Sentiment Analysis",
+        "Performance Comparison between Hadoop single node cluster, multinode cluster and Spark",
+        "Color tracking of objects in real time"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "An Overview of Hybrid Databases",
+        "Analysis of various NoSql database"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaurasiar/",
+      "text": "SDE Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajastulpule/",
+      "text": "Software Development Engineer Intern at Amazon(AWS) | Actively looking for Fall Internship/Co-Op"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aakashkanvinde/",
+      "text": "Actively Seeking Summer/Fall Co-Op 2019 | Grad Student at San Josè State | Software Engineer | Full-Stack Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tina-aggarwal/",
+      "text": "Senior Full Stack Software Developer Intern at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharwari-phadnis/",
+      "text": "Intern-Member of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madhukalluraya/",
+      "text": "Software Engineer Intern at Clear Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richanahar8/",
+      "text": "Graduate student | Actively looking for Software Engineering full time opportunities"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Saumya Goyal",
+    "headline": "Software Engineer Intern at PlayStation",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "I am pursuing Masters in Software Engineering specializing in Enterprise Software Technologies at San Jose State University. Looking for opportunities in the field of Software development.\n\nExperience with Front-end and back-end development for Web Applications, JavaScript, ReactJS, NodeJS, Redux, Kafka, Java Development\n\nSkills:\n\nProgramming Languages: Java\nOperating Systems: Windows, Linux\nWeb Technologies: HTML, CSS, JavaScript, React.js, Node.js, Redux, GraphQL\nDatabase(s): MySQL, MongoDB\nApplications and tools: Eclipse, Visual Studio Code, GitHub, Kafka, Greenfoot"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "profileAlternative": {
+    "name": "Devika Jadhav",
+    "headline": "Software Engineering Intern at Verizon Media",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am a graduate student pursuing a Master's in Computer Engineering, with specialization in Enterprise Application development and Networking Domain.\n\nSkills:\nProgramming Skills - Python, Java, C++, Javascript, Socket Programming, Android Programming.\nWeb Technologies - React.js, Node.js, RESTful Web Services, HTML5, CSS3.\nNetwork Protocols - TCP/IP, HTTPS, IPv4/6, ARP, DHCP, NAT, ICMP, DNS.\nDatabases - MySQL, PostgreSQL, MongoDB.\nCloud Technologies - Amazon Web Services.\nOperating systems - Linux, MacOS.\nTools/Frameworks - Express, GIT, GNS3, Wireshark.\nIDE - pycharm, webstorm, Arduino IDE."
+  },
+  "aboutAlternative": {
+    "text": "I am a graduate student pursuing a Master's in Computer Engineering, with specialization in Enterprise Application development and Networking Domain.\n\nSkills:\nProgramming Skills - Python, Java, C++, Javascript, Socket Programming, Android Programming.\nWeb Technologies - React.js, Node.js, RESTful Web Services, HTML5, CSS3.\nNetwork Protocols - TCP/IP, HTTPS, IPv4/6, ARP, DHCP, NAT, ICMP, DNS.\nDatabases - MySQL, PostgreSQL, MongoDB.\nCloud Technologies - Amazon Web Services.\nOperating systems - Linux, MacOS.\nTools/Frameworks - Express, GIT, GNS3, Wireshark.\nIDE - pycharm, webstorm, Arduino IDE."
+  },
+  "positions": [
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Verizon Media",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "date1": "2018",
+      "date2": "2019"
+    },
+    {
+      "title": "Kolhapur Institute of Technology's College of Engineering, GOKUL-SHIRGAON",
+      "degree": "Bachelor of Engineering - BE",
+      "date1": "2013",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "Internet Protocol Suite (TCP/IP)"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "C (Programming Language)"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Blockchain"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "React"
+    },
+    {
+      "title": "Express.js"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Advance Computer Design",
+        "Computer Architecture",
+        "Computer Network Architecture",
+        "Data Structures and Algorithms",
+        "Network Architecture and Protocols",
+        "Network Security",
+        "Security Operating Systems",
+        "Smartphone Application Development"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Travel Buddy - Android Application",
+        "Face Recognition Application",
+        "Backend for Facebook Replica Application",
+        "DDOS - Distributed Denial Of service",
+        "Decentralized Digicerts",
+        "A Novel Approach to Design Programmable Switches"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Winners of National Level Paper Presentation",
+        "Vice-Chairman of Computer Society Of India (CSI) Students Branch KIT chapter",
+        "Best Journalist"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/riti-gupta-17909915/",
+      "text": "SWE Intern II at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jasmine-akkal-ba820496/",
+      "text": "Actively seeking an internship for summer 2019."
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pranati-kulkarni/",
+      "text": "MS in Electrical Engineering | Computer Networking & Virtualization | QA Automation | Seeking Full-time opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aishwarya-iyer/",
+      "text": "Actively seeking Full-time/ Internship opportunities starting May 2019."
+    },
+    {
+      "user": "https://www.linkedin.com/in/himani-bhavsar-076387aa/",
+      "text": "Industrial and Process Improvement Intern at Inmar"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanya-yadav/",
+      "text": "Data Analyst at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyaiyer06/",
+      "text": "Software Engineering Graduate Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-parakh-01724815a/",
+      "text": "Software Developer Engineer Intern at Amazon"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Devika Jadhav",
+    "headline": "Software Engineering Intern at Verizon Media",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am a graduate student pursuing a Master's in Computer Engineering, with specialization in Enterprise Application development and Networking Domain.\n\nSkills:\nProgramming Skills - Python, Java, C++, Javascript, Socket Programming, Android Programming.\nWeb Technologies - React.js, Node.js, RESTful Web Services, HTML5, CSS3.\nNetwork Protocols - TCP/IP, HTTPS, IPv4/6, ARP, DHCP, NAT, ICMP, DNS.\nDatabases - MySQL, PostgreSQL, MongoDB.\nCloud Technologies - Amazon Web Services.\nOperating systems - Linux, MacOS.\nTools/Frameworks - Express, GIT, GNS3, Wireshark.\nIDE - pycharm, webstorm, Arduino IDE."
+  }
+}

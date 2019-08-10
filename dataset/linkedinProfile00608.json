@@ -1,0 +1,342 @@
+{
+  "profileAlternative": {
+    "name": "Sowmya Halagatti",
+    "headline": "Application Developer @ Google",
+    "location": "Sunnyvale, California",
+    "connections": "425"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Application Developer",
+      "companyName": "Google",
+      "date1": "Apr 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Software Development Engineer",
+      "companyName": "Rovi",
+      "description": "MaRS – Management and remote services\n• This project is about design, development and implementation of device, admin and user data management such as creating user, associate user with the set of devices etc and providing remote services such as remote tuning, turnoff/on the device etc and admin services that are used by both internal Rovi and external clients.\n• Worked on OAuth 1.0a implementation for authentication.\nTGxD – Total Guide XD\n• This project deals with providing total guide experience to the customers through the mobile devices.\n• Involved in requirement gathering, design and implementation of APIs as per customer requirements. Mainly worked on orchestration layers, which involves getting data from various provider backend consolidating them together and orchestrating them as a single JSON response and API implementations, which are consumed by mobile devices.\nPhoneix-Draugen – Total guide experience for TV\n• This project deals with providing total guide tv experience to the customers\n• Worked on gateway layer of the application, which includes getting data from Rovi internal cloud and managing them in DAO and implementation of APIs and also orchestration of the data as per the client need.\n• Played major role in converting xml-based response with XSLT to JSON-based response using groovy transformation and JSON parser.\n• Worked as Scrum Master and also development work.\nTechnologies worked on: Java, J2EE, Hibernate ORM, JDBC, Spring boot with Jersey JAX-RS ReSTful, MySQL, SQL-Server,RAML, groovy, JSON, XML,JavaScript,Advanced ReST client, mockito, junit, tomcat, maven, crucible, versionOne, svn etc See less",
+      "date1": "Feb 2013 – Mar 2015",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Heartflow, Inc",
+      "description": "Design and Development of Product Analytics Dashboard\nBased on the requirement from business group, designed and developed the Internal Dashboard system to give graphical view of the various metrics as per requirement\nInvolved in Requirement analysis, System level design, development and Testing of ... ",
+      "date1": "Jun 2011 – Feb 2013",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Teaching assistant",
+      "companyName": "San Jose State University",
+      "description": "Assisting professor with developing technical presentations and class materials on technologies and languages such as cloud computing, virtualization, python, PHP and JavaScript.",
+      "date1": "Jan 2011 – May 2011",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Systems Engineer",
+      "companyName": "Infosys Technologies Limited",
+      "description": "Infosys Technologies is the India’s largest information and technology services provider; Developed and maintained web applications for Infosys’s clientele.\nInvolved in complete SDLC – Requirement Analysis, Design, Development and Testing phases.\nDeveloped Business APIs adopting MVC architecture using JSP, Servlets and JavaB... ",
+      "date1": "Jul 2009 – Jul 2010",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2010",
+      "date2": "2012"
+    },
+    {
+      "title": "Dr Ambedkar Institute of Technology",
+      "degree": "Bachelor of Engineering",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "XML",
+      "count": "19"
+    },
+    {
+      "title": "MySQL",
+      "count": "17"
+    },
+    {
+      "title": "JavaScript",
+      "count": "16"
+    },
+    {
+      "title": "Web Services",
+      "count": "11"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "7"
+    },
+    {
+      "title": "Software Development",
+      "count": "7"
+    },
+    {
+      "title": "Scrum",
+      "count": "4"
+    },
+    {
+      "title": "Web Applications",
+      "count": "2"
+    },
+    {
+      "title": "SDLC",
+      "count": "2"
+    },
+    {
+      "title": "Algorithms",
+      "count": "1"
+    },
+    {
+      "title": "Database Design"
+    },
+    {
+      "title": "Data Structures"
+    },
+    {
+      "title": "Java",
+      "count": "15"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "14"
+    },
+    {
+      "title": "Core Java",
+      "count": "10"
+    },
+    {
+      "title": "JSP",
+      "count": "9"
+    },
+    {
+      "title": "Databases",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "9"
+    },
+    {
+      "title": "REST",
+      "count": "8"
+    },
+    {
+      "title": "JDBC",
+      "count": "6"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "Tomcat",
+      "count": "5"
+    },
+    {
+      "title": "Linux",
+      "count": "5"
+    },
+    {
+      "title": "MongoDB",
+      "count": "4"
+    },
+    {
+      "title": "Servlets",
+      "count": "4"
+    },
+    {
+      "title": "RESTful WebServices",
+      "count": "3"
+    },
+    {
+      "title": "JPA",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "XSLT",
+      "count": "3"
+    },
+    {
+      "title": "Oracle",
+      "count": "3"
+    },
+    {
+      "title": "JUnit",
+      "count": "3"
+    },
+    {
+      "title": "Eclipse",
+      "count": "3"
+    },
+    {
+      "title": "Unix",
+      "count": "3"
+    },
+    {
+      "title": "Spring Framework",
+      "count": "2"
+    },
+    {
+      "title": "Hibernate",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "JSON",
+      "count": "1"
+    },
+    {
+      "title": "Java Database Connectivity (JDBC)",
+      "count": "1"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "JSF"
+    },
+    {
+      "title": "Selenium"
+    },
+    {
+      "title": "python"
+    },
+    {
+      "title": "Subversion"
+    },
+    {
+      "title": "Ant"
+    },
+    {
+      "title": "Maven"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "Stored Procedures"
+    },
+    {
+      "title": "Database Triggers"
+    },
+    {
+      "title": "Dashboard"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/brinduc/",
+        "text": "I have worked with Sowmya at Rovi for about half a year. Although our paths only briefly intersected, I thought Sowmya had excellent technical skills in the area of software design, Java and code quality. Sowmya is a conscientious and detail oriented person and has a great analytical mind. She is eager ... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/robert-brooks-43850141/",
+        "text": "I have worked with Sowmya Halagatti for the past year with Rovi Corporations. I can only describe Sowmya as technically sound, professional, and driven to make a impact on her team in a positive way. Sowmya, is outspoke when it comes to sharing design ideas and participating in brainstorming sessions as a team; she always meets her task commitments and looks to assist others with any issue. It would be a great pleasure for me to recommend or work with Sowmya on any Software Development effort.\n\nSincerely,\n\nRobert Brooks See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/anagha-tongaonkar-0796452/",
+        "text": "Sowmya is a consistently reliable & efficient contributor. I have led & managed projects where she was an outstanding performer & a good team player. Sowmya came up to speed very quickly with the various projects and also picked up key complex projects quickly. Sowmya is thorough & systematic in her work. I am impressed by her ability to understand the customer requirements and effectively work towards completing those requirements with good quality. When needed, in an agile team, she does not hesitate to take up roles like scrum master, QA, and documentation, and does a good job in each role. I highly recommend Sowmya. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jjbenavidez/",
+        "text": "Sowmya worked for me as a Software Engineer, first directly, then indirectly, for more than one-and-a-half years. During that time, she primarily developed Java RESTful services that powered Rovi applications to connect consumers to their entertainment media. Sowmya is a dedicated team player, having worked on scrum teams that spanned Rovi's many worldwide offices, including Luxembourg, Mumbai, and multiple locations on the East and West coasts of the US.\n\nSowmya is extremely capable, triaging and solving production issues and for a period, acting as a part-time Scrum Master, along with her carrying out her usual duties of designing, implementing, and testing as a Software Engineer. I would be happy to work with Sowmya again. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ben-forrest-470211/",
+        "text": "Sowmya and I worked together on a team at HeartFlow where Sowmya built an online dashboard for tracking client cases. Sowmya was a great asset to the team - very knowledgeable, dependable, collaborative, and thorough in creating a system that provided clear and clean reports."
+      },
+      {
+        "user": "https://www.linkedin.com/in/brian-gonzales-7683281/",
+        "text": "Sowmya was my ‘go to’ person on the test team when I had questions ranging from product behaviors to impacts of new product requirements on test efforts and timelines. Her positive attitude and knowledge set her apart from her peers. Sowmya’s commitment to the product and to her team were greatly appreciated. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michael-hall-7740043/",
+        "text": "Sowmya is an creative problem solver who enjoys working on tough assignments and challenging herself. She has been a key resource for me in the past in taking ownership of an internal web based tool using sql, servlets and javascript. Sowmya is someone I have counted on as a team lead when delegating large tasks to be distributed to others. I would hire her again given the opportunity. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/brinduc/",
+        "text": "I have worked with Laura for about half an year now.Laura is  highly motivated and smart engineer , she is very easy to work with and often goes above and beyond a discussion for the better of the project.She is a great colleague to have and a resourceful person to any company she would work for. I highly recommend Laura.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/robert-brooks-43850141/",
+        "text": "Robert is one of very good engineers. Even though he was working from Colorado, we did not have any problem working on same project together. He is good team player and communicates well. His focus on details of work results in quality implementation of the work assigned to him. Always strive to write quality code and makes effort to improve the performance as well.\r\nIt is good to work with Robert and recommend him.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/brinduc/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shrutisprofile/",
+      "text": "Data Application Engineer at Google Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yankishah/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vidyamay/",
+      "text": "Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pooja30391/",
+      "text": "Software Developer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandni-balchandani-56884a58/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rraghuram/",
+      "text": "Senior Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hakhu/",
+      "text": "Development Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dhaval-mehta-799b467/",
+      "text": "Enterprise Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dhruvpatel0122/",
+      "text": "Solutions Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sowmya Halagatti",
+    "headline": "Application Developer @ Google",
+    "location": "Sunnyvale, California",
+    "connections": "425"
+  }
+}

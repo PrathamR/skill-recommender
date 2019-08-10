@@ -1,0 +1,230 @@
+{
+  "profileAlternative": {
+    "name": "Sweety Sojrani",
+    "headline": "IT Intern at Pure Storage",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "IT Intern",
+      "companyName": "Pure Storage",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Instructional Student Assistant",
+      "companyName": "San Jose State University",
+      "date1": "Feb 2019 – May 2019",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior System Engineer",
+      "companyName": "IBM India Private Limited",
+      "description": "● Performed Software Development lifecycle on Oracle Reports in Account Receivable, Fixed Asset, and Services Modules\n● Retrofitted existing 30 RICE (Report Interface Conversion Extension) objects for Oracle R12 Migration\n● Developed Extensions in Oracle’s Project, and Payable modules\n● Applied Oracle EDQ (Enterprise Data Quality) and ETL knowledge to migrate data effectively from legacy system to new Oracle R12 system\n● Designed and Built Data Conversion Programs in Oracle Services, Cash Management, and Inventory modules\n● Implemented Unix Shell Scripts for automatic migration of programs to Oracle R12 system See less",
+      "date1": "Sep 2015 – Oct 2016",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "IT Analyst",
+      "companyName": "Eaton Corporation",
+      "description": "● Designed and Developed Integration solutions in Oracle ERP for Concur application and other ERP\n● Performed data conversion of multilingual characters; Data Loaders, Validation, Troubleshooting and Warranty support... ",
+      "date1": "Jul 2011 – Jul 2015",
+      "date2": "4 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Cummins College of Engineering for Women, Pune University",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2008",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle E-Business Suite",
+      "count": "3"
+    },
+    {
+      "title": "Oracle Financials",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "9"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Big Data"
+    },
+    {
+      "title": "Big data"
+    },
+    {
+      "title": "Cloud Computing"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "SQL",
+      "count": "9"
+    },
+    {
+      "title": "Unix",
+      "count": "3"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "4"
+    },
+    {
+      "title": "Oracle SQL Developer",
+      "count": "2"
+    },
+    {
+      "title": "Oracle",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "Core Java",
+      "count": "2"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Microsoft PowerPoint"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Docker",
+      "count": "1"
+    },
+    {
+      "title": "NoSQL"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "TensorFlow",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking"
+    },
+    {
+      "title": "Team Management",
+      "count": "1"
+    },
+    {
+      "title": "Customer Support"
+    },
+    {
+      "title": "Oracle Reports",
+      "count": "1"
+    },
+    {
+      "title": "Oracle Manufacturing",
+      "count": "1"
+    },
+    {
+      "title": "Oracle Forms",
+      "count": "2"
+    },
+    {
+      "title": "Rapid swift suite"
+    },
+    {
+      "title": "EDQ"
+    },
+    {
+      "title": "Kubernetes",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sweety Sojrani",
+    "headline": "IT Intern at Pure Storage",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "profileAlternative": {
+    "name": "Aditya Patel",
+    "headline": "Actively looking for Software Engineering internship opportunities",
+    "location": "Sunnyvale, California",
+    "connections": "500+",
+    "summary": "Actively seeking a software engineering internship. Currently pursuing a master of science in Computer Engineering at San Jose State University, working on optimizing vector operations using C++ and OpenCL. Experienced in Android development and backend development using Python."
+  },
+  "aboutAlternative": {
+    "text": "Actively seeking a software engineering internship. Currently pursuing a master of science in Computer Engineering at San Jose State University, working on optimizing vector operations using C++ and OpenCL. Experienced in Android development and backend development using Python."
+  },
+  "positions": [
+    {
+      "title": "Research Assistant",
+      "companyName": "San Jose State University",
+      "description": "Currently designing data structures and algorithms that speed up Deep Learning vector operations\nin C++. This optimization will improve performance and reduce the power consumption of the current version. Planning to propose my case study as a research paper.",
+      "date1": "Nov 2018 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Software Development Intern",
+      "companyName": "ostris solution",
+      "description": "Engineered an Android application for home surveillance and monitoring system which is controlled by Raspberry Pi. I was working on an Android application. Utilized agile methodology for rapid software development. Write automated tests to validate code correctness.",
+      "date1": "Mar 2018 – Jun 2018",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Development Intern",
+      "companyName": "Ultra Infotech",
+      "description": "Developed an Android application for a Non-Profit Organization. I designed some templates and its internal working in java. Monitored errors and defects. Participate in code reviews.",
+      "date1": "Jun 2016 – Aug 2016",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Gujarat Technological University, Ahmedbabd",
+      "degree": "Bachelor of Engineering - BE",
+      "date1": "2014",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "13"
+    },
+    {
+      "title": "Java",
+      "count": "14"
+    },
+    {
+      "title": "Python",
+      "count": "13"
+    },
+    {
+      "title": "Android Development",
+      "count": "10"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "11"
+    },
+    {
+      "title": "JavaScript",
+      "count": "13"
+    },
+    {
+      "title": "C",
+      "count": "9"
+    },
+    {
+      "title": "Ruby",
+      "count": "9"
+    },
+    {
+      "title": "HTML",
+      "count": "7"
+    },
+    {
+      "title": "SQL",
+      "count": "9"
+    },
+    {
+      "title": "MongoDB",
+      "count": "9"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "3"
+    },
+    {
+      "title": "Flask",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Collaborative filtering From Scratch",
+        "NearByCafe",
+        "Sentiment Analysis",
+        "SnapNote",
+        "Tweet Evaluations"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/radhika-maheshwari/",
+      "text": "Actively looking for Full-Time Opportunities starting December 2020"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sweety-sojrani-72190222/",
+      "text": "IT Intern at Pure Storage"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bijal-bhatt-01/",
+      "text": "Seeking internship opportunities in the field of Software Engineering and related."
+    },
+    {
+      "user": "https://www.linkedin.com/in/gaurav-khanna-858563181/",
+      "text": "Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramya-dharwada/",
+      "text": "Graduate Student at San Jose State University | Actively seeking internship opportunities for summer 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yash-amin1/",
+      "text": "Software Engineer Intern at Nuage Networks from Nokia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jayparekhjp/",
+      "text": "AWS Certified | CloudOps Infrastructure Intern at TeleTracking | Graduate Student at SJSU"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Aditya Patel",
+    "headline": "Actively looking for Software Engineering internship opportunities",
+    "location": "Sunnyvale, California",
+    "connections": "500+",
+    "summary": "Actively seeking a software engineering internship. Currently pursuing a master of science in Computer Engineering at San Jose State University, working on optimizing vector operations using C++ and OpenCL. Experienced in Android development and backend development using Python."
+  }
+}

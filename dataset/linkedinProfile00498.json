@@ -1,0 +1,375 @@
+{
+  "profileAlternative": {
+    "name": "Priyanka Prakash",
+    "headline": "Software Engineer 2 at Microsoft",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Graduated from University of Southern California with Master's in Computer Science.\n\nWorking as a Software Engineer at Intel Corporation.\n\nMentor, Outreachy for Node.js and a Student Scholarship Reviewer on the Grace Hopper Celebration of Women in Computing (GHC 17)\n\nWorked as a Research Student at University of Southern California under Professor Cyrus Shahabi on a project iHealth, for clinical evaluation of patients with musculo- skeletal disorders using a 3D sensor(Microsoft Kinect).\n\nWorked as a Software Engineer at SAP Labs India Pvt. Ltd. where I worked as an Android Developer for SAP Mobile Applications Team.\n\nAreas of Interest: Software Development, Mobile Applications, Operating Systems, Software Engineering"
+  },
+  "aboutAlternative": {
+    "text": "Graduated from University of Southern California with Master's in Computer Science.\n\nWorking as a Software Engineer at Intel Corporation.\n\nMentor, Outreachy for Node.js and a Student Scholarship Reviewer on the Grace Hopper Celebration of Women in Computing (GHC 17)\n\nWorked as a Research Student at University of Southern California under Professor Cyrus Shahabi on a project iHealth, for clinical evaluation of patients with musculo- skeletal disorders using a 3D sensor(Microsoft Kinect).\n\nWorked as a Software Engineer at SAP Labs India Pvt. Ltd. where I worked as an Android Developer for SAP Mobile Applications Team.\n\nAreas of Interest: Software Development, Mobile Applications, Operating Systems, Software Engineering"
+  },
+  "positions": [
+    {
+      "title": "Microsoft",
+      "date1": "Mar 2019 – Present",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Software Engineer 2",
+          "date1": "Mar 2019 – Present",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Intel Corporation",
+      "description": "Worked on an open source project called NODEDC, contributing directly to core open source software to enable it to run in an optimal manner on Intel's processors for current and future cloud and datacenter systems. Served as one of the main developers for an open source workload, Node-DC-EIS, representing realistic usages of Node.js in the data center ... ",
+      "date1": "Jul 2016 – Mar 2018",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Intel Corporation",
+      "date1": "Jan 2016 – May 2016",
+      "date2": "5 mos"
+    },
+    {
+      "title": "SSG-Intern",
+      "companyName": "Intel Corporation",
+      "description": "Worked as an intern at Intel in the System Technology Optimization team on a project based on Hip Hop Virtual Machine. Developed a tool in Ruby to process and summarize critical details on metrics that are needed for in-depth characterization across many architectures.",
+      "date1": "Jun 2015 – Aug 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Developer Associate",
+      "companyName": "SAP Labs India",
+      "description": " Experience in Mobile software applications development.\n\n Worked with the “Android Development Team” on the project “SAP Retail Execution” - a mobile application for Android smartphones and tablets designed for sales represe... ",
+      "date1": "Jun 2013 – Jun 2014",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Southern California",
+      "degree": "Master's degree",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "B. M. S. College of Engineering",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "17"
+    },
+    {
+      "title": "Java",
+      "count": "15"
+    },
+    {
+      "title": "C",
+      "count": "13"
+    },
+    {
+      "title": "Programming",
+      "count": "3"
+    },
+    {
+      "title": "Algorithms",
+      "count": "2"
+    },
+    {
+      "title": "Android Development",
+      "count": "2"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "2"
+    },
+    {
+      "title": "Data Mining",
+      "count": "2"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Computer Science",
+      "count": "2"
+    },
+    {
+      "title": "Web Applications",
+      "count": "1"
+    },
+    {
+      "title": "Web Development",
+      "count": "1"
+    },
+    {
+      "title": "OOP",
+      "count": "1"
+    },
+    {
+      "title": "Data Structures",
+      "count": "1"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "1"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "1"
+    },
+    {
+      "title": "Database Design",
+      "count": "1"
+    },
+    {
+      "title": "iOS Development"
+    },
+    {
+      "title": "JavaScript",
+      "count": "10"
+    },
+    {
+      "title": "Python",
+      "count": "7"
+    },
+    {
+      "title": "Linux",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "PHP",
+      "count": "2"
+    },
+    {
+      "title": "Android",
+      "count": "2"
+    },
+    {
+      "title": "Git",
+      "count": "2"
+    },
+    {
+      "title": "Eclipse",
+      "count": "2"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "jQuery",
+      "count": "1"
+    },
+    {
+      "title": "CSS",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "C#",
+      "count": "1"
+    },
+    {
+      "title": "Databases",
+      "count": "1"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    },
+    {
+      "title": "Selenium",
+      "count": "1"
+    },
+    {
+      "title": "Ruby",
+      "count": "1"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "1"
+    },
+    {
+      "title": "Node.js",
+      "count": "1"
+    },
+    {
+      "title": "Node js"
+    },
+    {
+      "title": "iOS"
+    },
+    {
+      "title": "DBMS",
+      "count": "1"
+    },
+    {
+      "title": "Information Retrieval",
+      "count": "1"
+    },
+    {
+      "title": "Nutch",
+      "count": "1"
+    },
+    {
+      "title": "Solr",
+      "count": "1"
+    },
+    {
+      "title": "Lucene",
+      "count": "1"
+    },
+    {
+      "title": "Kinect",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "24",
+      "items": [
+        "Advanced Data Structures",
+        "Algorithms",
+        "Analysis and Design of Algorithms",
+        "Artificial Intelligence",
+        "C , C++ Java, C# Programming",
+        "Cloud Computing",
+        "Computer Networks",
+        "Computer Organization and Architecture",
+        "Cryptography and Network Security",
+        "Data Structures"
+      ]
+    },
+    {
+      "count": "11",
+      "items": [
+        "iHealth",
+        "Weenix Operating System",
+        "Spatial Database Application for USC Transportation",
+        "Zillow Property Search Android Application with Facebook and AWS Integration",
+        "Multithreading – Token Bucket Emulation in C",
+        "Apache-Solr based Search Engine and Ranking Algorithms for NSF and NASA Polar Datasets",
+        "Nutch URL Filters",
+        "Association Rule Mining with Cloud Integration- A Comparative Study",
+        "Decentralized Peer to Peer Architecture",
+        "Student Information System"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sahiba-rekhi-9731858a/",
+      "text": "Software Engineer in Test| NetApp Solidfire"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mathurmansi/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayuripardeshi/",
+      "text": "Global Program Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akankshya-padhi-2699018a/",
+      "text": "Senior Associate at PwC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poonamchawla2010/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aparna-anand/",
+      "text": "Software Development Engineer at Yahoo! Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/madhumitasawant/",
+      "text": "Network Engineer at Fluent, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akanksha-bindal/",
+      "text": "Machine Learning Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akanksha8618/",
+      "text": "Data Scientist at Clarivate Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/snehal-nagmote-79651122/",
+      "text": "Data@Netflix"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Month of Service at SAP in association with Agastya international Foundation",
+      "description": "Children",
+      "date2": "Cause"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "HOPE foundation",
+      "description": "Children",
+      "date2": "Cause"
+    },
+    {
+      "title": "Scholarship Reviewer",
+      "experience": "The Grace Hopper Program",
+      "description": "Science and Technology",
+      "date1": "Mar 2017 – May 2017",
+      "date2": "3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Priyanka Prakash",
+    "headline": "Software Engineer 2 at Microsoft",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Graduated from University of Southern California with Master's in Computer Science.\n\nWorking as a Software Engineer at Intel Corporation.\n\nMentor, Outreachy for Node.js and a Student Scholarship Reviewer on the Grace Hopper Celebration of Women in Computing (GHC 17)\n\nWorked as a Research Student at University of Southern California under Professor Cyrus Shahabi on a project iHealth, for clinical evaluation of patients with musculo- skeletal disorders using a 3D sensor(Microsoft Kinect).\n\nWorked as a Software Engineer at SAP Labs India Pvt. Ltd. where I worked as an Android Developer for SAP Mobile Applications Team.\n\nAreas of Interest: Software Development, Mobile Applications, Operating Systems, Software Engineering"
+  }
+}

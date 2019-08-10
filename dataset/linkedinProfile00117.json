@@ -1,0 +1,284 @@
+{
+  "profileAlternative": {
+    "name": "Akshay Jaiswal",
+    "headline": "Software Engineering Graduate Student | SDE intern at Amazon",
+    "location": "San Jose, California",
+    "connections": "319",
+    "summary": "Highly motivated individual, determined to deliver 100% every time.\n- Full-Stack developer with 2 years of web application development experience in the industry.\n- Developed multiple web applications working on both front as well as back-end.\n- Experience with NodeJs, Angular, Javascript, Typescript, Bootstrap, CSS, HTML to design and develop professional and responsive web pages.\n- Created REST Api endpoints for web application functionalities.\n- Solid experience in back-end design and development with MVC Frameworks, Spring boot, Application hosting services, JDBC, Database architecture design, Role based user access."
+  },
+  "aboutAlternative": {
+    "text": "Highly motivated individual, determined to deliver 100% every time.\n- Full-Stack developer with 2 years of web application development experience in the industry.\n- Developed multiple web applications working on both front as well as back-end.\n- Experience with NodeJs, Angular, Javascript, Typescript, Bootstrap, CSS, HTML to design and develop professional and responsive web pages.\n- Created REST Api endpoints for web application functionalities.\n- Solid experience in back-end design and development with MVC Frameworks, Spring boot, Application hosting services, JDBC, Database architecture design, Role based user access."
+  },
+  "positions": [
+    {
+      "title": "SDE Intern",
+      "companyName": "Amazon",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Programmer Analyst",
+      "companyName": "Cognizant",
+      "description": "- Worked as a Full-Stack developer for the Data Privacy and Protection team at Cognizant.\n- As a part of a small team, I designed and developed multiple web applications and conducted demos for prospective clients.\n- Gathered client requirements and prototyped more than 20 new features for data ... ",
+      "date1": "Nov 2016 – Jun 2018",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Project Intern",
+      "companyName": "GS Lab",
+      "description": "Worked as a project intern and Developed a web application for sentiment analysis of product reviews using Natural Language processing",
+      "date1": "Sep 2015 – Feb 2016",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Smt. Kashibai Navale College of Engineering, Pune",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "Natural Language Processing",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "11"
+    },
+    {
+      "title": "User Interface Design"
+    },
+    {
+      "title": "Design Patterns"
+    },
+    {
+      "title": "Product Design"
+    },
+    {
+      "title": "Test Driven Development"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Front-end Development"
+    },
+    {
+      "title": "Java",
+      "count": "11"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "angular 4"
+    },
+    {
+      "title": "Spring Boot"
+    },
+    {
+      "title": "Spring Framework"
+    },
+    {
+      "title": "SQL",
+      "count": "7"
+    },
+    {
+      "title": "C++",
+      "count": "13"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "HTML",
+      "count": "6"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "Java Database Connectivity (JDBC)"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Oracle SQL Developer"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "gRPC"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "Unity"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "7"
+    },
+    {
+      "title": "Leadership",
+      "count": "7"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "English"
+    },
+    {
+      "title": "Multi-core Programming"
+    },
+    {
+      "title": "Web Application Development"
+    },
+    {
+      "title": "LinkedIn"
+    },
+    {
+      "title": "Back-End Web Development"
+    },
+    {
+      "title": "Unity3D"
+    },
+    {
+      "title": "Curl"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Knight Walkers",
+        "Online marketplace for keyboards",
+        "Sinnonyms - Online Marketplace",
+        "Data Obscure - Data masking solution",
+        "License Generation Application for proprietary products of the company",
+        "Data visualization tool for elasticsearch",
+        "Sentiment analysis on feature based categorization of product reviews."
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "”Survey on classification techniques for data mining” IJCA vol. 132, December 2015"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajastulpule/",
+      "text": "Software Development Engineer Intern at Amazon(AWS) | Actively looking for Fall Internship/Co-Op"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharwari-phadnis/",
+      "text": "Intern-Member of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-krishna-reddy-jali/",
+      "text": "Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikitajuneja/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saket-thakare/",
+      "text": "Software Engineering Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/smitha-venkatesh-8a92a315/",
+      "text": "Software engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bargemb/",
+      "text": "Software Engineer Intern at Cray Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/pratikshac/",
+      "text": "Software Engineer at Apple"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Community Volunteer",
+      "experience": "Pune Learns",
+      "description": "Education",
+      "date1": "Mar 2016 – Present",
+      "date2": "3 yrs 5 mos"
+    }
+  ],
+  "profile": {
+    "name": "Akshay Jaiswal",
+    "headline": "Software Engineering Graduate Student | SDE intern at Amazon",
+    "location": "San Jose, California",
+    "connections": "319",
+    "summary": "Highly motivated individual, determined to deliver 100% every time.\n- Full-Stack developer with 2 years of web application development experience in the industry.\n- Developed multiple web applications working on both front as well as back-end.\n- Experience with NodeJs, Angular, Javascript, Typescript, Bootstrap, CSS, HTML to design and develop professional and responsive web pages.\n- Created REST Api endpoints for web application functionalities.\n- Solid experience in back-end design and development with MVC Frameworks, Spring boot, Application hosting services, JDBC, Database architecture design, Role based user access."
+  }
+}

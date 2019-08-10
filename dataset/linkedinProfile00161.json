@@ -1,0 +1,234 @@
+{
+  "profileAlternative": {
+    "name": "Apoorv Walawalkar",
+    "headline": "Senior Engineer at R-DEX Systems",
+    "location": "Greater Atlanta Area",
+    "connections": "468"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Senior Engineer",
+      "companyName": "R-DEX Systems",
+      "date1": "Jul 2016 – Present",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Lab Assistant",
+      "companyName": "Worcester Polytechnic Institute",
+      "description": "• Worked on a Bureau of Safety and Environmental Enforcement (BSEE) project, in order to develop a safe, low emission, in situ method to quickly separate the oil and water recovered from a skimming system, and utilize or burn off the recovered oil in the Arctic region.\n• Managed a team of 6 students including graduate and undergraduate students.\n• Wrote proposals, conducted experiments in small, intermediate and large scales with various combinations of parameters.\n• Assisted in designing experimental setup, collected temperature and heat flux data from Signal Express, analyzed and visualized the results.\n• Prepared thermocouples, machined components required for the project and developed a working prototype.\nSee less",
+      "date1": "Sep 2015 – Jul 2016",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Electronics and Programming Intern",
+      "companyName": "OSRAM",
+      "description": "• Developed a sensor testing test setup for PIR sensors as a part of R&D department. Assembled a gantry system with safety enclosure (2m X 2m X 1.5m).\n• Debugged the entire system and got it to work. Developed a C# GUI to facilitate the sensor testing.... ",
+      "date1": "May 2015 – Aug 2015",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Lecturer",
+      "companyName": "Vidyavardhini's College of Engineering and Technology",
+      "description": "• Taught Engineering Mechanics and Engineering Drawing to freshmen students and also conducted SolidWorks lab sessions.\n• Have experience in conducting exams, grading and counseling.",
+      "date1": "Jul 2013 – May 2014",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Mechanical Engineering Intern",
+      "companyName": "Premier Ltd.",
+      "description": "• Assisted the R&D department of Premier limited in improving the power-train of a SUV. Searched and identified an appropriate gear-box to improve efficiency of Premier SUV model, Rio.\n• Designed an interface using CATIA to connect the new gearbox with the engine a... ",
+      "date1": "Nov 2012 – Apr 2013",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Worcester Polytechnic Institute",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "Fr. Conceicao Rodrigues College of Engineering",
+      "degree": "Engineer’s Degree",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "10"
+    },
+    {
+      "title": "C",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "6"
+    },
+    {
+      "title": "Matlab",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "AutoCAD",
+      "count": "3"
+    },
+    {
+      "title": "SolidWorks",
+      "count": "3"
+    },
+    {
+      "title": "C#",
+      "count": "2"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "NX Unigraphics",
+      "count": "1"
+    },
+    {
+      "title": "CATIA",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "ROS",
+      "count": "4"
+    },
+    {
+      "title": "CANopen"
+    },
+    {
+      "title": "Plus+1 Guide"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Artificial Intelligence",
+        "Automation and Control Engineering",
+        "Computer Vision",
+        "Foundations of Robotics",
+        "Industrial Robotics",
+        "Model Based Design",
+        "Robot Control",
+        "Robot Dynamics"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Master’s Thesis: Automating Functional Fitness Test (FFT) for the elderly",
+        "Automating Ground Penetrating Radar (GPR) Survey, Directed Research, WPI",
+        "ROS-Gazebo Simulation of Neurosurgery Robot, Course Project, WPI",
+        "Smart Cane module for Smart Environment, Directed Research, WPI",
+        "Using MOPED for object detection and pose estimation, WPI",
+        "Logistic Control by Swarm Robotics, Senior Year, University of Mumbai"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Immersed conductive objects for hazardous waste combustion",
+        "Robotic based user movement tracking"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nicholas-smith-9ab48153/",
+      "text": "Finishing my Masters in Robotic Engineering."
+    },
+    {
+      "user": "https://www.linkedin.com/in/flavio-albieri-de-paula-b3165566/",
+      "text": "Embedded Systems Engineer / Controls Engineer at R-DEX Systems, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/nier-automata/",
+      "text": "Senior Software Engineer at R-DEX Systems, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-huggins-380853b/",
+      "text": "Engineer at R-DEX Systems, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarvesh-ayre-13b32555/",
+      "text": "Senior Automation Engineer at JSat Automation Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-huggins-5ba836146/",
+      "text": "Mechanical Engineer at R-DEX Systems, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/nrupa-chitley-b760b65a/",
+      "text": "Software Engineer Intern at Cisco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robertbock10/",
+      "text": "Director of Science and Engineering at R-DEX Systems, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/bharatmehta26/",
+      "text": "Equipment Engineer at Tesla | Model 3 Battery Module"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aditya-medicherla-3ba0a335/",
+      "text": "Senior Control Systems Engineer at M-Tek Inc."
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "National Service Scheme",
+      "description": "Social Services",
+      "date1": "Aug 2011 – May 2013",
+      "date2": "1 yr 10 mos"
+    }
+  ],
+  "profile": {
+    "name": "Apoorv Walawalkar",
+    "headline": "Senior Engineer at R-DEX Systems",
+    "location": "Greater Atlanta Area",
+    "connections": "468"
+  }
+}

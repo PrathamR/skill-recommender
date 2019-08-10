@@ -1,0 +1,352 @@
+{
+  "profileAlternative": {
+    "name": "Mayur Barge",
+    "headline": "Software Engineer Intern at Cray Inc.",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am currently pursuing my Master's in Software Engineering from San José State University with specialization in Enterprise Software Technologies. I am working on MongoDB, Express, React and Node.js for graduate coursework and projects.\nPrior to Master's I worked at Veritas Technologies LLC (Earlier Symantec Corporation) for 5 years as a Senior Software Engineer. I am an experienced Software Engineer with a diverse background and a demonstrated history of working for enterprise products with agile methodologies. Skilled in infrastructure automation tools viz. Ansible, software containerization and orchestration platforms viz. Docker and Kubernetes, Jenkins as CI/CD tool and Python as the programming language."
+  },
+  "aboutAlternative": {
+    "text": "I am currently pursuing my Master's in Software Engineering from San José State University with specialization in Enterprise Software Technologies. I am working on MongoDB, Express, React and Node.js for graduate coursework and projects.\nPrior to Master's I worked at Veritas Technologies LLC (Earlier Symantec Corporation) for 5 years as a Senior Software Engineer. I am an experienced Software Engineer with a diverse background and a demonstrated history of working for enterprise products with agile methodologies. Skilled in infrastructure automation tools viz. Ansible, software containerization and orchestration platforms viz. Docker and Kubernetes, Jenkins as CI/CD tool and Python as the programming language."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Cray Inc.",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Veritas Technologies LLC",
+      "date1": "Jul 2017 – Jul 2018",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Jul 2017 – Jul 2018",
+          "date2": "1 yr 1 mo"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Oct 2015 – Jun 2017",
+          "date2": "1 yr 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Symantec",
+      "date1": "Jul 2015 – Sep 2015",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Jul 2015 – Sep 2015",
+          "date2": "3 mos"
+        },
+        {
+          "title": "Associate Software Engineer",
+          "date1": "Jul 2013 – Jun 2015",
+          "date2": "2 yrs"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Walchand College of Engineering, Sangli",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Yashvantrao Chanvan Institute of Science, Satara",
+      "degree": "H. S. C.",
+      "date1": "2007",
+      "date2": "2009"
+    },
+    {
+      "title": "New English School, Satara",
+      "degree": "S. S. C.",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "DevOps"
+    },
+    {
+      "title": "Core Java",
+      "count": "19"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "1"
+    },
+    {
+      "title": "Data Structures",
+      "count": "15"
+    },
+    {
+      "title": "Continuous Integration",
+      "count": "2"
+    },
+    {
+      "title": "OOP",
+      "count": "4"
+    },
+    {
+      "title": "Programming",
+      "count": "3"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Cloud Computing"
+    },
+    {
+      "title": "Shell Scripting"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Git",
+      "count": "4"
+    },
+    {
+      "title": "C",
+      "count": "15"
+    },
+    {
+      "title": "Eclipse",
+      "count": "8"
+    },
+    {
+      "title": "MySQL",
+      "count": "4"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "2"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "6"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Node.js",
+      "count": "1"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Red Hat Linux"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Unix"
+    },
+    {
+      "title": "Enterprise Software"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Ansible"
+    },
+    {
+      "title": "Jenkins",
+      "count": "7"
+    },
+    {
+      "title": "NoSQL"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "Kubernetes"
+    },
+    {
+      "title": "Perforce",
+      "count": "3"
+    },
+    {
+      "title": "Stash"
+    },
+    {
+      "title": "PyCharm"
+    },
+    {
+      "title": "RabbitMQ"
+    },
+    {
+      "title": "Nginx"
+    },
+    {
+      "title": "Vim"
+    },
+    {
+      "title": "Express.js"
+    },
+    {
+      "title": "Redis"
+    },
+    {
+      "title": "Containerization"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tarazieglmeier/",
+        "text": "Mayur is an ideal team member who always has a smile on his face. Not only does he stay up-to-date on the latest technologies, he is willing to help and coach his peers as well. He is always looking for ways to do things better and participates in hack-a-thons frequently. Mayur would be an asset to any company. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/manasi-phadnis-csm-pmp-597b08115/",
+        "text": "I worked with Mayur for last 1.5 year in Veritas and have found him to be one of the most talented & sincere people I have ever worked with. His technical and analytical skills are exceptional. Due to his attitude and skills he has earned huge respect of all his peers & seniors.\nHe has an exceptionally innovative mind and out of box thinking capability. He is always aware of what's happening in technology world and would strive to learn something new as frequently as possible . I am pretty sure he will be an asset to any organisation he works for. Wishing him all the very best!!!! See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/amitrajitb/",
+        "text": "I worked with Mayur when he had just joined the CM team in Symantec. Configuration Management can be a beast at times, and even though Mayur was new, he was able to figure out the solutions to the problems I reported to him. I have seen him work very hard to help ensure that our builds were generated on time. I would like to take this opportunity to thank mayur and wish him all the very best in this future endeavors. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/amitrajitb/",
+        "text": "Amitrajit is very passionate about the technology and has consistently given exemplary outputs. His commitments towards project deadlines and deliverables were praiseworthy.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Cloud Technologies",
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms",
+        "Smartphone Application Development",
+        "Software Systems Engineering"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "First Runner-up",
+        "Certificate of Appreciation"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/juan-chen/",
+      "text": "Software Engineer Intern at Poshmark"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akhianand/",
+      "text": "Software Engineer Intern at Glassdoor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreyamkela/",
+      "text": "Software Engineer Intern at Cinequest | Software Engineering Graduate Student at SJSU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/varun13/",
+      "text": "Senior Software Developer Intern at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshay-jaiswal/",
+      "text": "Software Engineering Graduate Student | SDE intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thevarunjain/",
+      "text": "Software Developer Intern at Pulse Secure"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyaiyer06/",
+      "text": "Software Engineering Graduate Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anideshp/",
+      "text": "Full Stack Developer Intern at SAP | MS Software Engineering Student at SJSU | Ex. Software Engineer at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/smitha-venkatesh-8a92a315/",
+      "text": "Software engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ketan-kodmelwar/",
+      "text": "Software Development Intern at Edelman Financial Engines"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mayur Barge",
+    "headline": "Software Engineer Intern at Cray Inc.",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am currently pursuing my Master's in Software Engineering from San José State University with specialization in Enterprise Software Technologies. I am working on MongoDB, Express, React and Node.js for graduate coursework and projects.\nPrior to Master's I worked at Veritas Technologies LLC (Earlier Symantec Corporation) for 5 years as a Senior Software Engineer. I am an experienced Software Engineer with a diverse background and a demonstrated history of working for enterprise products with agile methodologies. Skilled in infrastructure automation tools viz. Ansible, software containerization and orchestration platforms viz. Docker and Kubernetes, Jenkins as CI/CD tool and Python as the programming language."
+  }
+}

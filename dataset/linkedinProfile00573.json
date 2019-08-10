@@ -1,0 +1,249 @@
+{
+  "profileAlternative": {
+    "name": "Sandhya Ramachandra",
+    "headline": "Software Intern at VMware",
+    "location": "San Jose, California",
+    "connections": "379",
+    "summary": "Skillset:\nProgramming Languages: Java, C++, C, Python ,JavaScript\nWeb: HTML5, CSS3, JavaScript, AngularJS, jQuery, AJAX, Node.js\nNetworks: TCP/IP, UDP, HTTP, HTTPS, Mininet, OpenFlow,Apache,Tomcat\nFrameworks: Spring,RESTful,XML,JSON\nDatabases: MySQL, SQL, Oracle, MongoDB, Postgres\nAdditional Other Skills: Unix kernel, Android SDK, OpenCV ,AWS, Cloud Infrastructure"
+  },
+  "aboutAlternative": {
+    "text": "Skillset:\nProgramming Languages: Java, C++, C, Python ,JavaScript\nWeb: HTML5, CSS3, JavaScript, AngularJS, jQuery, AJAX, Node.js\nNetworks: TCP/IP, UDP, HTTP, HTTPS, Mininet, OpenFlow,Apache,Tomcat\nFrameworks: Spring,RESTful,XML,JSON\nDatabases: MySQL, SQL, Oracle, MongoDB, Postgres\nAdditional Other Skills: Unix kernel, Android SDK, OpenCV ,AWS, Cloud Infrastructure"
+  },
+  "positions": [
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "VMware",
+      "description": "Customizing VRealize Code Stream SAAS by building framework based on microservices architecture.\nTechnologies Used: Python FLASK, REST API, Docker",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "San Jose State University",
+      "description": "Related Course work: Data Structures and algorithms,Operating System, Computer Architecture,Computer Network Design, Computer Network Security, Software Designed Networks.\nSkills learnt:... ",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Graduate Student",
+          "date1": "Aug 2018 – Present",
+          "date2": "1 yr"
+        },
+        {
+          "title": "Teaching Assistant",
+          "date1": "Jan 2019 – Present",
+          "date2": "7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Intel Corporation",
+      "description": "Automation of manual process such as maintaining server health check,database backup and restoration activities by writing scripts in Powershell and python.\nMaintaining server infrastructure ,design and implementation of new server infrastructure and virtualization.... ",
+      "date1": "Jun 2017 – Jul 2018",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "System Programmer",
+          "date1": "Jun 2017 – Jul 2018",
+          "date2": "1 yr 2 mos"
+        },
+        {
+          "title": "Intern",
+          "date1": "Jan 2017 – Jun 2017",
+          "date2": "6 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "pesit",
+      "degree": "Bachelor's Engineering",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "Sri Kumaran Children's Home Composite Junoir college",
+      "degree": "Pre university",
+      "date1": "2011",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Operating Systems",
+      "count": "3"
+    },
+    {
+      "title": "Computer Networking"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "Internet Protocol Suite (TCP/IP)"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "Windows Server"
+    },
+    {
+      "title": "Linux Server"
+    },
+    {
+      "title": "c"
+    },
+    {
+      "title": "java"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Microsoft PowerPoint"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Microsoft Word"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Node JS"
+    },
+    {
+      "title": "Angular JS"
+    },
+    {
+      "title": "Mininet"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "jenkins"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "OpenCV"
+    },
+    {
+      "title": "Software Defined Networks"
+    },
+    {
+      "title": "Floodlight controller"
+    },
+    {
+      "title": "CICD"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Building an Enterprise Network, SJSU",
+        "Implementation Of Virtual Mouse using Hand Gesture Recognition",
+        "Common Entrance Test Database Management System",
+        "Lexical Analyzer for java language",
+        "Machine Learning and Image Processing- Facial Expression Recognition",
+        "Android Application-Student Attendance Management System"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Silver Medal Award"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shruthi-sheshadri/",
+      "text": "Member Of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/riti-gupta-17909915/",
+      "text": "SWE Intern II at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devikajadhav95/",
+      "text": "Software Engineering Intern at Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pranati-kulkarni/",
+      "text": "MS in Electrical Engineering | Computer Networking & Virtualization | QA Automation | Seeking Full-time opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akritisethi/",
+      "text": "Member of Technical Staff Intern, VMware| MS in CS at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prashanthisiva/",
+      "text": "Masters Student at UT Arlington | Actively looking for Challenging full-time job opportunities - Graduating in May '19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nandini-shankar/",
+      "text": "Embedded Engineer Intern at Carbon"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sandhya Ramachandra",
+    "headline": "Software Intern at VMware",
+    "location": "San Jose, California",
+    "connections": "379",
+    "summary": "Skillset:\nProgramming Languages: Java, C++, C, Python ,JavaScript\nWeb: HTML5, CSS3, JavaScript, AngularJS, jQuery, AJAX, Node.js\nNetworks: TCP/IP, UDP, HTTP, HTTPS, Mininet, OpenFlow,Apache,Tomcat\nFrameworks: Spring,RESTful,XML,JSON\nDatabases: MySQL, SQL, Oracle, MongoDB, Postgres\nAdditional Other Skills: Unix kernel, Android SDK, OpenCV ,AWS, Cloud Infrastructure"
+  }
+}

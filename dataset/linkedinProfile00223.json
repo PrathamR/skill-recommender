@@ -1,0 +1,229 @@
+{
+  "profileAlternative": {
+    "name": "Bhaumik Ichhaporia",
+    "headline": "Software Engineer Intern- Tools and Automation at Itron, Inc.",
+    "location": "Santa Clara, California",
+    "connections": "500+",
+    "summary": "I am dedicated and motivated individual as well as a team player with good leadership and management skills; currently pursuing MS in Computer Science and Engineering at Santa Clara University. I am well versed with C, Java and Python.I have keen interest in pursuing my Career in Data Science and Machine Learning and seeking internship opportunities for the same. I am open to learning new technologies and exploring other fields.I have done my internships in Android , Java and IOT . I bring with me is a lot enthusiasm and dedication."
+  },
+  "aboutAlternative": {
+    "text": "I am dedicated and motivated individual as well as a team player with good leadership and management skills; currently pursuing MS in Computer Science and Engineering at Santa Clara University. I am well versed with C, Java and Python.I have keen interest in pursuing my Career in Data Science and Machine Learning and seeking internship opportunities for the same. I am open to learning new technologies and exploring other fields.I have done my internships in Android , Java and IOT . I bring with me is a lot enthusiasm and dedication."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern- Tools and Automation",
+      "companyName": "Itron, Inc.",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "e-Intelligence",
+      "description": "At e-intelligence I worked on a independent project to implement smart security system using Raspberry Pi Model 3B and Sensors . I also connected a USB camera for video surveillance whose live stream can be viewed on LAN.\nWhenever an intrusion is detected via PIR motion sensor of LDR sensor buzzer is tu... ",
+      "date1": "Dec 2017 – Apr 2018",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Android Intern",
+      "companyName": "Campusknot",
+      "description": "My role at Campusknot was to complete some the modules like event manager ,file sharing ,newsfeed and one to one chat. It was similar to one of the academic projects which i had done prior.",
+      "date1": "May 2017 – Jun 2017",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Santa Clara University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Dharamsinh Desai University",
+      "degree": "Bachelor of Technology (BTech)",
+      "date1": "2014",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Development",
+      "count": "4"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Android Development",
+      "count": "2"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Algorithms",
+      "count": "1"
+    },
+    {
+      "title": "Data Structures",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "PHP",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "1"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Android"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Management"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/brijesh-bhatt-b30a665/",
+        "text": "I have mentored Bhaumik for the subjects of Design & Analysis of Algorithms, Software Engineering and Knowledge Discovery.\n\nThe best thing that I found in Bhaumik was that he possesses a natural flair for learning new things and had an excellent grasping power.\n\nHe is very dedicated and performance-oriented and has undertook many interesting projects voluntarily.\n\nI wish him all the best for his journey ahead. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ankit-vaishnav-56152ba/",
+        "text": "As a Student, I have found Bhaumik to be an industrious and punctual student. He has never missed a deadline and shown brilliant work in all the assignments. His efforts in projects made during bachelors show his diligent character towards his academics and his ambitious nature for challenging opportunities.\n\nApart from academics, he has been actively involved in extra-curricular activities organized at our college.\n\nTaking into consideration, his acumen, performance and diligence, I strongly recommend bhaumik as he will be an asset to any organization. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/utsavgokani/",
+        "text": "I have seen Bhaumik grow tremendously as a coder. He has always been performance oriented and has made significant progress in understanding the different fields related to Algorithms and Data Structure, which are evident from the projects he has executed.\nI am pretty confident that after he progresses with his MS Degree, we are going to witness some excellent and innovative projects from his team. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jiteshkeswani/",
+        "text": "Bhaumik is a very hardworking man. I’ve seen him go above and beyond in researching about different ways of solving tech problems in the time that we worked together. Because of his ‘student for life’ mindset, he’s also eager to learn new technologies and implement them into products that we were building. He will be an asset to any organization. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/chirag-sanil-0a9868167/",
+        "text": "excellent person to be in a team with, always provides you valuable insights."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mohit-jain-2908/",
+        "text": "Having worked directly in a team with Bhaumik, I can vouch for and recommend his coding, especially in Android, and his software development skills have helped our team in accomplishing our project before time with extreme competency."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/mohit-jain-2908/",
+        "text": "It was pleasure working with Mohit on the a  project. His approach towards managing the project was commendable which strictly adhered to the principles  of software engineering.\n\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "24",
+      "items": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Communication Skills",
+        "Compiler Construction",
+        "Computer Networks",
+        "Computer System Architecture",
+        "Data Structure and Algorithms",
+        "Database Systems",
+        "Design and Analysis of Algorithms",
+        "Design of Digital Circuits"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sneha-paranjape/",
+      "text": "Software Engineering Intern at Cambridge Semantics Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sachi-patel-855280129/",
+      "text": "Software Development Engineer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/khushboo1996/",
+      "text": "Software Developer Intern at BahFed Corp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ravindersingh31/",
+      "text": "Enterprise Engineer Intern at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/binitgajera/",
+      "text": "Actively seeking Summer 2019 Internship opportunities | Graduate Student at University of Maryland, Baltimore County"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gnanitha-meka/",
+      "text": "Graduate student at Santa Clara University Leavey School of Business, actively seeking internship/Co-op opportunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/darpandodiya/",
+      "text": "Software Engineer Intern at Barclays"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sowmyamanukonda/",
+      "text": "Actively seeking Summer Internships | Computer Science Graduate student at Santa Clara University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/juhi-madhwani/",
+      "text": "Software Development Engineer Intern at Amazon | Actively seeking Full time opportunities in Software Development/ Software Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vkjoshi34/",
+      "text": "Software Development Intern at Amazon"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bhaumik Ichhaporia",
+    "headline": "Software Engineer Intern- Tools and Automation at Itron, Inc.",
+    "location": "Santa Clara, California",
+    "connections": "500+",
+    "summary": "I am dedicated and motivated individual as well as a team player with good leadership and management skills; currently pursuing MS in Computer Science and Engineering at Santa Clara University. I am well versed with C, Java and Python.I have keen interest in pursuing my Career in Data Science and Machine Learning and seeking internship opportunities for the same. I am open to learning new technologies and exploring other fields.I have done my internships in Android , Java and IOT . I bring with me is a lot enthusiasm and dedication."
+  }
+}

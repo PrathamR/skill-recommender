@@ -1,0 +1,276 @@
+{
+  "profileAlternative": {
+    "name": "Venkateswara Raju Datla",
+    "headline": "Graduate Student at San Jose State University. Actively looking for a Software/ Full Stack/ Android Engineer positions.",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "A graduate student currently pursuing masters in Computer Engineering at San Jose State University. Highly Specialized in areas like Full-Stack Web Development, Android Development, and Networking.\n\nSkills:\nProficient: Java, JavaScript, Android Programming, JSP, JPA, MySQL, HTML, Node JS, React JS, CSS, RESTful API, XML.\nOthers: AJAX, C, C++, JDBC, jQuery, JSON, Redux, Mocha, WordPress, Webpack, Heroku, Postman, Firebase, MongoDB, SQLite.\nCertifications: Java 8, NodeJS, ReactJS, Spring MVC and Hibernate Frameworks.\nOperating Systems and Networking Tools: Windows, Linux, Mac, Wireshark, GNS3.\nNetwork Protocols-Labs worked: TCP/IP, HTTP, NAT, ARP, DHCP, ICMP, IGMP, UDP, BGP, SIP.\n\nQuick learner and passionate about learning new things and technologies. Worked on many projects which helped me to be strong in programming. Good team player, I believe working in a team to solve a problem helps a lot to achieve the efficient and best solution. Good interpersonal and communication skills, working as a student and office assistant helped me to develop strong interpersonal skills.\n\nOther activities:\nAwarded with the certificate of appreciation from the city commissioner for conducting cleaning campaigns to bring awareness among the people.\nWorked as Executive member of SANKYA - The mathematical forum (a technical club at Amrita)."
+  },
+  "aboutAlternative": {
+    "text": "A graduate student currently pursuing masters in Computer Engineering at San Jose State University. Highly Specialized in areas like Full-Stack Web Development, Android Development, and Networking.\n\nSkills:\nProficient: Java, JavaScript, Android Programming, JSP, JPA, MySQL, HTML, Node JS, React JS, CSS, RESTful API, XML.\nOthers: AJAX, C, C++, JDBC, jQuery, JSON, Redux, Mocha, WordPress, Webpack, Heroku, Postman, Firebase, MongoDB, SQLite.\nCertifications: Java 8, NodeJS, ReactJS, Spring MVC and Hibernate Frameworks.\nOperating Systems and Networking Tools: Windows, Linux, Mac, Wireshark, GNS3.\nNetwork Protocols-Labs worked: TCP/IP, HTTP, NAT, ARP, DHCP, ICMP, IGMP, UDP, BGP, SIP.\n\nQuick learner and passionate about learning new things and technologies. Worked on many projects which helped me to be strong in programming. Good team player, I believe working in a team to solve a problem helps a lot to achieve the efficient and best solution. Good interpersonal and communication skills, working as a student and office assistant helped me to develop strong interpersonal skills.\n\nOther activities:\nAwarded with the certificate of appreciation from the city commissioner for conducting cleaning campaigns to bring awareness among the people.\nWorked as Executive member of SANKYA - The mathematical forum (a technical club at Amrita)."
+  },
+  "positions": [
+    {
+      "title": "Instructional Student Assistant (Part time)",
+      "companyName": "San Jose State University",
+      "description": "Assisted Professor Dr. Kelly Harrison for the course Tech 198 in grading and evaluating student projects.\nDeveloped a “Young Rhetoricians Conference” website to sell the tickets for the conference happened on the June-2018. This conference has been organized by Professor Dr. Kelly Harrison.\nTechnology Stack - WordPress, WooCommerce, Bluehost.",
+      "date1": "Jan 2018 – May 2018",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Web Developer Internship",
+      "companyName": "i-exceed technology solutions private limited",
+      "description": "• Worked on a web application where employees can access and update their daily time-log sheet.\n• Provides a quick summary of employee’s work to the higher officials.\nTechnology Stack – HTML, CSS, JavaScript, jQuery, Restful, JSP, MYSQL, Apache T... ",
+      "date1": "Jan 2017 – May 2017",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Internship Trainee",
+      "companyName": "Cisco Networking Academy",
+      "description": "Trained on CCNA Switching & Routing modules like Introduction to networks and Routing and Switching Essentials.\nUnderstood the different protocol layers, routing protocols and their role in data networks.\nUnderstood the benefits of NAT, VLAN. Configured and Troubleshooted their opera... ",
+      "date1": "May 2015 – Jul 2015",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2017",
+      "date2": "2019"
+    },
+    {
+      "title": "Amrita Vishwa Vidyapeetham, Coimbatore",
+      "degree": "Bachelor's degree",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "Sri chaitanya Junior Kalasala (Raman Bhavan-1), Vijayawada",
+      "degree": "11th and 12th Standard (Inter)",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "Gowtham Model School, Rajahmundry",
+      "degree": "High School Diploma",
+      "date1": "1999",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Data Structures",
+      "count": "1"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "Front-end Development"
+    },
+    {
+      "title": "Web Services"
+    },
+    {
+      "title": "Mobile Devices"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "HTML5",
+      "count": "2"
+    },
+    {
+      "title": "AJAX",
+      "count": "1"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "JavaServer Pages (JSP)",
+      "count": "1"
+    },
+    {
+      "title": "C (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Microsoft PowerPoint"
+    },
+    {
+      "title": "Microsoft Word"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "Operating Systems"
+    },
+    {
+      "title": "Adobe XD"
+    },
+    {
+      "title": "XML"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "Lodash.js"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "Babel.js"
+    },
+    {
+      "title": "Webpack"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "Web Technologies",
+      "count": "2"
+    },
+    {
+      "title": "Socket Programming"
+    },
+    {
+      "title": "Version Control"
+    },
+    {
+      "title": "npm"
+    },
+    {
+      "title": "CLI"
+    },
+    {
+      "title": "Server Side"
+    },
+    {
+      "title": "Full-Stack Development"
+    },
+    {
+      "title": "Done two modules of Cisco Networking Course (CCNA)"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "16",
+      "items": [
+        "Advanced Computer Architecture",
+        "Computer Architecture",
+        "Computer Network Design",
+        "Masters Project A",
+        "Masters Project B",
+        "Network Protocols and Applications",
+        "Network Security",
+        "Node.js",
+        "Object Oriented Programming and Data Structures using C++",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "14",
+      "items": [
+        "Ekiga- Analysis of SIP Protocol",
+        "Bank Transaction Recommendation Engine (Masters Project)",
+        "Burger Builder Application",
+        "Interactive React Tables",
+        "Rescue Android Application",
+        "Social Chat Application",
+        "Conference Website, SJSU",
+        "Display Adaptor",
+        "Flight ticket booking website",
+        "Memory Transfer unit"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sasank-shouri-yerragolla/",
+      "text": "Recently graduated from San Jose State University. Actively looking for opportunities in Digital Design/Verification."
+    },
+    {
+      "user": "https://www.linkedin.com/in/roshanssharma/",
+      "text": "Intern at Qualcomm- Speech R & D | Carnegie Mellon Graduate Student | Speech Recognition, Machine and Deep Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kirankumarchilla/",
+      "text": "Data Scientist at Hefner Energy, LLC | Problem Solver | Python, SQL, NLP, BigData"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akhianand/",
+      "text": "Software Engineer Intern at Glassdoor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kavithasivakumar/",
+      "text": "Supply Chain & Logistics Engineer | Six Sigma Green Belt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lohithchowdarychilukuri/",
+      "text": "Graduate student at Southern Illinois University Edwardsville"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madhupriyatam/",
+      "text": "Software Engineer Intern at qBotica"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gopi-reddy-yarkareddy/",
+      "text": "Actively seeking job opportunities in the field of \"Manufacturing\" | \"Quality\" | \"Design\""
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayur-vuppala-52b337153/",
+      "text": "Graduate student at University of Houston"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paarulsukanya/",
+      "text": "Teaching Assistant at Brown University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Venkateswara Raju Datla",
+    "headline": "Graduate Student at San Jose State University. Actively looking for a Software/ Full Stack/ Android Engineer positions.",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "A graduate student currently pursuing masters in Computer Engineering at San Jose State University. Highly Specialized in areas like Full-Stack Web Development, Android Development, and Networking.\n\nSkills:\nProficient: Java, JavaScript, Android Programming, JSP, JPA, MySQL, HTML, Node JS, React JS, CSS, RESTful API, XML.\nOthers: AJAX, C, C++, JDBC, jQuery, JSON, Redux, Mocha, WordPress, Webpack, Heroku, Postman, Firebase, MongoDB, SQLite.\nCertifications: Java 8, NodeJS, ReactJS, Spring MVC and Hibernate Frameworks.\nOperating Systems and Networking Tools: Windows, Linux, Mac, Wireshark, GNS3.\nNetwork Protocols-Labs worked: TCP/IP, HTTP, NAT, ARP, DHCP, ICMP, IGMP, UDP, BGP, SIP.\n\nQuick learner and passionate about learning new things and technologies. Worked on many projects which helped me to be strong in programming. Good team player, I believe working in a team to solve a problem helps a lot to achieve the efficient and best solution. Good interpersonal and communication skills, working as a student and office assistant helped me to develop strong interpersonal skills.\n\nOther activities:\nAwarded with the certificate of appreciation from the city commissioner for conducting cleaning campaigns to bring awareness among the people.\nWorked as Executive member of SANKYA - The mathematical forum (a technical club at Amrita)."
+  }
+}

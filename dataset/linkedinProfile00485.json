@@ -1,0 +1,233 @@
+{
+  "profileAlternative": {
+    "name": "Priyanka Bedarkar",
+    "headline": "Software Developer Intern at Uber",
+    "location": "Mountain View, California",
+    "connections": "500+",
+    "summary": "My objective is to actively contribute to innovative projects involving applications of Deep Learning to Computer Vision and Natural Language Processing. I am currently interning at Uber Technologies for the summer of 2019. I am pursuing my MS in Computer Science at Stony Brook University. I worked as a Software Engineer at Indus OS from Jan 2017 to July 2018. I pursued my undergraduate thesis at Video Analytics Lab, Indian Institute of Science from June 2016 to December 2016 wherein we analyzed the image and caption complexity in an attempt to establish a relationship between them. I received my B.E. (Hons.) Computer Science degree from BITS Pilani Goa Campus in July 2017."
+  },
+  "aboutAlternative": {
+    "text": "My objective is to actively contribute to innovative projects involving applications of Deep Learning to Computer Vision and Natural Language Processing. I am currently interning at Uber Technologies for the summer of 2019. I am pursuing my MS in Computer Science at Stony Brook University. I worked as a Software Engineer at Indus OS from Jan 2017 to July 2018. I pursued my undergraduate thesis at Video Analytics Lab, Indian Institute of Science from June 2016 to December 2016 wherein we analyzed the image and caption complexity in an attempt to establish a relationship between them. I received my B.E. (Hons.) Computer Science degree from BITS Pilani Goa Campus in July 2017."
+  },
+  "positions": [
+    {
+      "title": "Software Developer Intern",
+      "companyName": "Uber",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Graduate Student Researcher",
+      "companyName": "Computer Vision Lab At Stony Brook University",
+      "description": "Advisor : Professor Minh Hoai Nguyen.",
+      "date1": "Jan 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Teaching Assistant",
+      "companyName": "Stony Brook University",
+      "description": "I am TA for undergraduate Machine Learning course.",
+      "date1": "Jan 2019 – May 2019",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Indus OS",
+      "description": "Worked in the Data Science Team. Managed and improved the data pipeline that transforms server logs to databases using Amazon Web Services. Analyzed user behavior, built models for targeting users effectively leading to increased user engagement.\nTechnologies used - AWS (S3 and Redshift), Python, MongoDB.",
+      "date1": "Jun 2017 – Jul 2018",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Jun 2017 – Jul 2018",
+          "date2": "1 yr 2 mos"
+        },
+        {
+          "title": "Intern",
+          "date1": "Jan 2017 – Jun 2017",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Research Intern",
+      "companyName": "Indian Institute of Science",
+      "description": "Pursued my undergraduate thesis at Video Analytics Lab, CDS, IISc under the guidance of Prof. R. Venkatesh Babu. Characterized image complexity and caption complexity in terms of scene elements, inter-element relations and trained Deep Learning models to establish a relationship between image and caption complexity using MSCOCO and Visual Genome Dataset... ",
+      "date1": "Jun 2016 – Dec 2016",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Stony Brook University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "BITS Pilani Goa Campus",
+      "degree": "B.E.(Hons.) Computer Science Engineering",
+      "date1": "2012",
+      "date2": "2017"
+    },
+    {
+      "title": "Birla College of Arts Science & Commerce Birla College Road Kalyan Dist Thane 421 304",
+      "degree": "High School",
+      "date1": "2010",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Deep Learning",
+      "count": "5"
+    },
+    {
+      "title": "Computer Vision",
+      "count": "5"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "5"
+    },
+    {
+      "title": "Research",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "Android SDK",
+      "count": "2"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Spark"
+    },
+    {
+      "title": "Hive"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "items": [
+        "Deforestation Trends from 2012 to 2018 using satellite imagery",
+        "PageRank",
+        "Stackable File System - bkpfs",
+        "New System Call in the Kernel",
+        "Action Recognition in Videos",
+        "Depth Estimation in Images",
+        "Fake News Detection",
+        "Character Recognition in Natural Images",
+        "Crimes Classification and Prediction using Apache Hadoop",
+        "Feature Selection and Classification using Scikit Learn"
+      ]
+    },
+    {
+      "count": "9",
+      "items": [
+        "Artifical Intelligence",
+        "Big Data Analytics",
+        "Computer Vision",
+        "Data Mining",
+        "Deep Learning",
+        "Information Retrieval",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/samanvitha-reddy-panyam/",
+      "text": "CS Grad Student at Stony Brook University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prachi-bhavsar/",
+      "text": "Actively seeking Co-op & Full-time opportunities | Enthusiast in Data Science & Machine Learning | Pursuing MS in CS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunnyshah28/",
+      "text": "Software Engineer Intern at Salesforce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vibha-nasery-0a24a8138/",
+      "text": "Graduate Student at CMU | Medical Image Analysis | Computer Vision | Deep Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nisha-gandhi/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meena-murumkar/",
+      "text": "Software Engineer Intern at A+ Technology & Security Solutions, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/naveen-anto-alangararaj/",
+      "text": "Software Engineer Intern at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarun94/",
+      "text": "Software Engineer Intern at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harsh-ranjan-8a30056b/",
+      "text": "SDE Intern at Facebook | CS Grad at Stony Brook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shireennagdive/",
+      "text": "Software Engineer Intern at Salesforce | CS Graduate Student at Stony Brook University | ML | Distributed Systems | Java"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Teaching",
+      "experience": "Abhigyaan, BITS Goa",
+      "description": "Children",
+      "date1": "Aug 2013 – Apr 2016",
+      "date2": "2 yrs 9 mos"
+    }
+  ],
+  "profile": {
+    "name": "Priyanka Bedarkar",
+    "headline": "Software Developer Intern at Uber",
+    "location": "Mountain View, California",
+    "connections": "500+",
+    "summary": "My objective is to actively contribute to innovative projects involving applications of Deep Learning to Computer Vision and Natural Language Processing. I am currently interning at Uber Technologies for the summer of 2019. I am pursuing my MS in Computer Science at Stony Brook University. I worked as a Software Engineer at Indus OS from Jan 2017 to July 2018. I pursued my undergraduate thesis at Video Analytics Lab, Indian Institute of Science from June 2016 to December 2016 wherein we analyzed the image and caption complexity in an attempt to establish a relationship between them. I received my B.E. (Hons.) Computer Science degree from BITS Pilani Goa Campus in July 2017."
+  }
+}

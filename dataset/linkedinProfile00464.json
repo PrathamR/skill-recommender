@@ -1,0 +1,389 @@
+{
+  "profileAlternative": {
+    "name": "Prathamesh Karve",
+    "headline": "Seeking Internship for Spring/Summer 2020 | Ex Software Engineer-II at Cisco (4+ YOE) | TA at SJSU | MS in Software Engg",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "\"It's easier to be committed, when you're passionate.\"\nHeard these words for the first time on SportsCenter, and have always believed in them.\n\nI'm a Software Engineer, always working on innovative ideas that fuel my passion for problem-solving using technology. I worked for 4+ years at leading networking software provider Cisco Systems.\n\nI have worked on a bunch of different technologies - neural networks, mobile apps, Linux device drivers, L2/L3 networking, web frameworks (full-stack - MEAN, PHP/MySQL), IoT platforms/fog computing and analytics.\n\nHave a keen interest in learning new technologies and implementing them to develop amazing solutions."
+  },
+  "aboutAlternative": {
+    "text": "\"It's easier to be committed, when you're passionate.\"\nHeard these words for the first time on SportsCenter, and have always believed in them.\n\nI'm a Software Engineer, always working on innovative ideas that fuel my passion for problem-solving using technology. I worked for 4+ years at leading networking software provider Cisco Systems.\n\nI have worked on a bunch of different technologies - neural networks, mobile apps, Linux device drivers, L2/L3 networking, web frameworks (full-stack - MEAN, PHP/MySQL), IoT platforms/fog computing and analytics.\n\nHave a keen interest in learning new technologies and implementing them to develop amazing solutions."
+  },
+  "positions": [
+    {
+      "title": "Instructional Student Assistant",
+      "companyName": "San Jose State University",
+      "description": "Teaching Assistant for the Course CMPE 148 : Computer Networks taught by Dr. Rod Fatoohi",
+      "date1": "Feb 2019 – Present",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Cisco",
+      "description": "• USPTO Patent Application for ‘Assurance oriented Customized Load-balancing based on Machine Learning’\n• Software Development for Routing Platforms (C, Linux, Device Drivers, L2/L3 protocols, DPDK, Wireshark)... ",
+      "date1": "Oct 2016 – Dec 2018",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Software Engineer - II",
+          "date1": "Oct 2016 – Dec 2018",
+          "date2": "2 yrs 3 mos"
+        },
+        {
+          "title": "Researcher and Founding member at thingQbator makerspace",
+          "date1": "Apr 2015 – Jun 2017",
+          "date2": "2 yrs 3 mos"
+        },
+        {
+          "title": "Software Engineer - I",
+          "date1": "Aug 2014 – Oct 2016",
+          "date2": "2 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Android Developer Intern",
+      "companyName": "Waves-Tech",
+      "description": "- Developed software for an Android tablet prototype that serves as a hub for a Smart Home Automation system\n- Designed a JSON-based RESTful client-server model and UDP-over-Wi-Fi communication for indoor devices",
+      "date1": "May 2013 – Aug 2013",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Founder and Developer",
+      "companyName": "R-on-Droid Mobile Developer Group",
+      "description": "• Smart Class app for Aakash tablet – An app that aims to assist teachers by digitizing classroom interactions\n• Enthusia 2013 – An app to track match results and receive live notifications for VJTI’s annual Sports Festival... ",
+      "date1": "May 2012 – Aug 2013",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Course Instructor Intern",
+      "companyName": "nosense inventions Private Limited",
+      "description": "- Worked as an Instructor for ‘Android OS and Embedded Systems’ and taught 20 Mumbai University lecturers",
+      "date1": "Jan 2013 – Feb 2013",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2019",
+      "date2": "2020"
+    },
+    {
+      "title": "Veermata Jijabai Technological Institute (VJTI)",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "KET's V G Vaze College of Arts, Science & Commerce",
+      "degree": "HSC",
+      "date1": "2008",
+      "date2": "2010"
+    },
+    {
+      "title": "Sau. A.K. Joshi School,Thane",
+      "degree": "SSC",
+      "date1": "1998",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Android Development",
+      "count": "21"
+    },
+    {
+      "title": "Java",
+      "count": "21"
+    },
+    {
+      "title": "Mean Stack"
+    },
+    {
+      "title": "Open Shortest Path First (OSPF)"
+    },
+    {
+      "title": "Border Gateway Protocol (BGP)"
+    },
+    {
+      "title": "Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Design Patterns"
+    },
+    {
+      "title": "Object Oriented Design"
+    },
+    {
+      "title": "Programming",
+      "count": "13"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "5"
+    },
+    {
+      "title": "Data Structures",
+      "count": "3"
+    },
+    {
+      "title": "Web Development",
+      "count": "4"
+    },
+    {
+      "title": "Mobile Communications",
+      "count": "1"
+    },
+    {
+      "title": "Multiprotocol Label Switching (MPLS)"
+    },
+    {
+      "title": "Cisco Routers"
+    },
+    {
+      "title": "Android",
+      "count": "19"
+    },
+    {
+      "title": "C",
+      "count": "16"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "C++",
+      "count": "20"
+    },
+    {
+      "title": "R",
+      "count": "1"
+    },
+    {
+      "title": "Device Drivers"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "2"
+    },
+    {
+      "title": "Linux",
+      "count": "2"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "MySQL",
+      "count": "5"
+    },
+    {
+      "title": "Cisco IOS",
+      "count": "2"
+    },
+    {
+      "title": "Eclipse",
+      "count": "6"
+    },
+    {
+      "title": "Matlab",
+      "count": "9"
+    },
+    {
+      "title": "JavaScript",
+      "count": "6"
+    },
+    {
+      "title": "PHP",
+      "count": "4"
+    },
+    {
+      "title": "CSS",
+      "count": "4"
+    },
+    {
+      "title": "HTML",
+      "count": "16"
+    },
+    {
+      "title": "XML",
+      "count": "3"
+    },
+    {
+      "title": "AJAX",
+      "count": "1"
+    },
+    {
+      "title": "JSP",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "MPLS VPN"
+    },
+    {
+      "title": "Etherchannel"
+    },
+    {
+      "title": "Gigabit-Capable Passive Optical Network (GPON)"
+    },
+    {
+      "title": "SDN"
+    },
+    {
+      "title": "NVF"
+    },
+    {
+      "title": "Lua"
+    },
+    {
+      "title": "EIGRP"
+    },
+    {
+      "title": "IS-IS"
+    },
+    {
+      "title": "Board Bring-up",
+      "count": "1"
+    },
+    {
+      "title": "TCL",
+      "count": "2"
+    },
+    {
+      "title": "Networking",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "Board Bringup - Linux Kernel on ARM",
+        "Cisco IOS",
+        "Cloud Technologies",
+        "Data Structures and Algorithms in C++",
+        "Enterprise Application Development",
+        "Enterprise Software Platforms",
+        "Hadoop",
+        "ICND1",
+        "ICND2",
+        "Inroduction to Python"
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "SmartCity Assist",
+        "HCI using Eye Tracking",
+        "Smart Class",
+        "Employee Expense Management System",
+        "Student Dashboard",
+        "Android app - Enthusia 2013",
+        "Android app - VJTI Pointer Calci",
+        "Online College Magazine"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "German",
+        "Hindi",
+        "Kannada",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "GRE",
+        "TOEFL",
+        "MHT-CET"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Trailblazer Award for Innovation",
+        "Winner - Global XERG Hackathon 2015"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sweety-sojrani-72190222/",
+      "text": "IT Intern at Pure Storage"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anishn13/",
+      "text": "Graduate Computer Science Student @ SJSU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anvitha-jain-98170a10b/",
+      "text": "Actively seeking 2019 Fall Co-Op opportunities|Graduate Student at SJSU (MS-Software Engineering 2020)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saket-thakare/",
+      "text": "Software Engineering Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-sharma335/",
+      "text": "Software Development Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aishwariyabhatt/",
+      "text": "Student at San Jose Sate University, MS in Software Engineering | Full Stack Developer | Data Enthusiast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikhillahoti/",
+      "text": "Research Assistant at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akhianand/",
+      "text": "Software Engineer Intern at Glassdoor"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "The Akshaya Patra Foundation",
+      "description": "Children",
+      "date1": "Dec 2014",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Prathamesh Karve",
+    "headline": "Seeking Internship for Spring/Summer 2020 | Ex Software Engineer-II at Cisco (4+ YOE) | TA at SJSU | MS in Software Engg",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "\"It's easier to be committed, when you're passionate.\"\nHeard these words for the first time on SportsCenter, and have always believed in them.\n\nI'm a Software Engineer, always working on innovative ideas that fuel my passion for problem-solving using technology. I worked for 4+ years at leading networking software provider Cisco Systems.\n\nI have worked on a bunch of different technologies - neural networks, mobile apps, Linux device drivers, L2/L3 networking, web frameworks (full-stack - MEAN, PHP/MySQL), IoT platforms/fog computing and analytics.\n\nHave a keen interest in learning new technologies and implementing them to develop amazing solutions."
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "profileAlternative": {
+    "name": "Maithili Gole",
+    "headline": "Software Engineer at Walmart Labs",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Actively seeking software engineering full-time opportunity in software development .\nI am a graduate student at San Jose State University in Software Engineering.\n\nStrengths:\n1. Experience in Development and Testing\n2. Good understanding of Web Services, REST API, Agile Development.\n3. Good concepts of design patterns\n4. Ability to execute projects successfully in a given time with quality deliverable's.\n5. Good exposure to Agile software development methodology.\n6. Good communication, people management and interpersonal skills."
+  },
+  "aboutAlternative": {
+    "text": "Actively seeking software engineering full-time opportunity in software development .\nI am a graduate student at San Jose State University in Software Engineering.\n\nStrengths:\n1. Experience in Development and Testing\n2. Good understanding of Web Services, REST API, Agile Development.\n3. Good concepts of design patterns\n4. Ability to execute projects successfully in a given time with quality deliverable's.\n5. Good exposure to Agile software development methodology.\n6. Good communication, people management and interpersonal skills."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Walmart Labs",
+      "date1": "Sep 2018 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "eBay",
+      "description": "Working with eBay B2C Selling team for Seller recommendation which allows to help Sellers grow their business and provide guidance on eBay platform through listing and compliance recommendations.\n... ",
+      "date1": "Dec 2017 – Aug 2018",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Member Of Technical Staff",
+      "companyName": "NetApp",
+      "description": "Developed REST API framework for automation using Java, C#, VMware SDKs, Windows PowerShell and Jenkins\nDesigned and developed automation suite for web-based application using Selenium WebDriver, C#, NUnit and Page Object Design Pattern... ",
+      "date1": "Jun 2016 – Dec 2017",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Software Engineering intern",
+      "companyName": "NetApp",
+      "description": "• Worked on designing and developing automation frameworks and scripts for SnapCenter 1.0 and wrote end-to-end scripts using C#, Selenium web driver and used Jenkins for integration.\n• Worked on writing and running complex database queries in SQL. Also worked with other development teams to use single approach for continuous integration using Jenkin... ",
+      "date1": "Jun 2015 – Oct 2015",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Technical Consultant",
+      "companyName": "KPIT Cummins Infosystems Limited",
+      "description": "• Involved in designing, development and support projects in all the client ERP modules.\n• Worked onsite on ETL Methodology, Data Migration and Technical Data upgrade for the customer Acco Brands UK.\n• Developed applications for customer projects using IBM RPG, ILE , Java, DB2",
+      "date1": "Jul 2011 – Jun 2014",
+      "date2": "3 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's Degree, Software Engineering",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "Pune University",
+      "degree": "Bachelor of Engineering (BE)",
+      "date1": "2008",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "50"
+    },
+    {
+      "title": "C",
+      "count": "30"
+    },
+    {
+      "title": "C#",
+      "count": "13"
+    },
+    {
+      "title": "ERP",
+      "count": "3"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "46"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "27"
+    },
+    {
+      "title": "Databases",
+      "count": "17"
+    },
+    {
+      "title": "HTML",
+      "count": "23"
+    },
+    {
+      "title": "Oracle",
+      "count": "19"
+    },
+    {
+      "title": "AngularJS",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript",
+      "count": "32"
+    },
+    {
+      "title": "AS400",
+      "count": "5"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "3"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "11"
+    },
+    {
+      "title": "XML",
+      "count": "9"
+    },
+    {
+      "title": "IBM iSeries",
+      "count": "5"
+    },
+    {
+      "title": "DB2",
+      "count": "5"
+    },
+    {
+      "title": "MySQL",
+      "count": "22"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": ".NET Framework"
+    },
+    {
+      "title": "Core Java",
+      "count": "22"
+    },
+    {
+      "title": "IBM DB2",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "Movex",
+      "count": "12"
+    },
+    {
+      "title": "Selenium WebDriver"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sreekanth-mannari/",
+        "text": "Great eye for detail are few of the many strengths Sreekanth possesses. His technical depth and understanding of the architecture of the product is great. He is a good manager and his technical skills are admirable. It is pleasure working with him."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "15",
+      "items": [
+        "Advanced database management",
+        "Business Intelligence",
+        "Data Structures",
+        "Database management systems",
+        "Distributed systems",
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platform",
+        "Multimedia systems",
+        "Operating systems"
+      ]
+    },
+    {
+      "count": "9",
+      "items": [
+        "Airline On-time Performance",
+        "Online Shopping - A web application",
+        "Virtual Private Cloud",
+        "Disaster recovery system for the virtual machines",
+        "Cross host linking containers",
+        "AirNote: Create & Manage Sticky Notes with DropBox",
+        "Digital Wallet",
+        "Feeding Nemo - 2D Greenfoot game",
+        "Exploring security support for web services."
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Spot award",
+        "Spot award",
+        "Monthly Award",
+        "Rookie Award"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/akanksha-nagpal-73440628/",
+      "text": "Software Development Engineer-III @ Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prajakta-naik/",
+      "text": "Product Manager @PayPal with a passion for innovation, technology and education"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karishmaraj/",
+      "text": "Data Analytics at TiVo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swatiarora2/",
+      "text": "Software Developer at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-sheshadri/",
+      "text": "Member Of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prashantyadav3/",
+      "text": "Software Engineer at ThousandEyes"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandni-balchandani-56884a58/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yankishah/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gayathri-jayanthi-538aa0b9/",
+      "text": "Web Application Developer| Looking for exciting opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aprokofieva/",
+      "text": "Software Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Maithili Gole",
+    "headline": "Software Engineer at Walmart Labs",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Actively seeking software engineering full-time opportunity in software development .\nI am a graduate student at San Jose State University in Software Engineering.\n\nStrengths:\n1. Experience in Development and Testing\n2. Good understanding of Web Services, REST API, Agile Development.\n3. Good concepts of design patterns\n4. Ability to execute projects successfully in a given time with quality deliverable's.\n5. Good exposure to Agile software development methodology.\n6. Good communication, people management and interpersonal skills."
+  }
+}

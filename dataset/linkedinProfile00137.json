@@ -1,0 +1,328 @@
+{
+  "profileAlternative": {
+    "name": "Amruta Saraf",
+    "headline": "Software Engineering Intern at Uber Technologies, Inc",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Enthusiastic software developer with an interest to work in collaborative software development and build robust applications."
+  },
+  "aboutAlternative": {
+    "text": "Enthusiastic software developer with an interest to work in collaborative software development and build robust applications."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Uber",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Graduate Student",
+      "companyName": "San Jose State University",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Decision Scientist",
+      "companyName": "Mu Sigma Inc.",
+      "description": "• Defining business problems\n• Building robust scalable 3 tier applications in an agile manner, developing Spring Boot Microservices on platforms and deploying them on Cloud Management platforms like OneOps for Fortune 1... ",
+      "date1": "Jun 2016 – Jul 2018",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Project Intern",
+      "companyName": "Mithi Software Technologies Pvt. Ltd.",
+      "description": "- Developed an Android application for internal collaboration on enterprises.\n- Worked on features like messaging contacts, creating groups, messaging in groups, voting poll, etc for more effective communication within enterprises",
+      "date1": "Aug 2015 – Jun 2016",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Savitribai Phule Pune University",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "Symbiosis School,Nashik"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "7"
+    },
+    {
+      "title": "Web Applications",
+      "count": "7"
+    },
+    {
+      "title": "React.js",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Agile Project Management"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "C",
+      "count": "4"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "R",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Redux"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "GraphQL"
+    },
+    {
+      "title": "AWS"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Jenkins"
+    },
+    {
+      "title": "JIRA"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Spring Boot"
+    },
+    {
+      "title": "Spring"
+    },
+    {
+      "title": "Elastic Stack (ELK)"
+    },
+    {
+      "title": "Maven"
+    },
+    {
+      "title": "JUnit"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Core Java"
+    },
+    {
+      "title": "Java Enterprise Edition"
+    },
+    {
+      "title": "Database Management Systems",
+      "count": "3"
+    },
+    {
+      "title": "SAP HANA",
+      "count": "2"
+    },
+    {
+      "title": "Node"
+    },
+    {
+      "title": "Express"
+    },
+    {
+      "title": "Redis"
+    },
+    {
+      "title": "Amazon EC2"
+    },
+    {
+      "title": "Leankit"
+    },
+    {
+      "title": "ElasticSearch"
+    },
+    {
+      "title": "Elastic Load Balancing"
+    },
+    {
+      "title": "LoadRunner"
+    },
+    {
+      "title": "JMeter"
+    },
+    {
+      "title": "Mocha"
+    },
+    {
+      "title": "Apache Kafka"
+    },
+    {
+      "title": "Back-End Web Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Event Recommender",
+        "HomeAway Prototype",
+        "LinkedIn Prototype",
+        "Sensor Cloud for Smart Streets",
+        "Student Management Portal",
+        "Enterprise Social Media App",
+        "Smart Medicines using AI"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Cloud Technologies",
+        "Data Structures and Problem Solving",
+        "Design and Analysis of Algorithms",
+        "Enterprise Distributed Systems",
+        "Enterprise Systems Overview"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Spot Award"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Samidha"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "TOEFL"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaurasiar/",
+      "text": "SDE Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devikajadhav95/",
+      "text": "Software Engineering Intern at Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sweety-sojrani-72190222/",
+      "text": "IT Intern at Pure Storage"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saket-thakare/",
+      "text": "Software Engineering Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akritisethi/",
+      "text": "Member of Technical Staff Intern, VMware| MS in CS at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharwari-phadnis/",
+      "text": "Intern-Member of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aditya-patel-3735a2106/",
+      "text": "Actively looking for Software Engineering internship opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prathamesh-karve/",
+      "text": "Seeking Internship for Spring/Summer 2020 | Ex Software Engineer-II at Cisco (4+ YOE) | TA at SJSU | MS in Software Engg"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Samidha",
+      "description": "Education",
+      "date1": "Aug 2015 – Jun 2016",
+      "date2": "11 mos"
+    }
+  ],
+  "profile": {
+    "name": "Amruta Saraf",
+    "headline": "Software Engineering Intern at Uber Technologies, Inc",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Enthusiastic software developer with an interest to work in collaborative software development and build robust applications."
+  }
+}

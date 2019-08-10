@@ -1,0 +1,269 @@
+{
+  "profileAlternative": {
+    "name": "Akhilesh Anand",
+    "headline": "Software Engineer Intern at Glassdoor",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Hey! I am an SJSU Grad student Interested in Full Stack and Application Development.\n\nI am here at San Jose State University to bolster my skills in Development and gain experience on the latest trends in the industry"
+  },
+  "aboutAlternative": {
+    "text": "Hey! I am an SJSU Grad student Interested in Full Stack and Application Development.\n\nI am here at San Jose State University to bolster my skills in Development and gain experience on the latest trends in the industry"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Glassdoor",
+      "description": "Full Stack Engineer with the Content Team",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Graduate Teaching Assistant",
+      "companyName": "San Jose State University",
+      "description": "Instructional Student Assistant for CMPE202 Software Systems Engineering",
+      "date1": "Mar 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Honeywell",
+      "description": "My Project at Honeywell revolved around Improving application response time and handle heavy Loads of data. Implemented a caching mechanism with Redis and gained a 98% performance improvement.\nEvaluated potential replacements to Service Bus to reduce complexity and increase... ",
+      "date1": "Jan 2018 – Jul 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Joint Secretary",
+      "companyName": "FACE - Forum for Aspiring Computer Engineers",
+      "description": "Served as Joint Secretary for Departmental Computer Science Forum encompassing ACM, CSI and Code-Chef Chapters. Headed Development Teams for all college event related technology solutions.\nConducted SLAC Hackathon... ",
+      "date1": "Aug 2016 – Aug 2017",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Instavans",
+      "description": "Automated Message Blasting with simple NodeJS Application and Plivo API for Sales Team.\nScripted data parsers with Java to read custom file format for shipping logs and website scrapers in\npython to gather customer data from websites.",
+      "date1": "Jun 2016 – Jul 2016",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Amrita Vishwa Vidyapeetham, Coimbatore",
+      "degree": "Bachelor of Technology (BTech)",
+      "date1": "2014",
+      "date2": "2018"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "8"
+    },
+    {
+      "title": "JavaScript",
+      "count": "8"
+    },
+    {
+      "title": "Node.js",
+      "count": "9"
+    },
+    {
+      "title": "Android Development",
+      "count": "7"
+    },
+    {
+      "title": "Web Development",
+      "count": "7"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "React.js",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "6"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "4"
+    },
+    {
+      "title": ".NET Framework"
+    },
+    {
+      "title": "Redux",
+      "count": "4"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "3"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "GraphQL",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "3"
+    },
+    {
+      "title": "Kafka",
+      "count": "3"
+    },
+    {
+      "title": "Express.js"
+    },
+    {
+      "title": "Amazon EC2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/indradyumna-datta-0ab6915/",
+        "text": "Akhilesh has worked in Honeywell for a 6 months period as an intern in 2018. He has worked in a program under Honeywell Connected plant. He has surprised all of us with his maturity and thought process. He has done an excellent work on In memory persistent cache handling data/ storage layer, services layer and web UI layer. He was sincere in his learning and deliverables. He is ahead of his group in terms of skills, maturity and attitude. Wish him all the best. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Analysis & Design of Algorithms",
+        "Database Management Systems",
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms",
+        "Large Scale Analytics",
+        "Mobile Application Development",
+        "Object Oriented Programming",
+        "Software Systems Engineering"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "EduBlocks Blockchain Identity Management System",
+        "Homeaway Simulation",
+        "LinkedIn Simulation",
+        "Aarohan Event Management System",
+        "itsMyAmrita Android Application"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada",
+        "Tamil"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/riti-gupta-17909915/",
+      "text": "SWE Intern II at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyaiyer06/",
+      "text": "Software Engineering Graduate Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saket-thakare/",
+      "text": "Software Engineering Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sayali-patil-7b041078/",
+      "text": "Software Engineering Intern at WePay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arihant-sai/",
+      "text": "SWE Intern @Informatica | Graduate Student @SJSU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jackyc415/",
+      "text": "M.S. Software Engineering Student @ SJSU | Software Engineer Intern @ Albertsons LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dharmadheeraj-chintala/",
+      "text": "Master of Science - MS at San Jose State University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Akhilesh Anand",
+    "headline": "Software Engineer Intern at Glassdoor",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Hey! I am an SJSU Grad student Interested in Full Stack and Application Development.\n\nI am here at San Jose State University to bolster my skills in Development and gain experience on the latest trends in the industry"
+  }
+}

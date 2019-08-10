@@ -1,0 +1,266 @@
+{
+  "profileAlternative": {
+    "name": "Pratiksha Choudhury",
+    "headline": "Software Engineer at Apple",
+    "location": "San Francisco Bay Area",
+    "connections": "273",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the DevOps and build engineering field. Skilled in CI/CD, Makefile, clang, Linux, MongoDB, Python (Programming Language), Maven, and Virtualization. Strong engineering professional with a Master’s Degree focused in Software Engineering from San Jose State University."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Software Engineer with a demonstrated history of working in the DevOps and build engineering field. Skilled in CI/CD, Makefile, clang, Linux, MongoDB, Python (Programming Language), Maven, and Virtualization. Strong engineering professional with a Master’s Degree focused in Software Engineering from San Jose State University."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Apple",
+      "description": "OS Build Engineering",
+      "date1": "Apr 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Cisco",
+      "description": "Core Software Group - NX OS",
+      "date1": "Jun 2016 – Apr 2019",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Ericsson",
+      "description": "Development Tools Engineering Team\n\nWorked on developing a single developer workflow with full version control and dependency management of all Ericsson's IP OS products, including the host environment.... ",
+      "date1": "Jun 2015 – Jun 2016",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Jun 2015 – Jun 2016",
+          "date2": "1 yr 1 mo"
+        },
+        {
+          "title": "Software Engineer Internship",
+          "date1": "Sep 2014 – May 2015",
+          "date2": "9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer Internship",
+      "companyName": "Symantec",
+      "description": "Data Loss Prevention Team\n\n• Developed test automation scripts using shell scripting and Java for Data Loss Prevention’s Endpoint Security software on Linux and Windows platforms.... ",
+      "date1": "Jun 2014 – Aug 2014",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Systems Engineer",
+      "companyName": "Infosys Technologies Ltd",
+      "description": "Successfully completed Infosys’s rigorous training, which included modules - C, Object Oriented Programming, RDBMS essentials, PL/SQL, Unix and Java. After training, I was actively involved in the development and maintenance of iTrade, a trading portal for a Bank, developed by Infosys. iTrade is based on trading, share marketing and cash management. The ... ",
+      "date1": "2010 – 2012",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master’s Degree",
+      "date1": "2013",
+      "date2": "2015"
+    },
+    {
+      "title": "BPUT, Bhubaneswar",
+      "degree": "Bachelor's Degree",
+      "date1": "2006",
+      "date2": "2010"
+    },
+    {
+      "title": "Kendriya Vidyalaya",
+      "degree": "High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "Linux",
+      "count": "10"
+    },
+    {
+      "title": "Gerrit",
+      "count": "2"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "7"
+    },
+    {
+      "title": "Virtualization",
+      "count": "3"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "3"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "2"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "7"
+    },
+    {
+      "title": "Software Development",
+      "count": "5"
+    },
+    {
+      "title": "Git",
+      "count": "4"
+    },
+    {
+      "title": "Jenkins",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "20"
+    },
+    {
+      "title": "Unix",
+      "count": "12"
+    },
+    {
+      "title": "MongoDB",
+      "count": "6"
+    },
+    {
+      "title": "MySQL",
+      "count": "13"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "2"
+    },
+    {
+      "title": "Oracle SQL",
+      "count": "2"
+    },
+    {
+      "title": "Ubuntu",
+      "count": "2"
+    },
+    {
+      "title": "Maven",
+      "count": "1"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "JSP",
+      "count": "3"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "5"
+    },
+    {
+      "title": "VirtualBox",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Cloud Technologies",
+        "Database Design",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms",
+        "Software Engineering Management",
+        "Software Systems Engineering",
+        "Virtualization Technologies",
+        "Web and Data Mining"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Detect and break cyclic dependencies between C header files in IPOS codebase",
+        "Performance Evaluation of Large Dataset Schema",
+        "REST API for Node-HTTP-Proxy Server",
+        "Book Management System",
+        "Log Analysis of Scalable Virtualized environment",
+        "Disaster Recovery in Virtualized Environment"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Oriya"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tuviahsnyder/",
+      "text": "senior software engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/smitha-venkatesh-8a92a315/",
+      "text": "Software engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kashyap34/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phani-chaitanya-v-b2342727/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vrattika-hegde-68876a23/",
+      "text": "Software Test Engineer at Cisco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-sheshadri/",
+      "text": "Member Of Technical Staff at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyanka-kulkarni-901338b5/",
+      "text": "Machine Learning Engineer 3 at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amodsamant/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pranavkelkar/",
+      "text": "Software Development Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sylvestor88/",
+      "text": "Senior Software Engineer at Slack"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Pratiksha Choudhury",
+    "headline": "Software Engineer at Apple",
+    "location": "San Francisco Bay Area",
+    "connections": "273",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the DevOps and build engineering field. Skilled in CI/CD, Makefile, clang, Linux, MongoDB, Python (Programming Language), Maven, and Virtualization. Strong engineering professional with a Master’s Degree focused in Software Engineering from San Jose State University."
+  }
+}

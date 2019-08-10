@@ -1,0 +1,303 @@
+{
+  "profileAlternative": {
+    "name": "Kathan Patel",
+    "headline": "Software Development Test Engineer, Autonomous Car at Extron | MS in Computer Engineering, SJSU",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "MS Computer Engineering student at San Jose State University looking for full-time opportunity in the field of Embedded Firmware.\n\n\nMy core skills include:\n• C\n• C++\n• Python\n• Embedded Systems\n• Operating System\n• Real-time Operating System (RTOS)\n• Firmware Design\n• Algorithm Design and Analysis\n• Neural Networks\n• Robotics\n• Computer Vision (fundamentals)\n\n\n\n\n\nI am authorized to work for any employer in USA.\nIf you have any suitable position, I’d encourage you to contact me at kathanpatel15195@gmail.com"
+  },
+  "aboutAlternative": {
+    "text": "MS Computer Engineering student at San Jose State University looking for full-time opportunity in the field of Embedded Firmware.\n\n\nMy core skills include:\n• C\n• C++\n• Python\n• Embedded Systems\n• Operating System\n• Real-time Operating System (RTOS)\n• Firmware Design\n• Algorithm Design and Analysis\n• Neural Networks\n• Robotics\n• Computer Vision (fundamentals)\n\n\n\n\n\nI am authorized to work for any employer in USA.\nIf you have any suitable position, I’d encourage you to contact me at kathanpatel15195@gmail.com"
+  },
+  "positions": [
+    {
+      "title": "Software Development Test Engineer, Autonomous Car",
+      "companyName": "Extron",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Deep Learning and Computer Vision Intern",
+      "companyName": "FaucetWorks",
+      "date1": "Jul 2018 – Aug 2018",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Research Assistant Graduate Student",
+      "companyName": "San Jose State University",
+      "date1": "Oct 2017 – Dec 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Instructional Student Assistant",
+      "companyName": "San Jose State University",
+      "description": "I am instructional student assistant for undergrad course \"Assembly language programming\" in Computer Engineering department. My duties include assessing the submissions of students' works like assignments, homework and projects, update students' scores and assist professor in lab sessions.",
+      "date1": "Mar 2017 – May 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Vice Chair at IEEE Student Branch, LDCE",
+      "companyName": "IEEE",
+      "description": "Being a committee member my main responsibility was to assist Branch Chair in organizing the seminars, workshops, expert lectures and other events that the committee planned in the best interest of the students.",
+      "date1": "Feb 2015 – Jan 2016",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Student Trainee",
+      "companyName": "Bharat Sanchar Nigam Limited",
+      "description": "The training program consisted of enhancing the employability skills of the students in the telecom and networking domain. I got to know the structure of telecom system, digital switching, transmission system, communication and networking. Throughout the process my presentation delivering skills also improved.... ",
+      "date1": "Jul 2014 – Nov 2015",
+      "date2": "1 yr 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science (MS)",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "L.D. College of Engineering",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "51"
+    },
+    {
+      "title": "C++",
+      "count": "48"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "40"
+    },
+    {
+      "title": "Microcontrollers",
+      "count": "25"
+    },
+    {
+      "title": "Engineering",
+      "count": "19"
+    },
+    {
+      "title": "Electronics",
+      "count": "11"
+    },
+    {
+      "title": "Telecommunications",
+      "count": "10"
+    },
+    {
+      "title": "Data Structures",
+      "count": "7"
+    },
+    {
+      "title": "Unit Testing",
+      "count": "7"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "6"
+    },
+    {
+      "title": "Robotics",
+      "count": "5"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "23"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "21"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "20"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "19"
+    },
+    {
+      "title": "VHDL",
+      "count": "14"
+    },
+    {
+      "title": "Matlab",
+      "count": "12"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "10"
+    },
+    {
+      "title": "Pspice",
+      "count": "8"
+    },
+    {
+      "title": "Git",
+      "count": "8"
+    },
+    {
+      "title": "Embedded C",
+      "count": "6"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "5"
+    },
+    {
+      "title": "Verilog",
+      "count": "4"
+    },
+    {
+      "title": "RTOS",
+      "count": "2"
+    },
+    {
+      "title": "Teamwork",
+      "count": "16"
+    },
+    {
+      "title": "Linux Kernel",
+      "count": "4"
+    },
+    {
+      "title": "Autonomous Vehicles",
+      "count": "3"
+    },
+    {
+      "title": "CAN bus",
+      "count": "3"
+    },
+    {
+      "title": "Robot Operating System (ROS)",
+      "count": "3"
+    },
+    {
+      "title": "Algorithm design and analysis",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "21",
+      "items": [
+        "Advanced computer architecture",
+        "Advanced computer design",
+        "Basic and advanced electronics",
+        "Circuits and networks",
+        "Computer networks",
+        "Control Theory",
+        "Data structures and algorithm",
+        "Digital and Analog communication",
+        "Digital logic design",
+        "Digital signal processing"
+      ]
+    },
+    {
+      "count": "10",
+      "items": [
+        "Autopilot System Design for Natural Disaster",
+        "Audio Behavior LED Display",
+        "Cognitive Radio || C++, C, RF standard",
+        "Linux USB Device Driver || C, Linux Kernel Coding",
+        "Self-driving Autonomous Car || C++, RTOS, CAN, Unit Testing",
+        "Building country map from CSV files | C++",
+        "Decimal values of PI using MPIR library || C++",
+        "Design and develop Dot product unit with 5-stage pipelining | Verilog",
+        "Design and simulation of pipelined floating point adder | Verilog",
+        "Multi-tasking Quadcopter. | C, C++"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Gujarati",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "IEEE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sushmamacha/",
+      "text": "Firmware | Embedded Systems | Communications"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gadaninamrata/",
+      "text": "Experienced VLSI Digital Design/Verification Engineer | Actively looking for Job opportunities in Design/UVMverification"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/renu-parameswaran/",
+      "text": "Software Engineer 2 at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahulkodati/",
+      "text": "Cloud Networking Engineer at Aviatrix | CCNA | AWS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jinaldesai/",
+      "text": "Software Engineer Intern at Versa Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pankil-chokshi/",
+      "text": "RF Systems Application Engineer at LitePoint"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mehtasamip/",
+      "text": "Mechanical Engineering Intern & Co-op at Volvo Group | Graduate Mechanical Student at NC State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sayali-girish-kulkarni/",
+      "text": "System Engineering Intern"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghankachhi/",
+      "text": "Technical Marketing Engineer at Cisco"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Co-conducted the event named MathCon at LDCE.",
+      "experience": "L.D. College of Engineering - India"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Society for the Welfare of Mentally Retarded and Blind People's Association (India)",
+      "description": "Education",
+      "date1": "Sep 2015",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Kathan Patel",
+    "headline": "Software Development Test Engineer, Autonomous Car at Extron | MS in Computer Engineering, SJSU",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "MS Computer Engineering student at San Jose State University looking for full-time opportunity in the field of Embedded Firmware.\n\n\nMy core skills include:\n• C\n• C++\n• Python\n• Embedded Systems\n• Operating System\n• Real-time Operating System (RTOS)\n• Firmware Design\n• Algorithm Design and Analysis\n• Neural Networks\n• Robotics\n• Computer Vision (fundamentals)\n\n\n\n\n\nI am authorized to work for any employer in USA.\nIf you have any suitable position, I’d encourage you to contact me at kathanpatel15195@gmail.com"
+  }
+}

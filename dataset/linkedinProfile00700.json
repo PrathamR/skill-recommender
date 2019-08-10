@@ -1,0 +1,209 @@
+{
+  "profileAlternative": {
+    "name": "Yash Amin",
+    "headline": "Software Engineer Intern at Nuage Networks from Nokia",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Network Engineer with 2+ years of industry experience . Skilled in C, C++, Python, Network Programming, Transmission Control Protocol (TCP), Network Design and Internet Protocol Suite (TCP/IP) with a Master's degree focused in Computer Engineering from San Jose State University."
+  },
+  "aboutAlternative": {
+    "text": "Network Engineer with 2+ years of industry experience . Skilled in C, C++, Python, Network Programming, Transmission Control Protocol (TCP), Network Design and Internet Protocol Suite (TCP/IP) with a Master's degree focused in Computer Engineering from San Jose State University."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Nuage Networks from Nokia",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Information Technology Assistant",
+      "companyName": "San Jose State University",
+      "description": "• Setting up and troubleshooting networks across University Departments.\n• Configuring Network Devices like Routers and Switches.\n• Configuring Networking devices with University LAN Network.\n• Repairing the Desktop Computers, Laptops, Mac and installed different Operating... ",
+      "date1": "Dec 2018 – May 2019",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Network Design Engineer",
+      "companyName": "Tata Consultancy Services",
+      "description": "• Providing Network Configuration using SSH Connection.\n• Design of network using various devices like Cisco Series, Juniper and Ciena.\n• Providing Data and Voice Services to customer using the Inter-Vlan Routing and Subnetting.\n• Network Design as per the Client Requirements and Put all configs in network Dev... ",
+      "date1": "Aug 2016 – Jul 2018",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "L.J. Institute Of Engineering and Technology",
+      "degree": "Bachelor of Engineering (BE)",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "3"
+    },
+    {
+      "title": "Internet Protocol Suite (TCP/IP)",
+      "count": "4"
+    },
+    {
+      "title": "Data Structures",
+      "count": "3"
+    },
+    {
+      "title": "Network Engineering",
+      "count": "5"
+    },
+    {
+      "title": "Network Design",
+      "count": "5"
+    },
+    {
+      "title": "Multithreading"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "2"
+    },
+    {
+      "title": "Operating Systems"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Computer Architecture"
+    },
+    {
+      "title": "Socket Programming"
+    },
+    {
+      "title": "Transmission Control Protocol (TCP)",
+      "count": "1"
+    },
+    {
+      "title": "MIPS Assembly"
+    },
+    {
+      "title": "Pycharm"
+    },
+    {
+      "title": "Concurrent Programming"
+    },
+    {
+      "title": "GNS3"
+    },
+    {
+      "title": "Network Programming"
+    },
+    {
+      "title": "Network Protocol Design"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Advance Computer Design",
+        "Computer Architecture",
+        "Computer Networks",
+        "Data Structures and Algorithms in C++",
+        "Network Programming and Applications",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Group Chat Application",
+        "Twoway Chat application",
+        "Hybrid uname Server",
+        "Basic network sniffer",
+        "Mini Firewall using Python",
+        "Routing Redistribution between EIGRP, OSPF, RIP"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ashish-kadam/",
+      "text": "Software Engineer Intern at Versa Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-parakh-01724815a/",
+      "text": "Software Developer Engineer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aditya-patel-3735a2106/",
+      "text": "Actively looking for Software Engineering internship opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kommalapatiraviteja/",
+      "text": "Software Engineer Intern at Adobe || Looking for Internship opportunities starting from August 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/atharva-chitre-921465139/",
+      "text": "Information Security Intern at Poly"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kunalpavashiya/",
+      "text": "Frontend Software Engineer Intern at Palo Alto Networks || MS Software Engineering at San Jose State"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kathan15/",
+      "text": "Software Development Test Engineer, Autonomous Car at Extron | MS in Computer Engineering, SJSU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jackyc415/",
+      "text": "M.S. Software Engineering Student @ SJSU | Software Engineer Intern @ Albertsons LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandhini-chandersekar/",
+      "text": "Full stack developer | Front End | UI | Web Development | Machine learning | Data Mining"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashna-gupta-6a2645158/",
+      "text": "UX Design and Developer for cloud intern at SAP | Graduate Computer engineering student at San Jose State University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yash Amin",
+    "headline": "Software Engineer Intern at Nuage Networks from Nokia",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Network Engineer with 2+ years of industry experience . Skilled in C, C++, Python, Network Programming, Transmission Control Protocol (TCP), Network Design and Internet Protocol Suite (TCP/IP) with a Master's degree focused in Computer Engineering from San Jose State University."
+  }
+}

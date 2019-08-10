@@ -1,0 +1,271 @@
+{
+  "profileAlternative": {
+    "name": "Smitha Venkatesh",
+    "headline": "Software engineer at Apple",
+    "location": "Sunnyvale, California",
+    "connections": "307",
+    "summary": "Passionate full stack software engineer with 3 years work experience. Proficient in Java, Python, Unix Shell scripting and front end technologies"
+  },
+  "aboutAlternative": {
+    "text": "Passionate full stack software engineer with 3 years work experience. Proficient in Java, Python, Unix Shell scripting and front end technologies"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Apple",
+      "date1": "Feb 2019 – Present",
+      "date2": "6 mos"
+    },
+    {
+      "title": "San Jose State University",
+      "description": "- Teaching Python to Biomedical Engineering Students\n- Created and designed coursework, term project, exams and graded assignments.\n- Skills: Python, SymPy, SciPy, NumPy, Matplotlib, Pandas, Jupyter Notebook",
+      "date1": "Aug 2018 – Dec 2018",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Teaching Associate",
+          "date1": "Aug 2018 – Dec 2018",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Student Research Assistant",
+          "date1": "May 2018 – Aug 2018",
+          "date2": "4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "ServiceNow",
+      "description": "- Build automation test scripts for Customer Service Management product\n- Run regression and various other types of testing in various phases of release cycle\n- Work within scrum team to validate newly built features\n- Initiated and coordinated the Cross BU Testing with test cases and scenarios.... ",
+      "date1": "Jun 2018 – Dec 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Dell",
+      "description": "• Implemented Data Warehousing application processes such as extraction, transformation and loading\n• Worked on Informatica Power Center Client tools such as Mapping Designer, Repository Manager, Workflow Manager and Monitor... ",
+      "date1": "Jul 2013 – May 2016",
+      "date2": "2 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science (MS)",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Visvesvaraya Technological University",
+      "degree": "Bachelor of Engineering (BE)",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "14"
+    },
+    {
+      "title": "HTML",
+      "count": "9"
+    },
+    {
+      "title": "C",
+      "count": "9"
+    },
+    {
+      "title": "Programming",
+      "count": "3"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "3"
+    },
+    {
+      "title": "Web Development",
+      "count": "2"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Extract, Transform, Load (ETL)",
+      "count": "1"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "1"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "HTML5",
+      "count": "4"
+    },
+    {
+      "title": "PHP",
+      "count": "3"
+    },
+    {
+      "title": "JSON",
+      "count": "3"
+    },
+    {
+      "title": "Informatica",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Representational State Transfer (REST)",
+      "count": "2"
+    },
+    {
+      "title": "Open Source Software",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Spring Framework",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "XML"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms",
+        "Operating System and Virtualization Technologies",
+        "Smartphone Application Development",
+        "Software Systems Engineering"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Autism Care Android Application",
+        "Railway Ticket Booking and Management System",
+        "Chatbot Development",
+        "SPARTAN DEAL e-commerce website"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yankishah/",
+      "text": "Software Engineer 2 at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nasa-rapoza-3a546590/",
+      "text": "Build and Integration Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/forammehta90/",
+      "text": "Senior Software Engineer at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pallavi-kohad/",
+      "text": "Software QA Engineer at Cisco Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikitajuneja/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikkh/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/renu-parameswaran/",
+      "text": "Software Engineer 2 at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mathurmansi/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madhumitasawant/",
+      "text": "Network Engineer at Fluent, Inc"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Smitha Venkatesh",
+    "headline": "Software engineer at Apple",
+    "location": "Sunnyvale, California",
+    "connections": "307",
+    "summary": "Passionate full stack software engineer with 3 years work experience. Proficient in Java, Python, Unix Shell scripting and front end technologies"
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "profileAlternative": {
+    "name": "Chandni Balchandani",
+    "headline": "Application Engineer at Google",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Graduate Software Engineering student with 3 years of industry experience as a Software Developer in an Agile environment. Exposed to all phases of development life cycle. Solid understanding of data structures, algorithms, object oriented programming.\n\nProgramming Languages: Java, SQL, PL/SQL, PHP, C, C++, C#, SAP (ABAP/4)\nWeb Technologies: Node.js, Angular.js, Express.js (MEAN Stack), JavaScript, HTML5, CSS, Web Services(REST)\nDatabases: Relational(Oracle, MySQL), NoSQL(MongoDb), Graph(Neo4j), Teradata\nMessaging Systems: RabbitMQ, Kafka\nTest Automation: Selenium WebDriver, Appium\n\nCurrently looking for Full time opportunities as a Software Engineer."
+  },
+  "aboutAlternative": {
+    "text": "Graduate Software Engineering student with 3 years of industry experience as a Software Developer in an Agile environment. Exposed to all phases of development life cycle. Solid understanding of data structures, algorithms, object oriented programming.\n\nProgramming Languages: Java, SQL, PL/SQL, PHP, C, C++, C#, SAP (ABAP/4)\nWeb Technologies: Node.js, Angular.js, Express.js (MEAN Stack), JavaScript, HTML5, CSS, Web Services(REST)\nDatabases: Relational(Oracle, MySQL), NoSQL(MongoDb), Graph(Neo4j), Teradata\nMessaging Systems: RabbitMQ, Kafka\nTest Automation: Selenium WebDriver, Appium\n\nCurrently looking for Full time opportunities as a Software Engineer."
+  },
+  "positions": [
+    {
+      "title": "Application Engineer",
+      "companyName": "Google",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Intern (Big Data)",
+      "companyName": "Qubole",
+      "date1": "Feb 2017 – May 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "San Jose State University",
+      "description": "Working as a teaching assistant for the course Operating Systems.",
+      "date1": "Feb 2016 – May 2017",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Teaching Assistant",
+          "date1": "Feb 2016 – May 2017",
+          "date2": "1 yr 4 mos"
+        },
+        {
+          "title": "Research Assistant",
+          "date1": "Aug 2015 – Jan 2016",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "PayPal",
+      "description": "• Worked on an existing web crawler application to employ a better and efficient way of tracking the status of the crawling job submitted by users using various properties and relationships. And provide it a visualization.\n• Utilized Neo4j (a graph database) and Java for development.... ",
+      "date1": "Jun 2016 – Aug 2016",
+      "date2": "3 mos"
+    },
+    {
+      "title": "System Engineer",
+      "companyName": "Tata Consultancy Services",
+      "description": "Business Area : Banking and Financial Services\n\nPROJECTS DETAILS:\n... ",
+      "date1": "Mar 2013 – Jul 2015",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Instructor",
+      "companyName": "Engineering College Ajmer",
+      "description": "Worked as a faculty in Engineering College Ajmer for a duration of 7 months which involved :\n\n• Delivering lectures on Advanced Data Structures and Advanced Database Manangement Systems subjects to fifth and seventh semester students.... ",
+      "date1": "Jul 2012 – Jan 2013",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Developer Intern",
+      "companyName": "TATA AutoComp Systems Ltd",
+      "description": "Undergone a practical training and worked on the project CUSTOMER-TACO CONVERSION PROGRAM in ABAP Module of SAP.",
+      "date1": "Jun 2011 – Jul 2011",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Rajasthan Technical University (Engineering College Ajmer)",
+      "degree": "Bachelor’s Degree",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Neo4j",
+      "count": "3"
+    },
+    {
+      "title": "Node.js",
+      "count": "4"
+    },
+    {
+      "title": "AngularJS",
+      "count": "7"
+    },
+    {
+      "title": "Programming",
+      "count": "6"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "9"
+    },
+    {
+      "title": "Java",
+      "count": "14"
+    },
+    {
+      "title": "Oracle",
+      "count": "8"
+    },
+    {
+      "title": "JavaScript",
+      "count": "7"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "13"
+    },
+    {
+      "title": "HTML",
+      "count": "11"
+    },
+    {
+      "title": "Selenium",
+      "count": "1"
+    },
+    {
+      "title": "Eclipse",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "7"
+    },
+    {
+      "title": "CSS",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "9"
+    },
+    {
+      "title": "Core Java",
+      "count": "5"
+    },
+    {
+      "title": "Informatica",
+      "count": "5"
+    },
+    {
+      "title": "XML",
+      "count": "5"
+    },
+    {
+      "title": "C++",
+      "count": "14"
+    },
+    {
+      "title": "C#",
+      "count": "4"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "3"
+    },
+    {
+      "title": "Github",
+      "count": "4"
+    },
+    {
+      "title": "JSP",
+      "count": "3"
+    },
+    {
+      "title": "PHP",
+      "count": "1"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "3"
+    },
+    {
+      "title": "SAP",
+      "count": "2"
+    },
+    {
+      "title": "NetBeans",
+      "count": "2"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "2"
+    },
+    {
+      "title": "XSLT",
+      "count": "2"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "2"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "2"
+    },
+    {
+      "title": "Spring Framework",
+      "count": "1"
+    },
+    {
+      "title": "Spring MVC",
+      "count": "1"
+    },
+    {
+      "title": "Appium",
+      "count": "1"
+    },
+    {
+      "title": "Teradata",
+      "count": "2"
+    },
+    {
+      "title": "Toad",
+      "count": "2"
+    },
+    {
+      "title": "Putty",
+      "count": "2"
+    },
+    {
+      "title": "SAP Business Software",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/rohitsaxena-ajmer/",
+        "text": "Rohit is a diligent person who is great to work with. I have seen him working on amazing school projects where his ideas were commended by his teammates and the teachers as well. His great command over C and C++ made him an author of books which are being widely used by many students today. If provided an opportunity, I would definitely want to work with Rohit. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "17",
+      "items": [
+        "Compiler Design",
+        "Computer Architecture",
+        "Data Structures & Algorithm",
+        "Database Design",
+        "Database Systems",
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms",
+        "Object Oriented Programming",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "17",
+      "items": [
+        "WebCrawler with a Graph Database",
+        "A tool for Web Crawling",
+        "Clean Streets(A project for City of San Jose) - Capstone Project",
+        "DQA TERADATA MIGRATION:",
+        "Dynamic Menu Builder & Restaurant Recommendation System Using Yelp Dataset",
+        "ENTERPRISE INFORMATION PLATFORM",
+        "Mobile Test Automation",
+        "My Facebook - A Node.JS Application",
+        "NEWSFEEDER",
+        "PROCESS ACTIVATION USING DEADLOCK SIMULATION"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "On the Spot Award",
+        "College Topper"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GRE",
+        "TOEFL"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "A Deep Learning Framework for Smart Street Cleaning"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vidyamay/",
+      "text": "Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhawit-kumar-284ba553/",
+      "text": "Application Engineer SAP ABAP at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kzdanko/",
+      "text": "Manager, Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/monika9933/",
+      "text": "Application Engineer at Google."
+    },
+    {
+      "user": "https://www.linkedin.com/in/pooja30391/",
+      "text": "Software Developer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sowmya-halagatti-77047551/",
+      "text": "Application Developer @ Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anusharamachandra/",
+      "text": "Application Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rdeepika/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poonamchawla2010/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akanksha-nagpal-73440628/",
+      "text": "Software Development Engineer-III @ Adobe"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chandni Balchandani",
+    "headline": "Application Engineer at Google",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Graduate Software Engineering student with 3 years of industry experience as a Software Developer in an Agile environment. Exposed to all phases of development life cycle. Solid understanding of data structures, algorithms, object oriented programming.\n\nProgramming Languages: Java, SQL, PL/SQL, PHP, C, C++, C#, SAP (ABAP/4)\nWeb Technologies: Node.js, Angular.js, Express.js (MEAN Stack), JavaScript, HTML5, CSS, Web Services(REST)\nDatabases: Relational(Oracle, MySQL), NoSQL(MongoDb), Graph(Neo4j), Teradata\nMessaging Systems: RabbitMQ, Kafka\nTest Automation: Selenium WebDriver, Appium\n\nCurrently looking for Full time opportunities as a Software Engineer."
+  }
+}

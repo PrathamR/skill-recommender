@@ -1,0 +1,233 @@
+{
+  "profileAlternative": {
+    "name": "Ramya Iyer",
+    "headline": "Software Engineering Graduate Student at San Jose State University",
+    "location": "San Jose, California",
+    "connections": "406",
+    "summary": "I am a passionate and persistent software engineer always seeking for ways to furnish efficient deliverables and making myself better at every step of the process.\n\nI am an experienced Big Data Developer with about two and a half years of experience in the industry where I built dynamic solutions to increase the efficiency of the system and developed extremely reliable workflows to mine crucial reports from large data sets.\n\nMy skills can be summarized as follows:\n• Programming Languages: Java, Python, C, C++, Shell Scripting\n• Web Development: REST, JavaScript, NodeJS, ExpressJS, ReactJS, Redis, Redux, GraphQL, Apollo Client,HTML, CSS, PHP\n• Database: MySQL, Microsoft SQL Server, Oracle DB, MongoDB\n• Version Control : Git, Tortoise SVN\n• DevOps and Cloud Technology: Docker, Kubernetes, Amazon Web Services\n• Big Data Toolkit: Hadoop, MapReduce, Impala, Hive, Sqoop, Oozie, Kafka\n• Key Technologies: Big Data Analytics, Full Stack Web Development"
+  },
+  "aboutAlternative": {
+    "text": "I am a passionate and persistent software engineer always seeking for ways to furnish efficient deliverables and making myself better at every step of the process.\n\nI am an experienced Big Data Developer with about two and a half years of experience in the industry where I built dynamic solutions to increase the efficiency of the system and developed extremely reliable workflows to mine crucial reports from large data sets.\n\nMy skills can be summarized as follows:\n• Programming Languages: Java, Python, C, C++, Shell Scripting\n• Web Development: REST, JavaScript, NodeJS, ExpressJS, ReactJS, Redis, Redux, GraphQL, Apollo Client,HTML, CSS, PHP\n• Database: MySQL, Microsoft SQL Server, Oracle DB, MongoDB\n• Version Control : Git, Tortoise SVN\n• DevOps and Cloud Technology: Docker, Kubernetes, Amazon Web Services\n• Big Data Toolkit: Hadoop, MapReduce, Impala, Hive, Sqoop, Oozie, Kafka\n• Key Technologies: Big Data Analytics, Full Stack Web Development"
+  },
+  "positions": [
+    {
+      "title": "Summer Intern",
+      "companyName": "Verizon Media",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Systems Engineer",
+      "companyName": "Tata Consultancy Services",
+      "description": "• Big Data Developer for Nielsen Watch.\n• Developed and maintained various components of data warehouse that accommodates data from multiple data providers like Facebook and YouTube using Hadoop.\n• Introduced parallel schema in place of the old cascading setup and redesigned th... ",
+      "date1": "Jun 2015 – Jun 2018",
+      "date2": "3 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Cochin University of Science and Technology",
+      "degree": "Bachelors of Technology",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Hadoop",
+      "count": "4"
+    },
+    {
+      "title": "Node.js",
+      "count": "5"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "Shell Scripting"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "React.js",
+      "count": "2"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "Oozie",
+      "count": "1"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "CSS",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Oracle DB",
+      "count": "1"
+    },
+    {
+      "title": "PHP",
+      "count": "1"
+    },
+    {
+      "title": "RESTful WebServices",
+      "count": "1"
+    },
+    {
+      "title": "Redux.js",
+      "count": "2"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "MapReduce",
+      "count": "1"
+    },
+    {
+      "title": "Customer Service",
+      "count": "2"
+    },
+    {
+      "title": "Leadership",
+      "count": "2"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "Cloudera Impala",
+      "count": "2"
+    },
+    {
+      "title": "Hive",
+      "count": "1"
+    },
+    {
+      "title": "Sqoop"
+    },
+    {
+      "title": "Apache Kafka"
+    },
+    {
+      "title": "Redis"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Cross Domain Marketplace",
+        "LinkedIn Prototype",
+        "Web Application for Booking Vacation Rentals",
+        "Genetic Algorithm Based Concept Network for Personalized Web",
+        "Mosqueteer Game",
+        "Department of Information Technology Alumni Web Application",
+        "Student Database Management System for Information Technology Department"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cloud Computing",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaurasiar/",
+      "text": "SDE Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darshilpkapadia/",
+      "text": "San Jose State University | Master of Science in Software Engineering | Actively seeking Internships for Summer 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashna-gupta-6a2645158/",
+      "text": "UX Design and Developer for cloud intern at SAP | Graduate Computer engineering student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devikajadhav95/",
+      "text": "Software Engineering Intern at Verizon Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nishthaatrey/",
+      "text": "Senior Full Stack Developer Intern at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aditi-kumari-296a17120/",
+      "text": "Graduate Student at San Jose State University | Software Engineering Intern at Pulse Secure"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharwari-phadnis/",
+      "text": "Intern-Member of Technical Staff at VMware"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Student Mentor",
+      "experience": "e-Jagratha from Tata Consultancy Services",
+      "description": "Children",
+      "date1": "Jan 2018 – Jun 2018",
+      "date2": "6 mos"
+    }
+  ],
+  "profile": {
+    "name": "Ramya Iyer",
+    "headline": "Software Engineering Graduate Student at San Jose State University",
+    "location": "San Jose, California",
+    "connections": "406",
+    "summary": "I am a passionate and persistent software engineer always seeking for ways to furnish efficient deliverables and making myself better at every step of the process.\n\nI am an experienced Big Data Developer with about two and a half years of experience in the industry where I built dynamic solutions to increase the efficiency of the system and developed extremely reliable workflows to mine crucial reports from large data sets.\n\nMy skills can be summarized as follows:\n• Programming Languages: Java, Python, C, C++, Shell Scripting\n• Web Development: REST, JavaScript, NodeJS, ExpressJS, ReactJS, Redis, Redux, GraphQL, Apollo Client,HTML, CSS, PHP\n• Database: MySQL, Microsoft SQL Server, Oracle DB, MongoDB\n• Version Control : Git, Tortoise SVN\n• DevOps and Cloud Technology: Docker, Kubernetes, Amazon Web Services\n• Big Data Toolkit: Hadoop, MapReduce, Impala, Hive, Sqoop, Oozie, Kafka\n• Key Technologies: Big Data Analytics, Full Stack Web Development"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "profileAlternative": {
+    "name": "AISHWARIYA BHATT",
+    "headline": "Student at San Jose Sate University, MS in Software Engineering | Full Stack Developer | Data Enthusiast",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Graduate student at San Jose State University specializing in Data Science and Distributed Systems(full stack development). My interests lies in developing full stack applications, also implementing machine learning for solving the real world problems and expand my knowledge with learning new things everyday.\n\nYou can reach me at bhattaishwariya@gmail.com\n\nTechnical Skills\nProgramming Languages Java, Python, C, C++\nTools& Web Technologies MATLAB, JavaScript, NodeJS, Express, REST Web-services, Spring boot\nFront-End Technologies ReactJS, Redux, HTML5, CSS, Bootstrap, XML\nDatabases/ Middleware Mongo DB, MYSQL, Apache Kafka, Redis\nCloud and Testing Technologies AWS, Firebase, JMeter, Junit, Mocha.js\nQuery Language GraphQL\nVersion Control Systems Git"
+  },
+  "aboutAlternative": {
+    "text": "Graduate student at San Jose State University specializing in Data Science and Distributed Systems(full stack development). My interests lies in developing full stack applications, also implementing machine learning for solving the real world problems and expand my knowledge with learning new things everyday.\n\nYou can reach me at bhattaishwariya@gmail.com\n\nTechnical Skills\nProgramming Languages Java, Python, C, C++\nTools& Web Technologies MATLAB, JavaScript, NodeJS, Express, REST Web-services, Spring boot\nFront-End Technologies ReactJS, Redux, HTML5, CSS, Bootstrap, XML\nDatabases/ Middleware Mongo DB, MYSQL, Apache Kafka, Redis\nCloud and Testing Technologies AWS, Firebase, JMeter, Junit, Mocha.js\nQuery Language GraphQL\nVersion Control Systems Git"
+  },
+  "positions": [
+    {
+      "title": "Software Development Intern",
+      "companyName": "Altair",
+      "date1": "May 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Graduate Assistant",
+      "companyName": "San Jose State University",
+      "description": "My duties were to complete the task provided by the faculty, maintenance of the research data, designing of a program to transform the data from one formation to another.",
+      "date1": "Aug 2018 – Dec 2018",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Volunteer",
+      "companyName": "Spartan Just In time Food Pantry",
+      "date1": "Aug 2018 – Nov 2018",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Intern",
+      "companyName": "Physical Research Laboratory",
+      "description": "Hyper spectral Analyser is a system which will be able to read Hyperspectral Images of any\ndomain related to planetary remote sensing. It is possible to manually provide the information\nabout the image to the system or the system can automatically read widely used ENVI\nstandard header file. The system will have the capabilities of displaying images for ... ",
+      "date1": "Jan 2018 – Apr 2018",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+      "degree": "Bachelor of Technology",
+      "date1": "2014",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "2"
+    },
+    {
+      "title": "Project Management",
+      "count": "3"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "Programming",
+      "count": "1"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "C (Programming Language)",
+      "count": "3"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "Java Script",
+      "count": "1"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "RESTful WebServices"
+    },
+    {
+      "title": "Spring Framework"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Redux"
+    },
+    {
+      "title": "Redux.js"
+    },
+    {
+      "title": "hadoop"
+    },
+    {
+      "title": "AWS"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "IBM Bluemix"
+    },
+    {
+      "title": "Firebase"
+    },
+    {
+      "title": "JUnit"
+    },
+    {
+      "title": "GraphQL"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Express.js",
+      "count": "1"
+    },
+    {
+      "title": "Spark"
+    },
+    {
+      "title": "Apache Spark"
+    },
+    {
+      "title": "JMeter"
+    },
+    {
+      "title": "Mocha.js"
+    },
+    {
+      "title": "Splunk"
+    },
+    {
+      "title": "Apache Kafka"
+    },
+    {
+      "title": "Redis"
+    },
+    {
+      "title": "Mac OS X Server"
+    },
+    {
+      "title": "Load Balancing"
+    },
+    {
+      "title": "ElasticSearch"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "11",
+      "items": [
+        "Machine learning using Python Course from Cognitiveclass.ai",
+        "Big Data101 Course from Cognitiveclass.ai.",
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Overview",
+        "Hadoop101 Course from Cognitiveclass.ai",
+        "Large Scale Analytics",
+        "Relational Algebra Course from Stanford university",
+        "Software Quality Assurance and Testing",
+        "Software Systems Engineering"
+      ]
+    },
+    {
+      "count": "11",
+      "items": [
+        "Employee Management Service API",
+        "Recommender systems",
+        "Secret Management Service",
+        "Fantasy Football Team Creator",
+        "LinkedIn.com Prototype",
+        "Replica of HomeAway.Com",
+        "Advanced Image Processing and Analysis of Planetary Datasets Jan 2018 - Apr 2018",
+        "Quiz Application",
+        "Student Performance Behaviour Using Machine Learning",
+        "Music Bot"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Honorable Mention"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanvi-sharma-20487156/",
+      "text": "Senior Software Developer (Back-End Developer and Front-End Developer) Independent"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyaiyer06/",
+      "text": "Software Engineering Graduate Student at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandhya-ramachandra/",
+      "text": "Software Intern at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yash-amin1/",
+      "text": "Software Engineer Intern at Nuage Networks from Nokia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sakshityagi17/",
+      "text": "Graduate Student at San Jose State University | Seeking Summer Internship"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kritika-patel/",
+      "text": "Actively seeking Full-time/Part-time opportunities | Teaching Assistant at San Jose State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kaustubhhn/",
+      "text": "Pursuing MS in Software Engineering | Professional Full Stack Developer looking for Summer internships 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhilasha-devkar-baba2a11b/",
+      "text": "Full Stack Software Engineer Intern at Ellie Mae"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramya-dharwada/",
+      "text": "Graduate Student at San Jose State University | Actively seeking internship opportunities for summer 2019"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "AISHWARIYA BHATT",
+    "headline": "Student at San Jose Sate University, MS in Software Engineering | Full Stack Developer | Data Enthusiast",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "Graduate student at San Jose State University specializing in Data Science and Distributed Systems(full stack development). My interests lies in developing full stack applications, also implementing machine learning for solving the real world problems and expand my knowledge with learning new things everyday.\n\nYou can reach me at bhattaishwariya@gmail.com\n\nTechnical Skills\nProgramming Languages Java, Python, C, C++\nTools& Web Technologies MATLAB, JavaScript, NodeJS, Express, REST Web-services, Spring boot\nFront-End Technologies ReactJS, Redux, HTML5, CSS, Bootstrap, XML\nDatabases/ Middleware Mongo DB, MYSQL, Apache Kafka, Redis\nCloud and Testing Technologies AWS, Firebase, JMeter, Junit, Mocha.js\nQuery Language GraphQL\nVersion Control Systems Git"
+  }
+}

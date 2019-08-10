@@ -1,0 +1,160 @@
+{
+  "profileAlternative": {
+    "name": "Sreya Nooli",
+    "headline": "Associate Software Engineer at Element Solutions LLC",
+    "location": "Greater Chicago Area",
+    "connections": "89"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Associate Software Engineer",
+      "companyName": "Element Solutions LLC",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "companyName": "Northern Illinois University",
+      "date1": "May 2016 – May 2017",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Intern",
+      "companyName": "E-Centric Solutions Pvt Ltd",
+      "date1": "Jul 2014 – Sep 2014",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northern Illinois University",
+      "degree": "Master's degree",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelors",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Spring",
+      "count": "1"
+    },
+    {
+      "title": "Web Services"
+    },
+    {
+      "title": "Hibernate"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "SOAP"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Django"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/chander-mm-81b99195/",
+        "text": "Chandru is the best recruiter that I have ever met! He helped me get a job within 2 weeks of my first meeting with him. He provided me with resources that helped gain a greater insight into the area I wanted to go into. Which in turn made the interview easier as I knew a lot about the job I was applying for. I would recommend him to anyone who is looking for a professional. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/supriya-nallamothu-78ab4199/",
+      "text": "Associate Software Engineer at Element Solutions LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sindhujagillela/",
+      "text": "Oracle Database Performance Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nrupa-chitley-b760b65a/",
+      "text": "Software Engineer Intern at Cisco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mahesh-g-34975a129/",
+      "text": "Associate Software Engineer at Element Solutions LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vattiu/",
+      "text": "Full Stack Developer at Triple Crown Products"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gopalakrishnan-ruthirappan-a0abbb182/",
+      "text": "Associate Software Engineer at Element Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ravindranath-vadlamudi-b19b7979/",
+      "text": "Managing Director at Indus Agro"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkata-abhilash-tiruveedhula-850049b9/",
+      "text": "Graduate Student at University of Utah"
+    },
+    {
+      "user": "https://www.linkedin.com/in/padmanava-choudhury/",
+      "text": "Research Assistant at Auburn University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manasapatibandla/",
+      "text": "Developer at Indiana Legislative Services Agency"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sreya Nooli",
+    "headline": "Associate Software Engineer at Element Solutions LLC",
+    "location": "Greater Chicago Area",
+    "connections": "89"
+  }
+}

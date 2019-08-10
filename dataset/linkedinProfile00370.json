@@ -1,0 +1,242 @@
+{
+  "profileAlternative": {
+    "name": "Nayana Laxmeshwar",
+    "headline": "Engineering Intern at Clover Network, Inc.",
+    "location": "San Francisco Bay Area",
+    "connections": "142",
+    "summary": "I am currently pursuing my MS in Computer Science from San Francisco State University and actively seeking for summer internship opportunities. I have worked for 2 years in CapGemini India Pvt Ltd as a software developer in a project implementation for SAP CRM domain. My technical skills include:\nTool Experience: Eclipse (Java), Pycharm (Python), Jupyter Notebook (Python), Atom (JS), AWS CL\nVersion Control System: Git, Subversion\nProgramming Languages - Python, Java, C, C++, SAP ABAP, Android Programming.\nWeb Development – HTML, CSS, JavaScript, Bootstrap, NodeJs, Express, Mongoose."
+  },
+  "aboutAlternative": {
+    "text": "I am currently pursuing my MS in Computer Science from San Francisco State University and actively seeking for summer internship opportunities. I have worked for 2 years in CapGemini India Pvt Ltd as a software developer in a project implementation for SAP CRM domain. My technical skills include:\nTool Experience: Eclipse (Java), Pycharm (Python), Jupyter Notebook (Python), Atom (JS), AWS CL\nVersion Control System: Git, Subversion\nProgramming Languages - Python, Java, C, C++, SAP ABAP, Android Programming.\nWeb Development – HTML, CSS, JavaScript, Bootstrap, NodeJs, Express, Mongoose."
+  },
+  "positions": [
+    {
+      "title": "Engineering Intern",
+      "companyName": "Clover Network, Inc.",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "San Francisco State University",
+      "description": "Provide mentoring and technical assistance to San Francisco Unified School District(SFUSD) teachers for product development. The projects are based on machine learning and artificial intelligence .",
+      "date1": "Jan 2019 – May 2019",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Graduate Assitant",
+          "date1": "Jan 2019 – May 2019",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Teaching Assistant",
+          "date1": "Aug 2018 – Dec 2018",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Capgemini India Ltd.",
+      "description": "Implemented custom components, integrated third party systems using SOAP and task based UI for Shopping path for customers.\nDeveloped screens and implemented logic for Block/Unblock IMEI, Customer search screen and Shop Devices and plans.... ",
+      "date1": "Dec 2015 – Aug 2016",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Dec 2015 – Aug 2016",
+          "date2": "9 mos"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Aug 2014 – Dec 2015",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Francisco State University",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "M S Ramaiah Institute of Technology",
+      "degree": "Bachelor's degree",
+      "date1": "2010",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming",
+      "count": "6"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "1"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Data Structures",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "1"
+    },
+    {
+      "title": "Eclipse",
+      "count": "1"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "1"
+    },
+    {
+      "title": "C (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "Node.js",
+      "count": "1"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "SAP CRM Technical",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Advanced Artificial Intelligence",
+        "Analysis of Algorithms(Advanced)",
+        "Introduction to Database",
+        "Operating Systems",
+        "Search Engines",
+        "Software Development",
+        "Software Engineering"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "GatorSwap - A Retail Website for SFSU students",
+        "Sarcasm Detection",
+        "Rainbow Reef",
+        "Tank Wars"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "A Novel Swastik Shaped Spidron Fractal Array Antenna for S-Band Applications",
+        "A Spidron Fractal Array Antenna with Enhanced Impedance Matching for Multiple Frequencies"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/samanthatlee/",
+      "text": "Engineering Intern at Clover Network, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jainsupriya30/",
+      "text": "Software Engineer Intern at Clover Network, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/kendyll-nelson/",
+      "text": "Marketing Intern at Clover Network, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/gpise/",
+      "text": "Master’s in Computer Science from San Francisco State University, actively seeking full time opportunity."
+    },
+    {
+      "user": "https://www.linkedin.com/in/scottvancamp/",
+      "text": "Staff Software Engineer at Clover Network Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/himabala-tantravahi-a142b955/",
+      "text": "Software Engineer at Navis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelodelaurentis/",
+      "text": "Student | Intern | Computer Engineering | California State Polytechnic University San Luis Obispo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/simonfong6/",
+      "text": "SWE Intern (Summer) at Clover Network| Incoming SWE Intern at Google (Fall)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anjali-vemuri-a10686b1/",
+      "text": "Software Engineering Intern at Clover Network, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/stuart-adamson/",
+      "text": "Staff Engineer - Software Module lead at Navis LLC"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nayana Laxmeshwar",
+    "headline": "Engineering Intern at Clover Network, Inc.",
+    "location": "San Francisco Bay Area",
+    "connections": "142",
+    "summary": "I am currently pursuing my MS in Computer Science from San Francisco State University and actively seeking for summer internship opportunities. I have worked for 2 years in CapGemini India Pvt Ltd as a software developer in a project implementation for SAP CRM domain. My technical skills include:\nTool Experience: Eclipse (Java), Pycharm (Python), Jupyter Notebook (Python), Atom (JS), AWS CL\nVersion Control System: Git, Subversion\nProgramming Languages - Python, Java, C, C++, SAP ABAP, Android Programming.\nWeb Development – HTML, CSS, JavaScript, Bootstrap, NodeJs, Express, Mongoose."
+  }
+}

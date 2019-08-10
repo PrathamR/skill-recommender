@@ -1,0 +1,256 @@
+{
+  "profileAlternative": {
+    "name": "Jacky C.",
+    "headline": "M.S. Software Engineering Student @ SJSU | Software Engineer Intern @ Albertsons LLC",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Aspiring software engineer strives to not only understand the theory of computation, but to also acknowledge its relevance and impact on our society."
+  },
+  "aboutAlternative": {
+    "text": "Aspiring software engineer strives to not only understand the theory of computation, but to also acknowledge its relevance and impact on our society."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Albertsons Companies",
+      "description": "• Developing microservices archetype application to auto generate and deploy Spring Boot applications (maven based) on the Architecture & Platform team.\n• Tech Stack: Nodejs, Java w/ Spring Boot, Redis, MongoDB, JUnit, Maven, and Azure.",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Cruise Automation",
+      "description": "• Labeled high-definition LiDAR maps to allow autonomous vehicles identify all complex features on roads and urban environment.\n• Assisted in the production and maintenance of maps used for autonomous vehicle navigation using spatial software.",
+      "date1": "Oct 2018 – Jan 2019",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Mapping Technician",
+          "date1": "Oct 2018 – Jan 2019",
+          "date2": "4 mos"
+        },
+        {
+          "title": "Product Engineering",
+          "date1": "Sep 2018 – Oct 2018",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "IT Intern",
+      "companyName": "JOS",
+      "description": "• Developed an JSF web application for JAS aircraft system; contributed to full stack development.\n• Redesigned an outdated user interface and remodeled the relational database schema.\n• Parsed JSON data with Gson API and persisted objects into mySQL database with... ",
+      "date1": "Jun 2017 – Aug 2017",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science - MS",
+      "date1": "2019",
+      "date2": "2020"
+    },
+    {
+      "title": "University of California, Merced",
+      "degree": "Bachelor of Science - BS",
+      "date1": "2014",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "title": "Object Oriented Design"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Quality Assurance"
+    },
+    {
+      "title": "Robotics"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "Software Design"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "Front-end Development"
+    },
+    {
+      "title": "HTML5",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "JUnit"
+    },
+    {
+      "title": "Unified Modeling Language (UML)"
+    },
+    {
+      "title": "XML"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "Docker Products"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Back-End Web Development"
+    },
+    {
+      "title": "Application Programming Interfaces"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "Algorithm Design and Analysis",
+        "Artificial Intelligence",
+        "Circuit Theory",
+        "Computer Architecture",
+        "Computer Organization",
+        "Data Structures",
+        "Database Systems",
+        "Digital Image Processing",
+        "Discrete Mathematics",
+        "Enterprise Software Platforms"
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "Loop Optimizations -- Intel SIMD Architecture",
+        "scavengerHunt - 3D Robot Simulation",
+        "nachOS - Operating System Design",
+        "myWaytor - Android Mobile Application",
+        "Heuristic Search Algorithms -- Artificial Intelligence",
+        "Image Processing Algorithms",
+        "marioDash - 2D Desktop Game",
+        "hotelDB - SQLite Database"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Competitor"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yash-amin1/",
+      "text": "Software Engineer Intern at Nuage Networks from Nokia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashish-kadam/",
+      "text": "Software Engineer Intern at Versa Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saket-thakare/",
+      "text": "Software Engineering Intern at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-reddymn/",
+      "text": "Network Analyst intern at ServiceNow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akhianand/",
+      "text": "Software Engineer Intern at Glassdoor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aishwariyabhatt/",
+      "text": "Student at San Jose Sate University, MS in Software Engineering | Full Stack Developer | Data Enthusiast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prathamesh-karve/",
+      "text": "Seeking Internship for Spring/Summer 2020 | Ex Software Engineer-II at Cisco (4+ YOE) | TA at SJSU | MS in Software Engg"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanjay-nag/",
+      "text": "Software Development Engineer Intern at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karandidwani/",
+      "text": "Software Engineer 2 at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jayparekhjp/",
+      "text": "AWS Certified | CloudOps Infrastructure Intern at TeleTracking | Graduate Student at SJSU"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Library Assistant",
+      "experience": "Ingleside Branch Public Library",
+      "description": "Education",
+      "date1": "Jan 2013 – May 2013",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Summer Trainee",
+      "experience": "Enterprise for Youth",
+      "description": "Economic Empowerment",
+      "date1": "Jun 2014 – Aug 2014",
+      "date2": "3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Jacky C.",
+    "headline": "M.S. Software Engineering Student @ SJSU | Software Engineer Intern @ Albertsons LLC",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Aspiring software engineer strives to not only understand the theory of computation, but to also acknowledge its relevance and impact on our society."
+  }
+}

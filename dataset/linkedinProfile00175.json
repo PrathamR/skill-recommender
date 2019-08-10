@@ -1,0 +1,203 @@
+{
+  "profileAlternative": {
+    "name": "Anna Prokofieva",
+    "headline": "Software Engineer at Google",
+    "location": "New York, New York",
+    "connections": "311"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Google",
+      "description": "Currently work on the Google Docs team.",
+      "date1": "Jun 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Columbia University",
+      "description": "Focused on automatic hedge detection and uncertainty determination in spoken dialogue and text. Supervised several Masters and undergraduate students on various projects.",
+      "date1": "Sep 2012 – May 2016",
+      "date2": "3 yrs 9 mos",
+      "roles": [
+        {
+          "title": "PhD Student in Computer Science",
+          "date1": "Sep 2012 – May 2016",
+          "date2": "3 yrs 9 mos"
+        },
+        {
+          "title": "Coordinator of the Emerging Scholars Program",
+          "date1": "Sep 2012 – Jun 2014",
+          "date2": "1 yr 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Google",
+      "description": "Worked on category classification for Google Maps; set up a framework for text-based feature extraction and explored various feature configurations to use in neural network classification.",
+      "date1": "Jun 2015 – Aug 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineering Research Intern",
+      "companyName": "Microsoft",
+      "description": "Implemented feature extraction and ran classification experiments to determine which eye gaze features led to a significant improvement in a previous lexically-based spoken language understanding system.",
+      "date1": "Jun 2014 – Sep 2014",
+      "date2": "4 mos"
+    },
+    {
+      "title": "McGill University",
+      "description": "Acted as fieldworker in sociolinguistics research; contacted participants, scheduled interviews, conducted interviews and collected data.",
+      "date1": "Jan 2012 – May 2012",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Research Assistant in Sociolinguistics",
+          "date1": "Jan 2012 – May 2012",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Research Assistant at the Speech Learning Lab",
+          "date1": "Jan 2011 – May 2012",
+          "date2": "1 yr 5 mos"
+        },
+        {
+          "title": "Research Assistant at the Language Development Lab",
+          "date1": "Sep 2009 – Dec 2010",
+          "date2": "1 yr 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Research and Development Assistant",
+      "companyName": "Syscon Justice Systems",
+      "description": "Researched phonetic algorithms for a sound-alike search function, developed a testing procedure and created a testing database used during large scale testing; delivered a technical report as a final recommendation to the project leads.",
+      "date1": "May 2011 – Sep 2011",
+      "date2": "5 mos"
+    },
+    {
+      "title": "LSAT Instructor",
+      "companyName": "Kaplan",
+      "description": "Taught LSAT prep courses of up to 20 people and tutored students individually.",
+      "date1": "Sep 2010 – May 2011",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Philosophy - MPhil",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science - MS",
+      "date1": "2012",
+      "date2": "2014"
+    },
+    {
+      "title": "McGill University",
+      "degree": "BA&Sc",
+      "date1": "2009",
+      "date2": "2012"
+    },
+    {
+      "title": "Sir Winston Churchill Secondary",
+      "degree": "IB Diploma",
+      "date1": "2007",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "7"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Computational Models of Social Meaning",
+        "NLP, Machine Learning and the Web",
+        "Natural Language Processing",
+        "Speaker Identification",
+        "Speech Recognition",
+        "Spoken Dialogue Systems"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/meganhansley/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/serrypark/",
+      "text": "We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mittalaakriti/",
+      "text": "Software Engineeer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sghelm/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marva-king-a456a7b/",
+      "text": "CEO at Marvalous Works Entertainment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/allisonlfisher/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swatiarora2/",
+      "text": "Software Developer at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephanyliu/",
+      "text": "Software Engineer at Snap Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/suganthid/",
+      "text": "Software Engineer at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anna Prokofieva",
+    "headline": "Software Engineer at Google",
+    "location": "New York, New York",
+    "connections": "311"
+  }
+}

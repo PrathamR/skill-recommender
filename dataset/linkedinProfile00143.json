@@ -1,0 +1,251 @@
+{
+  "profileAlternative": {
+    "name": "Anoop Martin",
+    "headline": "Software Developer Intern at Hewlett Packard Enterprise",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "TECHNICAL SKILLS\n\n• Programming Languages: C, C++, Python, Java, Visual Basic, Perl, Tcl, Linux Shell,\n\n• Web Technologies: JavaScript, Node, HTML, CSS, React, REST.\n\n• Database: MySQL, MongoDB, SQLite.\n\n• Machine Learning: TensorFlow, Keras, Scikit.\n\n• Tools: Git, SVN, Junit, JMeter, JSON Web Token.\n\n• Additional Skills: Full Stack Development, Data Structures and Algorithms, Machine Learning(completed certification course in ML by Cognixia with high marks)\n\n\n\nProjects\n\nAutomated early detection of diabetic retinopathy SJSU Fall 2018\n\n·Compared the performance of major models like SVM, KNN and deep learning techniques to detect diabetic retinopathy\n\n·Used TensorFlow library for Deep Learning and Scikit-learn for SVM and KNN implementation\n\nReal Time Object Detection Using YOLO algorithm Fall 2018\n\n·Implemented You Only Look Once (YOLO) for object detection with a class size of 20 objects\n\nCanvas: an LMS Web Application, SJSU Spring 2019\n\n·Canvas, a replica of Canvas Application, which is a cloud based Learning Management System (Web Application)\n\nTechnologies : React, Node.js ,Express, JMeter.\n\n·Developed a cloud based solution which allows Students to access their academic resources and schedules of assignments and Teachers to publish study materials and grades\n\n·Used MySQL which helped in improving search experiences on the website.\n\n·Utilized connection pooling which allows access to app services upto 1k concurrent users.\n\n·Usage of latest ES6 JS features like async-await, arrow functions etc which results in better maintenance code structure\n\n·Used JMeter for successfully testing the API’s."
+  },
+  "aboutAlternative": {
+    "text": "TECHNICAL SKILLS\n\n• Programming Languages: C, C++, Python, Java, Visual Basic, Perl, Tcl, Linux Shell,\n\n• Web Technologies: JavaScript, Node, HTML, CSS, React, REST.\n\n• Database: MySQL, MongoDB, SQLite.\n\n• Machine Learning: TensorFlow, Keras, Scikit.\n\n• Tools: Git, SVN, Junit, JMeter, JSON Web Token.\n\n• Additional Skills: Full Stack Development, Data Structures and Algorithms, Machine Learning(completed certification course in ML by Cognixia with high marks)\n\n\n\nProjects\n\nAutomated early detection of diabetic retinopathy SJSU Fall 2018\n\n·Compared the performance of major models like SVM, KNN and deep learning techniques to detect diabetic retinopathy\n\n·Used TensorFlow library for Deep Learning and Scikit-learn for SVM and KNN implementation\n\nReal Time Object Detection Using YOLO algorithm Fall 2018\n\n·Implemented You Only Look Once (YOLO) for object detection with a class size of 20 objects\n\nCanvas: an LMS Web Application, SJSU Spring 2019\n\n·Canvas, a replica of Canvas Application, which is a cloud based Learning Management System (Web Application)\n\nTechnologies : React, Node.js ,Express, JMeter.\n\n·Developed a cloud based solution which allows Students to access their academic resources and schedules of assignments and Teachers to publish study materials and grades\n\n·Used MySQL which helped in improving search experiences on the website.\n\n·Utilized connection pooling which allows access to app services upto 1k concurrent users.\n\n·Usage of latest ES6 JS features like async-await, arrow functions etc which results in better maintenance code structure\n\n·Used JMeter for successfully testing the API’s."
+  },
+  "positions": [
+    {
+      "title": "Software Developer Intern",
+      "companyName": "Hewlett Packard Enterprise",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Cadence Design Systems",
+      "date1": "Jun 2016 – May 2018",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Design Engineer",
+          "date1": "Jun 2016 – May 2018",
+          "date2": "2 yrs"
+        },
+        {
+          "title": "Intern",
+          "date1": "Jun 2015 – Jun 2016",
+          "date2": "1 yr 1 mo"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "National Institute of Technology Calicut",
+      "degree": "Master's degree",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "NSS COLLEGE OF ENGINEERING, AKATHETHARA",
+      "degree": "Bachelor of Technology - BTech",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "6"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "C++",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "3"
+    },
+    {
+      "title": "SoC",
+      "count": "2"
+    },
+    {
+      "title": "ASIC",
+      "count": "2"
+    },
+    {
+      "title": "Artificial Intelligence (AI)",
+      "count": "1"
+    },
+    {
+      "title": "statistics",
+      "count": "1"
+    },
+    {
+      "title": "Computer Vision",
+      "count": "2"
+    },
+    {
+      "title": "software"
+    },
+    {
+      "title": "Verilog",
+      "count": "5"
+    },
+    {
+      "title": "C",
+      "count": "7"
+    },
+    {
+      "title": "Matlab",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "1"
+    },
+    {
+      "title": "Perl",
+      "count": "1"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "TensorFlow",
+      "count": "2"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "HTML5",
+      "count": "1"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Problem Solving"
+    },
+    {
+      "title": "Static Timing Analysis",
+      "count": "1"
+    },
+    {
+      "title": "TCL",
+      "count": "1"
+    },
+    {
+      "title": "Artificial Neural Networks"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Computer Architecture",
+        "Data Structures and Algorithms",
+        "Enterprise Distributed Systems",
+        "Large Scale Analytics",
+        "Machine Learning",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Tamil"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandhya-ramachandra/",
+      "text": "Software Intern at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-parakh-01724815a/",
+      "text": "Software Developer Engineer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jsavyasachi/",
+      "text": "Interim Intern at Qualcomm"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rohitrjain/",
+      "text": "Software Development Engineer Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nrupa-chitley-b760b65a/",
+      "text": "Software Engineer Intern at Cisco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkateswara-raju-datla/",
+      "text": "Graduate Student at San Jose State University. Actively looking for a Software/ Full Stack/ Android Engineer positions."
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhaumikichhaporia/",
+      "text": "Software Engineer Intern- Tools and Automation at Itron, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramyaiyer06/",
+      "text": "Software Engineering Graduate Student at San Jose State University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anoop Martin",
+    "headline": "Software Developer Intern at Hewlett Packard Enterprise",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "TECHNICAL SKILLS\n\n• Programming Languages: C, C++, Python, Java, Visual Basic, Perl, Tcl, Linux Shell,\n\n• Web Technologies: JavaScript, Node, HTML, CSS, React, REST.\n\n• Database: MySQL, MongoDB, SQLite.\n\n• Machine Learning: TensorFlow, Keras, Scikit.\n\n• Tools: Git, SVN, Junit, JMeter, JSON Web Token.\n\n• Additional Skills: Full Stack Development, Data Structures and Algorithms, Machine Learning(completed certification course in ML by Cognixia with high marks)\n\n\n\nProjects\n\nAutomated early detection of diabetic retinopathy SJSU Fall 2018\n\n·Compared the performance of major models like SVM, KNN and deep learning techniques to detect diabetic retinopathy\n\n·Used TensorFlow library for Deep Learning and Scikit-learn for SVM and KNN implementation\n\nReal Time Object Detection Using YOLO algorithm Fall 2018\n\n·Implemented You Only Look Once (YOLO) for object detection with a class size of 20 objects\n\nCanvas: an LMS Web Application, SJSU Spring 2019\n\n·Canvas, a replica of Canvas Application, which is a cloud based Learning Management System (Web Application)\n\nTechnologies : React, Node.js ,Express, JMeter.\n\n·Developed a cloud based solution which allows Students to access their academic resources and schedules of assignments and Teachers to publish study materials and grades\n\n·Used MySQL which helped in improving search experiences on the website.\n\n·Utilized connection pooling which allows access to app services upto 1k concurrent users.\n\n·Usage of latest ES6 JS features like async-await, arrow functions etc which results in better maintenance code structure\n\n·Used JMeter for successfully testing the API’s."
+  }
+}

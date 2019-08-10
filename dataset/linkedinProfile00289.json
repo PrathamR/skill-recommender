@@ -1,0 +1,251 @@
+{
+  "profileAlternative": {
+    "name": "Ishan Gote",
+    "headline": "Actively seeking part-time and full-time roles in Software Engineering | Machine Learning & Data Science Enthusiast",
+    "location": "Charlotte, North Carolina",
+    "connections": "500+",
+    "summary": "I am currently pursuing an MS in Computer Science at UNC Charlotte, with a specialization in Machine Learning. I have previously worked in the industry and academia and have experience in various sub-areas of artificial intelligence including Computer Vision and Data Science."
+  },
+  "aboutAlternative": {
+    "text": "I am currently pursuing an MS in Computer Science at UNC Charlotte, with a specialization in Machine Learning. I have previously worked in the industry and academia and have experience in various sub-areas of artificial intelligence including Computer Vision and Data Science."
+  },
+  "positions": [
+    {
+      "title": "Teaching Assistant",
+      "companyName": "University of North Carolina at Charlotte",
+      "description": "• Teaching Assistant for Machine Learning Spring '19.\n• Assistance to the professor in organizing the learning environment, preparing and maintaining materials and resources, and grading tests and homework.",
+      "date1": "Jan 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Development Intern",
+      "companyName": "LucidNC",
+      "description": "• Built models to identify industrial building surfaces for autonomous cleaner drones.\n• Developed an AlexNet based deep learning model to classify stains.\n• Identified algae stains on brick surfaces with 96% precision.",
+      "date1": "Aug 2018 – Dec 2018",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "SocioFreak",
+      "description": "• Designed and developed a website that provided sports and entertainment news to 400,000 monthly users.\n• Integrated advanced plugins like Yoast SEO, Broken Link Checker and Google XML Sitemaps for faster crawling.",
+      "date1": "Apr 2017 – May 2018",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Software Development Intern",
+      "companyName": "CDAC",
+      "description": "• Developed a framework using OpenGL 3.3 and skybox method to ingest high performing CML models\n• The new framework made model ingestion and visualization 250% faster and enabled to process trajectory and rotation analysis of complex amino acids.",
+      "date1": "Aug 2017 – Apr 2018",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Research Intern",
+      "companyName": "University of Rome Tor Vergata",
+      "description": "• Built a Bayesian framework using LTE signals as illuminators of opportunity (IOO) to detect people in a closed room and estimate their position and velocity\n• Identified approximate number of people in the room with an accuracy of 81% and a localization error of 35%",
+      "date1": "Jun 2017 – Aug 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Technical Head",
+      "companyName": "PICT ACM Student Chapter",
+      "description": "• Organized Hackathons and technical workshops as Technical Head of PICT ACM Student Chapter (PASC)",
+      "date1": "Aug 2014 – Aug 2017",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Search Engine Optimization Intern",
+      "companyName": "Everest Web Solutions Pvt Ltd",
+      "description": "• Developed a service which would periodically update content creators with NYSE SEO signals using Google Search Console API.\n• Website received Alexa rank 25,284 in the United States from an initial rank of 40,000.",
+      "date1": "Sep 2016 – Nov 2016",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of North Carolina at Charlotte",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Pune Institute of Computer Technology",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2014",
+      "date2": "2018"
+    },
+    {
+      "title": "Jog Education Trusts P. Jog College of Science & Commerce, Mayur Colony ,Kothrud, . Pune 411 038.",
+      "degree": "HSC",
+      "date1": "2012",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "2"
+    },
+    {
+      "title": "Python 3",
+      "count": "4"
+    },
+    {
+      "title": "Search Engine Optimization (SEO)",
+      "count": "2"
+    },
+    {
+      "title": "Web Content Writing",
+      "count": "1"
+    },
+    {
+      "title": "Computer Vision"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "OpenGL",
+      "count": "1"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "x86 Assembly"
+    },
+    {
+      "title": "GIMP"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/choudharymahendra/",
+        "text": "Ishan - A no-nonsense and result oriented person. He contributed substantially to the growth of the projects. I found him to be good with research and analytics. He would be an asset in any team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/swapnil-pate/",
+        "text": "I have known Ishan for the past 7 years but worked with him for three months on our inhouse project EarnTheNecklace.com in 2016 and again in 2018. Ishan's research and analytical skills helped our project achieve new levels. His hunger to learn new things was unlike I have seen before and his inquisitiveness to test new things for the advancement project played an important role in developing new strategies which yielded results. His ability to find creative and innovative solutions to daily challenges has provided a new direction to our project and brought some positive changes to our working process and strategies. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/swapnil-pate/",
+        "text": "From working as an intern under the mentorship of Swapnil at Everest Web Solutions to co-founding SocioFreak, I have worked with him on diverse digital marketing projects. \nSwapnil's eagerness to learn on the job has always helped him and his team keep pace with the ever-changing technological advances in digital marketing. Swapnil is proficient in on-page SEO, content analysis and website optimization and redesign. \nFurthermore, Swapnil holds a strong personality of a natural leader and mentor. I have known Swapnil to exude a feeling of confidence and desire to keep learning in his team. This has helped his team pursue innovative ideas towards the betterment of the project.\nI would recommend Swapnil to anyone who is looking to kickstart a digital marketing project. His technical expertise combined with managerial skills will make him an excellent manager.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/choudharymahendra/",
+        "text": "Mahendra has been one of the best mentors I have had. His solid work ethics, commitment to his team and his methodological approach to solving tasks in stipulated time make Mahendra a truly empowering leader!\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "34",
+      "items": [
+        "Algorithms and Data Structures",
+        "Business Analytic and Intelligence",
+        "Cloud Computing",
+        "Cloud Computing",
+        "Computer Forensic and Cyber Applications",
+        "Computer Graphics and Gaming",
+        "Computer Networks",
+        "Computer Organization",
+        "Computer Vision",
+        "Data Communication and Wireless Sensor Networks"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Image colorization using GANs",
+        "Steering Angle Prediction using custom packages",
+        "Biomolecular Visualization Software",
+        "Bayesian Estimation in Passive Radar Systems Using LTE Signals",
+        "Survey of Genome Analysis Using Velvet Algorithm",
+        "Campus-Hub"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "German",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "First Runner Up, Impetus and Concepts, 2018"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aditi-nivargi-59863b136/",
+      "text": "Data Science Analyst Intern at Equinix | Actively seeking Full Time Opportunities | Graduate Student at USC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreeyavjoshi/",
+      "text": "Software Engineer Intern at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sayali-alatkar/",
+      "text": "Software Development Intern at Siemens"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikhil-jadhav-83a9aa81/",
+      "text": "Actively seeking Summer Internship opportunities | UNCC MS-CS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yashmakheja/",
+      "text": "Software Development Engineering Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rvoak/",
+      "text": "Data Scientist Intern at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cathalye/",
+      "text": "Graduate student in Computer Science at UC Irvine"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shivanimehendarge/",
+      "text": "SDE Intern at AWS | Actively Seeking full-time positions starting December 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanmaymkhare/",
+      "text": "Research Technician at Joint Department of Biomedical Engineering - NC State and UNC Chapel Hill | NC State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreyasdevan/",
+      "text": "Software Engineer Intern at Edupoint Educational Systems"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ishan Gote",
+    "headline": "Actively seeking part-time and full-time roles in Software Engineering | Machine Learning & Data Science Enthusiast",
+    "location": "Charlotte, North Carolina",
+    "connections": "500+",
+    "summary": "I am currently pursuing an MS in Computer Science at UNC Charlotte, with a specialization in Machine Learning. I have previously worked in the industry and academia and have experience in various sub-areas of artificial intelligence including Computer Vision and Data Science."
+  }
+}

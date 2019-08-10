@@ -1,0 +1,305 @@
+{
+  "profileAlternative": {
+    "name": "Yanki Shah",
+    "headline": "Software Engineer 2 at eBay",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am a recent graduate from San Jose State University and actively looking for full time opportunity in Software/Web Development, Full Stack Development and Big Data/Machine Learning Application Development. In addition to excelling academically, I have 2 years of overall industrial experience in Software/Web development and Full stack (Front End & Back End) development.\n\n• Github: github.com/yankishah\n• Worked as Software Developer, Web/Full Stack Developer and a Machine Learning enthusiast\n• Good knowledge in Agile methodologies and project management\n• Build Tools: Travis CI, Grunt, Bower\n• Languages: JAVA, Javascript, Python, R, C++\n• Cloud : Amazon AWS, IBM Bluemix, Microsoft Azure, Google Cloud\n• QA Tools: Selenium (IDE, WebDriver), Appium, JMeter, testthat(R), JUnit, Mocha.Js\n• Web Technologies: AngularJS, NodeJS-Express, jQuery, AJAX, Rest Web-service, SOAP, Wordpress\n• UI: Angular-Material, CSS3, HTML5, Bootstrap\n• Databases/Middleware: MySQL, Oracle 10g/11g, MongoDB, Redis, MS SQL Server 2008 & 2012\n• OS: Linux - Ubuntu, Windows\n• Newbie Learner/developer in Deep/Machine Learning Application Development, Data Engineering\n\n\nAreas of interests:\n• Scalable and highly available distributed system development\n• Enterprise software development\n• Full Stack application development and Node.Js development\n• Data Engineering and Back-end development"
+  },
+  "aboutAlternative": {
+    "text": "I am a recent graduate from San Jose State University and actively looking for full time opportunity in Software/Web Development, Full Stack Development and Big Data/Machine Learning Application Development. In addition to excelling academically, I have 2 years of overall industrial experience in Software/Web development and Full stack (Front End & Back End) development.\n\n• Github: github.com/yankishah\n• Worked as Software Developer, Web/Full Stack Developer and a Machine Learning enthusiast\n• Good knowledge in Agile methodologies and project management\n• Build Tools: Travis CI, Grunt, Bower\n• Languages: JAVA, Javascript, Python, R, C++\n• Cloud : Amazon AWS, IBM Bluemix, Microsoft Azure, Google Cloud\n• QA Tools: Selenium (IDE, WebDriver), Appium, JMeter, testthat(R), JUnit, Mocha.Js\n• Web Technologies: AngularJS, NodeJS-Express, jQuery, AJAX, Rest Web-service, SOAP, Wordpress\n• UI: Angular-Material, CSS3, HTML5, Bootstrap\n• Databases/Middleware: MySQL, Oracle 10g/11g, MongoDB, Redis, MS SQL Server 2008 & 2012\n• OS: Linux - Ubuntu, Windows\n• Newbie Learner/developer in Deep/Machine Learning Application Development, Data Engineering\n\n\nAreas of interests:\n• Scalable and highly available distributed system development\n• Enterprise software development\n• Full Stack application development and Node.Js development\n• Data Engineering and Back-end development"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer 2",
+      "companyName": "eBay",
+      "date1": "Oct 2018 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "CLi Digital Media",
+      "description": "• Lead the whole development as Project Manager using agile methodology viz. scrum and deliver results on time.\n• Design and develop scalable backend for CRM and integrate third party applications such as MS Power BI to interact with existing... ",
+      "date1": "Jul 2017 – Oct 2018",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "San Jose State University",
+      "description": "- Studied various image recognition and object detection algorithms to summarize their outcomes and effectiveness.\n- Compared precision of different methodologies to determine best algorithm or hybrid algorithm for trash detection.... ",
+      "date1": "Nov 2016 – May 2017",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "CLi Digital Media",
+      "description": "• Independently handled a major project and developed and upgraded various features as per client’s requirement and efficiently handled high priority stories in each sprint.\n• Designed, developed and integrated CRM & messaging applications in Java and .Net which boosted overall revenue for Q3-Q4 by 37%.... ",
+      "date1": "Jun 2016 – Aug 2016",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Skyiwave",
+      "date1": "May 2014 – Apr 2015",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Ahmedabad Institute Of Technology",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Node.js",
+      "count": "15"
+    },
+    {
+      "title": "AngularJS",
+      "count": "16"
+    },
+    {
+      "title": "MongoDB",
+      "count": "15"
+    },
+    {
+      "title": "Project Management",
+      "count": "12"
+    },
+    {
+      "title": "Programming",
+      "count": "16"
+    },
+    {
+      "title": "Research",
+      "count": "5"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Big Data"
+    },
+    {
+      "title": "Testing",
+      "count": "1"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Algorithms"
+    },
+    {
+      "title": "Java",
+      "count": "29"
+    },
+    {
+      "title": "HTML",
+      "count": "31"
+    },
+    {
+      "title": "C++",
+      "count": "23"
+    },
+    {
+      "title": "C",
+      "count": "25"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "4"
+    },
+    {
+      "title": "CSS",
+      "count": "6"
+    },
+    {
+      "title": "MySQL",
+      "count": "8"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "JavaScript",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "19"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "5"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "Windows"
+    },
+    {
+      "title": "Core Java"
+    },
+    {
+      "title": "Leadership",
+      "count": "9"
+    },
+    {
+      "title": "Customer Service",
+      "count": "5"
+    },
+    {
+      "title": "Management",
+      "count": "6"
+    },
+    {
+      "title": "Teamwork",
+      "count": "1"
+    },
+    {
+      "title": "JMeter",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "21",
+      "items": [
+        "Computer Graphics",
+        "Computer Programming with C",
+        "Data Structures",
+        "Database Management System",
+        "Design and Analysis of Algorithms",
+        "Enterprise Application Development",
+        "Enterprise Distributed Systems",
+        "Enterprise Software Platforms",
+        "Information Security",
+        "Java Technology"
+      ]
+    },
+    {
+      "count": "13",
+      "items": [
+        "Deep Learning Framework for Smart Street Cleaning",
+        "RealtorVR - Team Leader",
+        "Yelp Photo Classification",
+        "Bitcoin Analysis and Price Prediction",
+        "Distributed System Design - An image Sharing application",
+        "Mobile Test Automation",
+        "OpenMP - Bank Simulation System",
+        "Test Automation using Selenium",
+        "UBER Simulation",
+        "Find My Session"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Gujarati",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GRE",
+        "TOEFL"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "A Deep Learning Framework for Smart Street Cleaning"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/forammehta90/",
+      "text": "Senior Software Engineer at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maithiligole/",
+      "text": "Software Engineer at Walmart Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/asmitanegi/",
+      "text": "Software Engineer @Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aprokofieva/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikitajuneja/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyankasp/",
+      "text": "Software Engineer 2 at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akanksha-nagpal-73440628/",
+      "text": "Software Development Engineer-III @ Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gaya3muralidharan/",
+      "text": "Member Of Technical Staff at Forward Networks, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/swathinambiar/",
+      "text": "Software Engineer 2 at eBay"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yanki Shah",
+    "headline": "Software Engineer 2 at eBay",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I am a recent graduate from San Jose State University and actively looking for full time opportunity in Software/Web Development, Full Stack Development and Big Data/Machine Learning Application Development. In addition to excelling academically, I have 2 years of overall industrial experience in Software/Web development and Full stack (Front End & Back End) development.\n\n• Github: github.com/yankishah\n• Worked as Software Developer, Web/Full Stack Developer and a Machine Learning enthusiast\n• Good knowledge in Agile methodologies and project management\n• Build Tools: Travis CI, Grunt, Bower\n• Languages: JAVA, Javascript, Python, R, C++\n• Cloud : Amazon AWS, IBM Bluemix, Microsoft Azure, Google Cloud\n• QA Tools: Selenium (IDE, WebDriver), Appium, JMeter, testthat(R), JUnit, Mocha.Js\n• Web Technologies: AngularJS, NodeJS-Express, jQuery, AJAX, Rest Web-service, SOAP, Wordpress\n• UI: Angular-Material, CSS3, HTML5, Bootstrap\n• Databases/Middleware: MySQL, Oracle 10g/11g, MongoDB, Redis, MS SQL Server 2008 & 2012\n• OS: Linux - Ubuntu, Windows\n• Newbie Learner/developer in Deep/Machine Learning Application Development, Data Engineering\n\n\nAreas of interests:\n• Scalable and highly available distributed system development\n• Enterprise software development\n• Full Stack application development and Node.Js development\n• Data Engineering and Back-end development"
+  }
+}

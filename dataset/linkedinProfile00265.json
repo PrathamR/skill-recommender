@@ -1,0 +1,292 @@
+{
+  "profileAlternative": {
+    "name": "Gayathri Jayanthi",
+    "headline": "Web Application Developer| Looking for exciting opportunities",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I am an Application Developer (with Masters' degree in Computer Science) actively looking for good opportunities.\n• Good experience in UNIX commands and scripting on Linux (usage of Ubuntu – Linux).\n• Good Experience in developing applications using core Java, Multithreading, JDBC, Collections, I/O stream. .\n• Experience in developing applications with Python script, Flask framework and SQL lite environment.\n• Strong experience in working in Cloud environments such as AWS cloud and Google Cloud.\n\nTechnical Skills include:\nSoftware Certification:\n• Java SE 7 certified programmer (Oracle),\n• Scala programming for Data Science (IBM),\n• AWS Certified Developer Associate (AWS) (Expected Feb 1st - 2018*)\nOS Platform: Windows, Linux, MAC.\nCloud Tools: Google App Engine, Google Earth Engine, AWS (EC2, S3, ELB services).\nLanguages/Frameworks: C, Java, HTML/CSS, XML, JavaScript (JQuery), AJAX Calls, PHP, Python (Flask, WebApp2)\nDatabase: MySQL, SQL Lite, Oracle SQL developer.\nBuilt Tools/Version Control: GIT / Maven\nApplications: Visual Studio, Eclipse, Microsoft Office, Cygwin, VMWare (Ubuntu).\nWeb Services: REST\nTools: Android Studio, ServiceNow (Ticketing system), ALM (Defects), PUTTY"
+  },
+  "aboutAlternative": {
+    "text": "I am an Application Developer (with Masters' degree in Computer Science) actively looking for good opportunities.\n• Good experience in UNIX commands and scripting on Linux (usage of Ubuntu – Linux).\n• Good Experience in developing applications using core Java, Multithreading, JDBC, Collections, I/O stream. .\n• Experience in developing applications with Python script, Flask framework and SQL lite environment.\n• Strong experience in working in Cloud environments such as AWS cloud and Google Cloud.\n\nTechnical Skills include:\nSoftware Certification:\n• Java SE 7 certified programmer (Oracle),\n• Scala programming for Data Science (IBM),\n• AWS Certified Developer Associate (AWS) (Expected Feb 1st - 2018*)\nOS Platform: Windows, Linux, MAC.\nCloud Tools: Google App Engine, Google Earth Engine, AWS (EC2, S3, ELB services).\nLanguages/Frameworks: C, Java, HTML/CSS, XML, JavaScript (JQuery), AJAX Calls, PHP, Python (Flask, WebApp2)\nDatabase: MySQL, SQL Lite, Oracle SQL developer.\nBuilt Tools/Version Control: GIT / Maven\nApplications: Visual Studio, Eclipse, Microsoft Office, Cygwin, VMWare (Ubuntu).\nWeb Services: REST\nTools: Android Studio, ServiceNow (Ticketing system), ALM (Defects), PUTTY"
+  },
+  "positions": [
+    {
+      "title": "Network Support Engineer",
+      "companyName": "Amazon",
+      "date1": "Apr 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Application Support Developer",
+      "companyName": "Cox Automotive Inc.",
+      "date1": "Mar 2017 – Apr 2019",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Web Application Developer",
+      "companyName": "Desert Research Institute",
+      "description": "• Developed a web-based climate-engine (Nevada-ET mapper) for the Desert Research Institute (DRI), Nevada.\n• Requested OAuth authentication from Google Earth Engine to use the existing Image assets to the project.... ",
+      "date1": "May 2016 – Oct 2016",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Data Analyst",
+      "companyName": "National Remote Sensing Centre(NRSC), Dept. of Space, ISRO",
+      "description": "High Speed Satellite Dataset Creation\n• A simulated satellite data set (header and imagery) replicating the data transmitted from the remote sensing satellite was created and was run through series of hardware components at NRSC lab.... ",
+      "date1": "Jan 2015 – May 2015",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Application Developer",
+      "companyName": "Naresh Technology",
+      "description": "This is a web application developed for keeping the personal data safe and secure. It is also used for internal manipulations and storage. This application mainly involves encrypting the confidential data using cryptography algorithm called RSA algorithm. The application is developed by using Java and Oracle 10g as backend. It is developed in My eclipse ... ",
+      "date1": "Jun 2014 – Dec 2014",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Cincinnati",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "41"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "37"
+    },
+    {
+      "title": "Java",
+      "count": "34"
+    },
+    {
+      "title": "Network Security",
+      "count": "4"
+    },
+    {
+      "title": "Data Structures",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "27"
+    },
+    {
+      "title": "SQL",
+      "count": "26"
+    },
+    {
+      "title": "HTML",
+      "count": "24"
+    },
+    {
+      "title": "Matlab",
+      "count": "20"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "JavaScript",
+      "count": "13"
+    },
+    {
+      "title": "PHP",
+      "count": "11"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "9"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "8"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "8"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "7"
+    },
+    {
+      "title": "C#",
+      "count": "6"
+    },
+    {
+      "title": "MySQL",
+      "count": "4"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "3"
+    },
+    {
+      "title": "google earth engine",
+      "count": "2"
+    },
+    {
+      "title": "Leadership",
+      "count": "12"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "10"
+    },
+    {
+      "title": "Google App Engine",
+      "count": "4"
+    },
+    {
+      "title": "Datalog",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "15",
+      "items": [
+        "Advance Algorithms",
+        "C and Data Structures",
+        "Cloud Computing",
+        "Computer Graphics",
+        "Computer Networks",
+        "Database Theory",
+        "Intelligent Data Analysis",
+        "Mobile Application Development",
+        "Networking and cryptography",
+        "Object Oriented Programming"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Employee Log",
+        "myTodo Application",
+        "Data Analysis using Hadoop",
+        "\"Intrudect\" - (Intrusion Detection)",
+        "High Speed Satellite Dataset Creation",
+        "Secure Systems",
+        "iTouch Robotic arm"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Graduate Scholarship",
+        "Presentation on Technical Topics",
+        "Sketch Your Thought"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Telugu"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Society of Women Engineers"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pallavi-gusain1992-/",
+      "text": "On H4 Visa. Authorised to work. No Sponsorship needed."
+    },
+    {
+      "user": "https://www.linkedin.com/in/spandana-reddy-9b3b8053/",
+      "text": "AWS Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pranaya-reddy-820a03110/",
+      "text": "IT Professional seeking employment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madhulika-devanshi-9a3a25146/",
+      "text": "Senior Recruiter at TEKsystems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sravanthi-goud-1-724123133/",
+      "text": "LOOKING FOR FULL TIME OPPORTUNITY (UNIX/LINUX SYSTEM ADMINISTRATOR )"
+    },
+    {
+      "user": "https://www.linkedin.com/in/haarika-bathineni-604757a6/",
+      "text": "Infrastructure technology planning Engineer/Business Analyst at MUFG union Bank/ Actively Looking for New Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manjushanatarajan/",
+      "text": "Product @ Groupon| Carnegie Mellon University Alum| Data Geek"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gowthami-reddy-3238bb154/",
+      "text": "Sr. AWS/DevOps Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/padmaja-sreeram-091a48144/",
+      "text": "Currently Seeking contract opportunities in AWS/DevOps"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Coordinator for \"Tree Plantation\"",
+      "experience": "National Service Scheme",
+      "description": "Environment",
+      "date1": "Dec 2014",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Active Member",
+      "experience": "Society of Women Engineers",
+      "description": "Education",
+      "date1": "Jul 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Women Who Code",
+      "description": "Science and Technology",
+      "date1": "Feb 2017 – Present",
+      "date2": "2 yrs 6 mos"
+    }
+  ],
+  "profile": {
+    "name": "Gayathri Jayanthi",
+    "headline": "Web Application Developer| Looking for exciting opportunities",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I am an Application Developer (with Masters' degree in Computer Science) actively looking for good opportunities.\n• Good experience in UNIX commands and scripting on Linux (usage of Ubuntu – Linux).\n• Good Experience in developing applications using core Java, Multithreading, JDBC, Collections, I/O stream. .\n• Experience in developing applications with Python script, Flask framework and SQL lite environment.\n• Strong experience in working in Cloud environments such as AWS cloud and Google Cloud.\n\nTechnical Skills include:\nSoftware Certification:\n• Java SE 7 certified programmer (Oracle),\n• Scala programming for Data Science (IBM),\n• AWS Certified Developer Associate (AWS) (Expected Feb 1st - 2018*)\nOS Platform: Windows, Linux, MAC.\nCloud Tools: Google App Engine, Google Earth Engine, AWS (EC2, S3, ELB services).\nLanguages/Frameworks: C, Java, HTML/CSS, XML, JavaScript (JQuery), AJAX Calls, PHP, Python (Flask, WebApp2)\nDatabase: MySQL, SQL Lite, Oracle SQL developer.\nBuilt Tools/Version Control: GIT / Maven\nApplications: Visual Studio, Eclipse, Microsoft Office, Cygwin, VMWare (Ubuntu).\nWeb Services: REST\nTools: Android Studio, ServiceNow (Ticketing system), ALM (Defects), PUTTY"
+  }
+}

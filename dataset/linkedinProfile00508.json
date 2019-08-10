@@ -1,0 +1,192 @@
+{
+  "profileAlternative": {
+    "name": "Rachel Peterson",
+    "headline": "MIT engineer + Harvard MBA",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Chief Product Officer",
+      "companyName": "Native Cos",
+      "date1": "2016 – Present",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Founder",
+      "companyName": "Matter Toothpaste",
+      "date1": "2015",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Battery Engineer",
+      "companyName": "Tesla Motors",
+      "date1": "2011 – 2013",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Cheerleader",
+      "companyName": "San Francisco 49ers",
+      "date1": "2011 – 2013",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Chemical Engineer",
+      "companyName": "Fluidic Energy",
+      "description": "",
+      "date1": "2009 – 2010",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Massachusetts Institute of Technology",
+      "degree": "B.S.",
+      "date1": "2005",
+      "date2": "2009"
+    },
+    {
+      "title": "Harvard Business School",
+      "degree": "Master of Business Administration (MBA)",
+      "date1": "2013",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Batteries",
+      "count": "47"
+    },
+    {
+      "title": "Fuel Cells",
+      "count": "31"
+    },
+    {
+      "title": "Product Development",
+      "count": "29"
+    },
+    {
+      "title": "Start-ups",
+      "count": "25"
+    },
+    {
+      "title": "Business Strategy",
+      "count": "17"
+    },
+    {
+      "title": "R&D",
+      "count": "16"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "15"
+    },
+    {
+      "title": "Engineering",
+      "count": "14"
+    },
+    {
+      "title": "Strategy",
+      "count": "14"
+    },
+    {
+      "title": "Renewable Energy",
+      "count": "13"
+    },
+    {
+      "title": "Energy",
+      "count": "8"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "5"
+    },
+    {
+      "title": "Business Development",
+      "count": "5"
+    },
+    {
+      "title": "Research and Development (R&D)",
+      "count": "5"
+    },
+    {
+      "title": "Materials Science",
+      "count": "4"
+    },
+    {
+      "title": "Cosmetics",
+      "count": "3"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "3"
+    },
+    {
+      "title": "Customer Acquisition",
+      "count": "2"
+    },
+    {
+      "title": "SEO",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Leadership",
+      "count": "8"
+    },
+    {
+      "title": "Management",
+      "count": "4"
+    },
+    {
+      "title": "Electric Vehicles",
+      "count": "25"
+    },
+    {
+      "title": "Lithium-ion Batteries",
+      "count": "19"
+    },
+    {
+      "title": "Electrochemistry",
+      "count": "6"
+    },
+    {
+      "title": "Cleantech",
+      "count": "6"
+    },
+    {
+      "title": "Chemical Formulation",
+      "count": "1"
+    },
+    {
+      "title": "Alternative Energy",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Importance of Dynamic Surface Tension to the Residual Water Content of Fabrics"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rachel Peterson",
+    "headline": "MIT engineer + Harvard MBA",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  }
+}

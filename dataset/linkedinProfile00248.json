@@ -1,0 +1,296 @@
+{
+  "profileAlternative": {
+    "name": "Diksha Vanvari",
+    "headline": "Software Engineer at Facebook",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I started my career at Intelliswift Software, a software solutions and services company headquartered in the Silicon Valley. Working in the Java architecture team as a backend developer, I got a chance to envision, design and develop several performance driven, scalable software solutions in an agile environment.\n\nIn Fall 2015, I quit my job to pursue Masters in Computer Science at Columbia University, New York with a focus on Software Systems. Building on the foundation laid at work, I took up courses like Cloud Computing and Big Data, Database System Implementation and Micro Service Apps and Architecture that aligned with my passion of building quality software systems.\n\nIn summer 2016, I interned with the Gmail, Drive and Docs backend team at Google, Mountain View. Here, I worked on an alert automation tool that aimed at reducing an on-call SRE's operational workload. Spending the summer with some very talented engineers, I observed and learnt how to productionize software at scale, be on a lookout for automation and instrumentation, and learn from outages and their postmortems.\n\nSince Feb '17, I work as a Software Engineer at Facebook, MPK."
+  },
+  "aboutAlternative": {
+    "text": "I started my career at Intelliswift Software, a software solutions and services company headquartered in the Silicon Valley. Working in the Java architecture team as a backend developer, I got a chance to envision, design and develop several performance driven, scalable software solutions in an agile environment.\n\nIn Fall 2015, I quit my job to pursue Masters in Computer Science at Columbia University, New York with a focus on Software Systems. Building on the foundation laid at work, I took up courses like Cloud Computing and Big Data, Database System Implementation and Micro Service Apps and Architecture that aligned with my passion of building quality software systems.\n\nIn summer 2016, I interned with the Gmail, Drive and Docs backend team at Google, Mountain View. Here, I worked on an alert automation tool that aimed at reducing an on-call SRE's operational workload. Spending the summer with some very talented engineers, I observed and learnt how to productionize software at scale, be on a lookout for automation and instrumentation, and learn from outages and their postmortems.\n\nSince Feb '17, I work as a Software Engineer at Facebook, MPK."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Facebook",
+      "description": "Software Engineer on the Mobile Data Infra team (Feb '17 - Dec '17) - Worked as a backend engineer on Facebook’s mobile analytics engine that powers Feeds, Ads, Search, Instagram and Oculus. This engine provides tools to send analytics data from mobile devices, aggregate data in real time, and present this data on visualization tools or route it to various data stores used at Facebook.\n\nSoftware Engineer on the Funnel Analytics Service Team (Jan '17 - Present) - I work as a product generalist on funnel analytics service - a service designed to streamline an... ",
+      "date1": "Feb 2017 – Present",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "CA Fellow - Graduate Teaching Assistant",
+      "companyName": "Columbia University in the City of New York",
+      "description": "Awarded a full tuition waiver for outstanding performance as a Graduate Teaching Assistant in Spring '16.\nCourse Assistant for two units of Big Data & Cloud Computing.",
+      "date1": "Aug 2016 – Dec 2016",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Google",
+      "description": "Software (SiteReliability) Engineering Intern with the Gmail backend SRE team.\n\nProject: Alert Automation System for Gmail Backend\n1. Designed and built an extensible, plugin based alert automation system that recei... ",
+      "date1": "May 2016 – Aug 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Graduate Teaching Assistant",
+      "companyName": "Columbia University in the City of New York",
+      "description": "COMS W4121 (Computer Systems for Data Science) - Spring 2016\nCOMS E6998-4 (Storytelling with Streaming Data) - Spring 2016",
+      "date1": "Jan 2016 – May 2016",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Programming Assistant",
+      "companyName": "Columbia University Information Technology",
+      "description": "Fixed bugs in and added functionality to Columbia Courseworks, the university's course management system based on Sakai, an open source learning management system.",
+      "date1": "Sep 2015 – Nov 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Intelliswift",
+      "description": "Involved in architecture, design and development of varied enterprise systems.",
+      "date1": "May 2013 – May 2015",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Student Intern",
+      "companyName": "Ninth Bit Technologies",
+      "date1": "Aug 2011 – Apr 2012",
+      "date2": "9 mos"
+    },
+    {
+      "title": "E Leader",
+      "companyName": "National Entrepreneurship Network",
+      "description": "-Overall coordinator of E Week 2011, a national level competition with over 450 participating colleges.\n-Worked towards building strategies that attracted over 600 members to the E-Cell of D.Y.Patil College of Engineering, Akurdi in one year.... ",
+      "date1": "Jan 2010 – Apr 2011",
+      "date2": "1 yr 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Pune",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2008",
+      "date2": "2012"
+    },
+    {
+      "title": "Fergusson College",
+      "degree": "Junior College",
+      "date1": "2006",
+      "date2": "2008"
+    },
+    {
+      "title": "St. Ursula High School",
+      "degree": "SSC",
+      "date1": "1995",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Core Java",
+      "count": "30"
+    },
+    {
+      "title": "SQL",
+      "count": "20"
+    },
+    {
+      "title": "C",
+      "count": "17"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "5"
+    },
+    {
+      "title": "Programming",
+      "count": "2"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "17"
+    },
+    {
+      "title": "HTML",
+      "count": "10"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "XML",
+      "count": "6"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "Oracle",
+      "count": "2"
+    },
+    {
+      "title": "Eclipse",
+      "count": "2"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "1"
+    },
+    {
+      "title": "Selenium",
+      "count": "1"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Teamwork",
+      "count": "8"
+    },
+    {
+      "title": "Web Crawling",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/indraneel-dey-0595701a/",
+        "text": "Diksha was part of the team that I led for 2 years. Her innovative ideas, capability to grasp new concepts, the willingness and capacity to implement software within deadlines along with her lighthearted and jovial nature made her one of the strongest resources in the team. She would prove to be a valuable asset for any organization. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Advanced Big Data Analytics",
+        "Advanced Software Engineering",
+        "Analysis of Algorithms",
+        "Cloud Computing and Big Data",
+        "Database System Implementation",
+        "Machine Learning",
+        "Micro Service Apps and Apis",
+        "Programming Languages and Translators"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Alert Automation System for Gmail Backend",
+        "Crawling and Semantic Categorization of Websites",
+        "Unified Shopping Cart Framework",
+        "Web Crawling and Data Scraping Framework",
+        "Online ECU Diagnostics for Automobiles"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "CA Fellowship Award",
+        "Certificate of Academic Achievement",
+        "First Prize For B.E. Technical Project",
+        "Nilima Rovshen Creativity & Innovation Event Award"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GRE",
+        "TOEFL"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aprokofieva/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brittany-mahone-441947142/",
+      "text": "Model at Victoria's Secret"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marva-king-a456a7b/",
+      "text": "CEO at Marvalous Works Entertainment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karliekloss/",
+      "text": "Supermodel | Entrepreneur | Philanthropist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/soumya-sampath-984a779/",
+      "text": "Technical Program Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/diva-sharma/",
+      "text": "Stanford University | Forbes 30 Under 30"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaksham/",
+      "text": "Machine Learning @ Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisadbarnett/",
+      "text": "Co-Founder - We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachelnpeterson/",
+      "text": "MIT engineer + Harvard MBA"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "E-Leader",
+      "experience": "National Entrepreneurship Network",
+      "description": "Economic Empowerment",
+      "date1": "Jan 2010 – Apr 2011",
+      "date2": "1 yr 4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Diksha Vanvari",
+    "headline": "Software Engineer at Facebook",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I started my career at Intelliswift Software, a software solutions and services company headquartered in the Silicon Valley. Working in the Java architecture team as a backend developer, I got a chance to envision, design and develop several performance driven, scalable software solutions in an agile environment.\n\nIn Fall 2015, I quit my job to pursue Masters in Computer Science at Columbia University, New York with a focus on Software Systems. Building on the foundation laid at work, I took up courses like Cloud Computing and Big Data, Database System Implementation and Micro Service Apps and Architecture that aligned with my passion of building quality software systems.\n\nIn summer 2016, I interned with the Gmail, Drive and Docs backend team at Google, Mountain View. Here, I worked on an alert automation tool that aimed at reducing an on-call SRE's operational workload. Spending the summer with some very talented engineers, I observed and learnt how to productionize software at scale, be on a lookout for automation and instrumentation, and learn from outages and their postmortems.\n\nSince Feb '17, I work as a Software Engineer at Facebook, MPK."
+  }
+}

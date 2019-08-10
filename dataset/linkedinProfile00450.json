@@ -1,0 +1,215 @@
+{
+  "profileAlternative": {
+    "name": "Poonam Chawla",
+    "headline": "Software Engineer at Google",
+    "location": "Natick, Massachusetts",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Google",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "The MathWorks",
+      "description": "Member of MATLAB Enterprise Deployment team, currently working on the product MATLAB\nProduction Server (MPS) to provide deployment solutions for MATLAB based applications in a\nclient-server environment to solve important issues like scalability and reliability. Working to provide solutions to Java, .NET, Python and Excel clients.\n\n• Currently working on adding support for an Asynchronous Client API for the Java MPS Client. The API provides Future-based results and a listener interface for status updates. The internal\nimplementation must keep state for every outstanding request on multiple server instances and\nupdate them as the request state changes on the server.\n\n• Designed and implemented an API, in Java and C#, that allows users to dynamically invoke\nMATLAB functions deployed on the server. This required a full refactoring of the existing client\ncode for both languages.\n\n• Designed and implemented the Python MLArray, a multi-dimensional array implementation for\nPython that could be serialized/deserialized to/from MATLAB. This is a core component of the\nMATLAB Python interface which is used by multiple teams inside MathWorks.\n\n• Designed and implemented the Python Client and user-facing API for the MATLAB Production\nServer. Users can now call MATLAB functions deployed on the production server from Python.\nThe client is responsible for encoding/decoding between Python and MATLAB data structures;\nproviding access to MATLAB functions available on the server; and interacting with the server\nthrough a RESTful API.\n\n• Worked on data conversion library for marshaling non scalar data between MATLAB types and\ntypes supported by other languages like Java, C# and Excel, using Google Protocol Buffers for data serialization. See less",
+      "date1": "Jan 2013 – Present",
+      "date2": "6 yrs 7 mos"
+    },
+    {
+      "title": "Application Support Engineer",
+      "companyName": "Mathworks",
+      "description": "• Worked as part of Engineering and Development Group providing instant technical feedback and help to our many customers.\n\n• Effectively communicated customer's feedback to our development teams in orde... ",
+      "date1": "2011 – 2012",
+      "date2": "1 yr"
+    },
+    {
+      "title": "University of Delaware",
+      "description": "• Worked on Automatic Comment Generation for MPI (Message Passing Interface) Programs\n\n• Designed software tool to overcome the lack of human-written summary comments within\ndeveloped software applications and provide a check mechanism against obsolete comments",
+      "date1": "Jun 2010 – Dec 2010",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Research Assistant",
+          "date1": "Jun 2010 – Dec 2010",
+          "date2": "7 mos"
+        },
+        {
+          "title": "Graduate Assistant",
+          "date1": "Jan 2009 – Dec 2010",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "System Engineer",
+      "companyName": "Accenture Services Pvt. Ltd.",
+      "description": "I led the design and maintenance of the network based inventory database for Arcor AG &amp; Co. KG, Germany’s second largest telecom operator, renamed to Vodafone AG &amp; Co. KG on 8/1/2009.\n... ",
+      "date1": "Oct 2006 – Dec 2008",
+      "date2": "2 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Delaware",
+      "degree": "M.S",
+      "date1": "2009",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "16"
+    },
+    {
+      "title": "Testing",
+      "count": "16"
+    },
+    {
+      "title": "Java",
+      "count": "16"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "10"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Software Documentation",
+      "count": "4"
+    },
+    {
+      "title": "Program Management",
+      "count": "2"
+    },
+    {
+      "title": "Telecommunications",
+      "count": "2"
+    },
+    {
+      "title": "Analysis",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "8"
+    },
+    {
+      "title": "Oracle",
+      "count": "8"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "6"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "C",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "SAP",
+      "count": "1"
+    },
+    {
+      "title": "Access",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "5"
+    },
+    {
+      "title": "Networking",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/radhika-dahale/",
+        "text": "I have worked under Radhika's leadership and guidance on multiple occasions.\nRadhika is totally a people person. She is an energetic leader, very organized, skilled communicator and super creative. Her energy brings immense motivation to the team. :) Radhika's leadership and people skills enable her to navigate across different teams and levels within an organization and address the business, technical and cultural challenges along the way.\nShe takes customer satisfaction very seriously and cuts no corners.\nRadhika has an incredible work ethic and results driven persistence. I truly believe that her outstanding technical management, subject matter expertise, and user communication skills will continue to bring her great success in every challenge she takes upon. I’d be delighted to jump on an opportunity to work with Radhika again. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Google",
+        "The MathWorks"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sumedhamehta/",
+      "text": "Software Engineer at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-reddy-mandli/",
+      "text": "Actively seeking full-time opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/antarikshbothale/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikkh/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/agarwalkirti/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mathurmansi/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/namrata-jain-32045234/",
+      "text": "Senior Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/diva-sharma/",
+      "text": "Stanford University | Forbes 30 Under 30"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanyarai/",
+      "text": "Data Engineer @ Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akanksha-bindal/",
+      "text": "Machine Learning Engineer at Apple"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Poonam Chawla",
+    "headline": "Software Engineer at Google",
+    "location": "Natick, Massachusetts",
+    "connections": "500+"
+  }
+}

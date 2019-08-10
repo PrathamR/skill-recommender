@@ -1,0 +1,297 @@
+{
+  "profileAlternative": {
+    "name": "Nikita Juneja",
+    "headline": "Software Engineer at Apple",
+    "location": "Cupertino, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Siri Software Engineer",
+      "companyName": "Apple",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "companyName": "Georgia Institute of Technology",
+      "description": "Providing end-user device intelligence on Android phone in the form of a chatbot which analyzes user’s intent and ‘streams’ Android apps, based on their location, context, and requirements.",
+      "date1": "Aug 2016 – May 2018",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Software Development Engineer Intern",
+      "companyName": "Amazon",
+      "description": "Team: Transportation Volume Planning\n\n- Quantified accuracy of package demand prediction model at ship_option_group/warehouse/day... ",
+      "date1": "May 2017 – Aug 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Development Engineer",
+      "companyName": "Flipkart",
+      "description": "As a part of Search Team, I have:\n\n- Implemented backend for price slider feature on Flipkart website and mobile app.\n- Worked on Near Real Time data structure built upon Apache Solr search server an... ",
+      "date1": "Apr 2016 – Aug 2016",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Associate Software Engineer - Advanced Software Division",
+      "companyName": "EMC Corporation",
+      "description": "Contextualized and parsed logs in real-time using Elasticsearch-Logstash-Kibana stack:\n\n- Designed rules to normalize and detect useful information like module name, severity, etc. from logs of various services.... ",
+      "date1": "Aug 2014 – Mar 2016",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Summer Research Intern",
+      "companyName": "University of Southern California",
+      "description": "Developed Android app which collects, interpolates, filters and analyzes sensor data in real-time to detect user’s current activity.",
+      "date1": "May 2013 – Jul 2013",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Summer Intern",
+      "companyName": "IIIT Delhi",
+      "description": "Using mobile phone sensors to detect driving behavior:\n\n- Collecting accelerometer, GPS and microphone data\n- Detecting patterns for speed breakers, turns, horns, etc. in the collected data usi... ",
+      "date1": "May 2012 – Aug 2012",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Master’s Degree",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "IIIT Delhi",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "DPS Dwarka",
+      "date1": "2004",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "14"
+    },
+    {
+      "title": "Android Development",
+      "count": "7"
+    },
+    {
+      "title": "C",
+      "count": "13"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Programming",
+      "count": "10"
+    },
+    {
+      "title": "Web Development",
+      "count": "2"
+    },
+    {
+      "title": "Algorithms",
+      "count": "3"
+    },
+    {
+      "title": "3D Printing"
+    },
+    {
+      "title": "Python",
+      "count": "14"
+    },
+    {
+      "title": "Docker",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "4"
+    },
+    {
+      "title": "C#",
+      "count": "1"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "1"
+    },
+    {
+      "title": "D3.js"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "SQLite"
+    },
+    {
+      "title": "MapReduce"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Mobile Computing",
+      "count": "3"
+    },
+    {
+      "title": "Mockito"
+    },
+    {
+      "title": "ElasticSearch"
+    },
+    {
+      "title": "Solr"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/afzaljan/",
+        "text": "I've mentored Nikita as a part of Log Analytics Team. She owned the “L” Logstash and parts of Elasticsearch component of our ELK stack. In addition to log parsing & normalization, and wrappers around elasticsearch, she built the entire system around them - dockerization, load balancing, high availability, clustering, docker orchestration using ansible. She's been one of the most trusted engineers of the team. She was extremely responsive to production issues and requests, root-causing with quick turnarounds.\n\nShe is a very fast learner, quickly grasping new languages and tools. She was a great asset to ELK team and a great team player. She has always been helping others, sharing her knowledge and striving to learn from them. Extremely sincere and responsible, she's definitely someone you can consistently count on. She will be a great addition to any team. Yes, I would rehire her any day. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Behavioral Imaging",
+        "Computability, Complexity and Algorithms",
+        "Computational Social Science",
+        "Computer Networks",
+        "Data Mining",
+        "Data and Visual Analytics",
+        "Health Informatics",
+        "Information Retrieval",
+        "Knowledge Based AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Reinforcement Learning based Trader",
+        "Authorship Attribution",
+        "Hand Gestures to Interact with Devices",
+        "Cognitive Artificial Intelligence Agent",
+        "Personal Tweet Summarization",
+        "Let's Meet Up",
+        "Multi-Client Chat Server"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Scholarship to attend GHC17",
+        "Bronze Award",
+        "Bronze award",
+        "Viterbi-India Progrm Award",
+        "ACM ICPC"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "SynchroWatch: One-Handed Synchronous Smartwatch Gestures Using Correlation and Magnetic Sensing",
+        "Feasibility study of on-device and in-the-cloud virtualization of mobiles",
+        "Using Mobile Phone Sensors to Detect Driving Behaviour"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Association for Computing Machinery"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mugdha-bondre/",
+      "text": "Microsoft | Georgia Tech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mathurmansi/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nishthabhatia/",
+      "text": "APM @ Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisadbarnett/",
+      "text": "Co-Founder - We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayuripardeshi/",
+      "text": "Global Program Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anusha-kamath11/",
+      "text": "NLP-ML engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swatiarora2/",
+      "text": "Software Developer at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikiparmar/",
+      "text": "Senior Research Engineer at Google Brain"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shivani-poddar/",
+      "text": "Machine Learning Engineer Facebook AR/VR"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "CRY",
+      "description": "Children",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Nikita Juneja",
+    "headline": "Software Engineer at Apple",
+    "location": "Cupertino, California",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "profileAlternative": {
+    "name": "Supriya Jain",
+    "headline": "Software Engineer Intern at Clover Network, Inc.",
+    "location": "San Jose, California",
+    "connections": "286",
+    "summary": " 6+ years of diversified experience in IT with proficiency in C++, Java, JavaScript, Cloud technologies, Agile methodologies.\n Well versed with optimal usage of data structures and object-oriented software design patterns.\n Specialized in Cloud computing, Virtualization and Distributed systems.\n Currently Pursuing Masters in Software Engineering from San Jose State University."
+  },
+  "aboutAlternative": {
+    "text": " 6+ years of diversified experience in IT with proficiency in C++, Java, JavaScript, Cloud technologies, Agile methodologies.\n Well versed with optimal usage of data structures and object-oriented software design patterns.\n Specialized in Cloud computing, Virtualization and Distributed systems.\n Currently Pursuing Masters in Software Engineering from San Jose State University."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Clover Network, Inc.",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Technical Consultant",
+      "companyName": "Larsen & Toubro Infotech / L&T Infotech",
+      "description": "MS CRM-Field One implementation for UTC Chubb Australia: MSCRM| C#| JavaScript| Field One| HTML5| REST\n Led the development of cloud-based CRM desktop and mobile solutions for improving efficiency in servicing orders.... ",
+      "date1": "Jul 2016 – Mar 2017",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Technology Analyst",
+      "companyName": "Infosys Limited",
+      "description": "SBC FIRST(AT&T): C++| JAVA| SOAP| UNIX Shell Script| PLSQL\n Designed Unix compatible auto resolution handlers in provisioning fallouts in FIRST, bringing down resource usage considerably.\n SPOC for streamlining socket services which enabled communication between Ja... ",
+      "date1": "Sep 2011 – May 2016",
+      "date2": "4 yrs 9 mos"
+    },
+    {
+      "title": "Volunteer",
+      "companyName": "SNEH Foundation",
+      "description": "Worked with the NGO SNEH foundation - Infosys Pune chapter. Organized educational classes for women, festival celebrations for under privileged kids and flash mobs on topics of social relevance.",
+      "date1": "Mar 2012 – Oct 2015",
+      "date2": "3 yrs 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master's degree",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "K. J. Somaiya Institute Of Engineering and Information Technology",
+      "degree": "Bachelor of Engineering (BE)",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "The Kelkar Education Trusts Vinayak Ganesh Vaze College of Arts Science and Commerce Mithagar Road M",
+      "degree": "HSC",
+      "date1": "2005",
+      "date2": "2007"
+    },
+    {
+      "title": "P.J.Highschool , Wada",
+      "degree": "SSC",
+      "date1": "2000",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "Software Design Patterns"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "1"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Data Structures"
+    },
+    {
+      "title": "Scrum"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "Web Services"
+    },
+    {
+      "title": "Service-Oriented Architecture (SOA)"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "java script"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": ".NET Framework"
+    },
+    {
+      "title": "C#"
+    },
+    {
+      "title": "jsp"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "ECMAScript"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "NoSQL"
+    },
+    {
+      "title": "Google Cloud Platform (GCP)"
+    },
+    {
+      "title": "OAuth"
+    },
+    {
+      "title": "Unix"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "SOAP"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "Spring MVC"
+    },
+    {
+      "title": "Hibernate"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "AWS Elastic Beanstalk"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "mscrm"
+    },
+    {
+      "title": "field one"
+    },
+    {
+      "title": "resco"
+    },
+    {
+      "title": "Mobile Computing"
+    },
+    {
+      "title": "Internet of Things (IoT)"
+    },
+    {
+      "title": "Mean Stack"
+    },
+    {
+      "title": "Google App Engine"
+    },
+    {
+      "title": "pub sub mess"
+    },
+    {
+      "title": "Express.js"
+    },
+    {
+      "title": "Cookies"
+    },
+    {
+      "title": "Curl"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Big Data",
+        "Cloud Technologies",
+        "Data Structures and Algorithms",
+        "Database Technologies",
+        "Distributed Systems",
+        "Enterprise Software Platform",
+        "Gaming Architecture and Programming",
+        "Internet Programming",
+        "Microprocessors & Microcontrollers",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "12",
+      "items": [
+        "Custom Linux Kernel",
+        "Simulation of Canvas- Learning management System (Spring 2019)",
+        "Game of Warriors",
+        "Smart Streets",
+        "Travel-Live-Create Marketplace",
+        "MS CRM-Field One implementation/support project for UTC Chubb Australia",
+        "Wealth Management Solution",
+        "SBC-FIRST(AT&T): SIX SIGMA",
+        "SBC-FIRST(AT&T): Hipro",
+        "SBC-FIRST(AT&T): CCR Hot Cut"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Insta Award",
+        "Bravo Award"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/khushboo-mutha/",
+      "text": "Software Developer at Walmart Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/het-shah11/",
+      "text": "Quality Engineering Intern at FUJIFILM Dimatix, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sweety-sojrani-72190222/",
+      "text": "IT Intern at Pure Storage"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nrupa-chitley-b760b65a/",
+      "text": "Software Engineer Intern at Cisco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amruta-saraf/",
+      "text": "Software Engineering Intern at Uber Technologies, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nayana-laxmeshwar-a89b7967/",
+      "text": "Engineering Intern at Clover Network, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/vaidehideo/",
+      "text": "Full stack developer - Java/JS | Experienced in cloud computing | Seeking full-time opportunity!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drusti-thakkar/",
+      "text": "Product Development Intern at F5 Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-parakh-01724815a/",
+      "text": "Software Developer Engineer Intern at Amazon"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Supriya Jain",
+    "headline": "Software Engineer Intern at Clover Network, Inc.",
+    "location": "San Jose, California",
+    "connections": "286",
+    "summary": " 6+ years of diversified experience in IT with proficiency in C++, Java, JavaScript, Cloud technologies, Agile methodologies.\n Well versed with optimal usage of data structures and object-oriented software design patterns.\n Specialized in Cloud computing, Virtualization and Distributed systems.\n Currently Pursuing Masters in Software Engineering from San Jose State University."
+  }
+}

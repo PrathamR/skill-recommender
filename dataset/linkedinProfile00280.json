@@ -1,0 +1,295 @@
+{
+  "profileAlternative": {
+    "name": "Het Shah",
+    "headline": "Quality Engineering Intern at FUJIFILM Dimatix, Inc.",
+    "location": "San Francisco Bay Area",
+    "connections": "282",
+    "summary": "I am a graduate student at San Jose State University and currently pursuing masters in Industrial and Systems Engineering with dual specialization in Production-Quality Assurance and Supply Chain & Logistics Engineering. Currently, I am Seeking a position in an organization where I can portray my technical abilities and knowledge to contribute for the growth of the organization simultaneously helping me to fulfill my career objective and widen the knowledge in this rapidly changing field."
+  },
+  "aboutAlternative": {
+    "text": "I am a graduate student at San Jose State University and currently pursuing masters in Industrial and Systems Engineering with dual specialization in Production-Quality Assurance and Supply Chain & Logistics Engineering. Currently, I am Seeking a position in an organization where I can portray my technical abilities and knowledge to contribute for the growth of the organization simultaneously helping me to fulfill my career objective and widen the knowledge in this rapidly changing field."
+  },
+  "positions": [
+    {
+      "title": "Quality Engineering Intern",
+      "companyName": "FUJIFILM Dimatix, Inc.",
+      "date1": "Jun 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Manufacturing and Quality Intern (Production Supervisor)",
+      "companyName": "WALIA ENGINEERING ASSOCIATES PVT LTD",
+      "description": "• Engaged with the procurement cycle of industry and tracked raw materials using MRP system.\n• Created a checklist using Excel to manage and keep track of the inventory.\n• Measured Mild Steel Plates, MS Girders, MS Bars, MS Pipes, PVC Pipes, etc. for b... ",
+      "date1": "Dec 2017 – May 2018",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Masters",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "LJ Institute of engineering and technology",
+      "degree": "Bachelor of Engineering",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "Nirman High School",
+      "degree": "Higher Secondary",
+      "date1": "2011",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Manufacturing",
+      "count": "2"
+    },
+    {
+      "title": "Design of Experiments (DOE)",
+      "count": "2"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Project Management",
+      "count": "3"
+    },
+    {
+      "title": "Engineering",
+      "count": "3"
+    },
+    {
+      "title": "Mechanical Engineering",
+      "count": "2"
+    },
+    {
+      "title": "Social Media",
+      "count": "1"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "Quality Assurance",
+      "count": "3"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "2"
+    },
+    {
+      "title": "Supply Chain Management",
+      "count": "1"
+    },
+    {
+      "title": "Systems Engineering",
+      "count": "1"
+    },
+    {
+      "title": "Continuous Improvement",
+      "count": "1"
+    },
+    {
+      "title": "Six Sigma",
+      "count": "2"
+    },
+    {
+      "title": "Lean Manufacturing",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "AutoCAD",
+      "count": "1"
+    },
+    {
+      "title": "Minitab",
+      "count": "5"
+    },
+    {
+      "title": "SPSS",
+      "count": "6"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    },
+    {
+      "title": "Leadership",
+      "count": "6"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "6"
+    },
+    {
+      "title": "Management",
+      "count": "6"
+    },
+    {
+      "title": "Customer Service",
+      "count": "1"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Team Management",
+      "count": "1"
+    },
+    {
+      "title": "RStudio",
+      "count": "2"
+    },
+    {
+      "title": "Rodeo",
+      "count": "1"
+    },
+    {
+      "title": "Spider",
+      "count": "1"
+    },
+    {
+      "title": "Engineering Statistics",
+      "count": "1"
+    },
+    {
+      "title": "Logistics Engineering",
+      "count": "2"
+    },
+    {
+      "title": "Resource Allocation",
+      "count": "1"
+    },
+    {
+      "title": "Production Operations",
+      "count": "1"
+    },
+    {
+      "title": "ProModel",
+      "count": "1"
+    },
+    {
+      "title": "Original Research",
+      "count": "1"
+    },
+    {
+      "title": "Lifeguarding",
+      "count": "1"
+    },
+    {
+      "title": "Aggregate Planning",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Analytics For Supply Chain",
+        "Design of Experiments",
+        "Engineering Statistics",
+        "Leading 6 Sigma Improvement",
+        "Logistics For Supply Chain",
+        "Operations Planning And Control",
+        "Systems Simulation"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Design of Experiments for Paper Airplanes.",
+        "Leading 6 Sigma process improvement at \"Peacock Indian Cuisine Restaurant\"",
+        "Develop a production plan at “Vikings Enterprise”",
+        "Optimizing the Resource Allocation Strategy for \"Spartan Farms\"",
+        "Statistical Data Analysis using Regression",
+        "Cooling and Heating Jacket",
+        "Magneto Hydro Dynamics (MHD) propulsion boat"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-kale-b17a7464/",
+      "text": "Software Engineering Intern at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shikhar-chawla-bbaa84129/",
+      "text": "Quality Intern at Finisar Corporation (NASDAQ: FNSR)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikhil-saxena9954/",
+      "text": "Graduate Student at SJSU and actively seeking challenging internships and full-time oppurtunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/riti-gupta-17909915/",
+      "text": "SWE Intern II at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/surdeep-chotaliya/",
+      "text": "Seeking Internship for summer 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hriday-patel-cmit-1aa36b169/",
+      "text": "Project Engineer Intern at Thalle Construction Company, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ajinkya-bhosale95/",
+      "text": "Quality Engineering Intern at MASS Precision, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jayt310/",
+      "text": "Toshiba International Corporation | Manufacturing Intern in Hybrid Electric Vehicle (HEV) Dept. | Masters in Industrial"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jainsupriya30/",
+      "text": "Software Engineer Intern at Clover Network, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/poojaramaswamy24/",
+      "text": "Actively seeking Co-op/full-time opportunities from Sept '19. Pursuing Masters in Computer Engineering in Data Science."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Het Shah",
+    "headline": "Quality Engineering Intern at FUJIFILM Dimatix, Inc.",
+    "location": "San Francisco Bay Area",
+    "connections": "282",
+    "summary": "I am a graduate student at San Jose State University and currently pursuing masters in Industrial and Systems Engineering with dual specialization in Production-Quality Assurance and Supply Chain & Logistics Engineering. Currently, I am Seeking a position in an organization where I can portray my technical abilities and knowledge to contribute for the growth of the organization simultaneously helping me to fulfill my career objective and widen the knowledge in this rapidly changing field."
+  }
+}
